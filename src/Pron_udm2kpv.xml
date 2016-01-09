@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r xml:lang="udm">
+<r id="udmkpv" xml:lang="udm">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov, Giellatekno at UiT, Divvun at the
+          Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+
 <e><lg><l pos="Pron">ваньмыз</l><stg><st>ваньмыз</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">ставыс</t><t pos="Pron">быдтор</t></tg><xg><x>Ваньмыз умой</x><xt xml:lang="kpv">Ставыс бур</xt></xg></mg></e>
 <e><lg><l pos="Pron">кин</l><stg><st>кин</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">кодi, _i_ӧтк¡_/i_ _i_пк¡_/i_ _i_лл¡_/i_ кин</t></tg><xg><x>Кин уг ужа, со уг сиы</x><xt xml:lang="kpv">Кодi оз уджав, сiйӧ оз сёй</xt></xg></mg></e>
 <e><lg><l pos="Pron">котькин</l><stg><st>котькин</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">быдӧн, код кӧть</t></tg></mg></e>

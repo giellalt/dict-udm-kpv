@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r xml:lang="udm">
+<r id="udmkpv" xml:lang="udm">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov, Giellatekno at UiT, Divvun at the
+          Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+
 <e><lg><l pos="Pcle">бен</l><stg><st>бен</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pcle">_i_кт¡_/i_ 1) да</t><t pos="Pcle">сiдз-сiдз</t><t pos="Pcle">но</t></tg></mg><mg><tg xml:lang="kpv"><t pos="Pcle">жӧ</t><t pos="Pcle">нӧ</t></tg></mg></e>
 <e><lg><l pos="Pcle">бон</l><stg><st>бон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pcle">_i_сёрнис¡_/i_ да</t><t pos="Pcle">сiдз-сiдз, = </t></tg><xg><x>бен</x><xt xml:lang="kpv"></xt></xg></mg></e>
 <e><lg><l pos="Pcle">ведь</l><stg><st>ведь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pcle">ӧд</t></tg></mg></e>
