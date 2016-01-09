@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e><lg><l pos="Interj">выжт</l><stg><st>выжт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">шеть, мун, весась</t></tg><xg><x>Выжт татысь!</x><xt xml:lang="kpv">Весась тась!</xt></xg></mg></e>
+<e><lg><l pos="Interj">ак</l><stg><st>ак</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">ок</t></tg><xg><x>Ак, кыӵе жаль!</x><xt xml:lang="kpv">Ок кутшӧм жаль!</xt></xg></mg></e>
+<e><lg><l pos="Interj">акач-тукач</l><stg><st>акач-тукач</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">лёльӧ</t><t pos="Interj">йӧлӧ-вӧлӧ</t></tg></mg></e>
+<e><lg><l pos="Interj">али</l><stg><st>али</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">вай</t><t pos="Interj">жӧ</t></tg><xg><x>Самовардэ пукты али, ой, уроме</x><xt xml:lang="kpv">Самӧвартӧ пукты вай но, ёртӧй</xt></xg></mg></e>
+</r>
