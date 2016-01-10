@@ -88,6 +88,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="V">вамыштыны</l><stg><st>вамыштыны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">воськовтны</t><t pos="V">воськов вӧчны</t></tg></mg></e>
 <e><lg><l pos="V">вамышъяны</l><stg><st>вамышъяны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">восьлавны</t></tg></mg></e>
 <e><lg><l pos="V">вандыны</l><stg><st>вандыны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">вундыны</t><t pos="V">вундавны</t></tg></mg><mg><tg xml:lang="kpv"><t pos="V">начкыны</t></tg><xg><x>парсь вандыны</x><xt xml:lang="kpv">порсь начкыны</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="V">пилитны</t></tg><xg><x>пу вандыны</x><xt xml:lang="kpv">пес пилитны</xt></xg></mg></e>
+<e><lg><l pos="V">вань</l><stg><st>вань</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">эм</t></tg><xg><x>Отын гурт вань</x><xt xml:lang="kpv">Сэнi сикт эм</xt></xg></mg></e>
 <e><lg><l pos="V">ваньмыны</l><stg><st>ваньмыны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">прӧстмыны</t><t pos="V">прӧст лоны</t></tg></mg></e>
 <e><lg><l pos="V">вараны</l><stg><st>вараны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">ниртны</t><t pos="V">мавтны</t></tg></mg></e>
 <e><lg><l pos="V">васьканы</l><stg><st>васьканы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">лэччавны</t></tg><xg><x>улӥе васьканы</x><xt xml:lang="kpv">улӧ лэччавлыны</xt></xg></mg></e>
@@ -845,4 +846,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="V">явиськыны</l><stg><st>явиськыны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">лоны</t><t pos="V">чужны</t><t pos="V">петны</t></tg><xg><x>Син азям явиськиз</x><xt xml:lang="kpv">Син водзам лои-петi</xt></xg></mg></e>
 <e><lg><l pos="V">яраны</l><stg><st>яраны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">кажитчыны, сьӧлӧм вылӧ воны</t></tg></mg><mg><tg xml:lang="kpv"><t pos="V">ковмыны, ковны</t></tg></mg><mg><tg xml:lang="kpv"><t pos="V">туйны, лӧсявны</t></tg></mg></e>
 <e><lg><l pos="V">яратыны</l><stg><st>яратыны</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">радейтны</t></tg><xg><x>нылэз яратыны</x><xt xml:lang="kpv">нылӧс радейтны</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="V">пыдди пуктыны</t></tg></mg></e>
+<e><lg><l pos="V">судить карыны</l><stg><st>судить карыны</st></stg></lg><mg><tg xml:lang="kpv"><t>ёрдны, судитны</t></tg></mg></e>
+<e><lg><l pos="V">ӧвӧл</l><stg><st>ӧвӧл</st></stg></lg><mg><tg xml:lang="kpv"><t>абу</t></tg><xg><x>Ӧвӧллэн судэз ӧвӧл</x><xt xml:lang="kpv">Абутӧмсьыс нем он босьт, _i_ӧтк¡_/i_ На нет и суда нет</xt></xg></mg></e>
 </r>

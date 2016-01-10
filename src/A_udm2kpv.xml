@@ -108,7 +108,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="A">сиро</l><stg><st>сиро</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">сира, сирӧсь</t></tg></mg></e>
 <e><lg><l pos="A">сонгро</l><stg><st>сонгро</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">пельтӧм</t></tg></mg></e>
 <e><lg><l pos="A">сьӧд</l><stg><st>сьӧд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">сьӧд</t></tg><xg><x>сьӧд нянь</x><xt xml:lang="kpv">сьӧд нянь</xt></xg></mg></e>
-<e><lg><l pos="A">сьӧр</l><pos>A</pos><l>сьӧр</l><stg><st>сьӧр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">I абу ас, бокӧвӧй</t></tg><xg><x>сьӧр мурт</x><xt xml:lang="kpv">бокӧвӧй морт</xt></xg></mg></e>
+<e><lg><l pos="A">сьӧр</l><pos>A</pos><l pos="A">сьӧр</l><stg><st>сьӧр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">I абу ас, бокӧвӧй</t></tg><xg><x>сьӧр мурт</x><xt xml:lang="kpv">бокӧвӧй морт</xt></xg></mg></e>
 <e><lg><l pos="A">сюлмо</l><stg><st>сюлмо</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">зiль, кывзысьысь, старайтчысь</t></tg><xg><x>сюлмо нылпиос</x><xt xml:lang="kpv">кывзысьысь нывпи</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="A">зiля, старайтчӧмӧн, бура</t></tg><xg><x>сюлмо дышетскыны</x><xt xml:lang="kpv">бура велӧдчыны</xt></xg></mg></e>
 <e><lg><l pos="A">сюртэм</l><stg><st>сюртэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">сюртӧм</t></tg></mg></e>
 <e><lg><l pos="A">сютэм</l><stg><st>сютэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">тшыг, сёйтӧм</t></tg><xg><x>сютэм кион кадь</x><xt xml:lang="kpv">тшыг кӧин кодь</xt></xg><xg><x>Няньтэк улон — сютэм бырон</x><xt xml:lang="kpv">Няньтӧг олӧм — тшыгысь кулӧм</xt></xg></mg></e>
@@ -166,4 +166,85 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="A">бурдтэм</l><stg><st>бурдтэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">бордтӧм</t></tg></mg></e>
 <e><lg><l pos="A">быгылес</l><stg><st>быгылес</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">гӧгрӧс</t></tg></mg></e>
 <e><lg><l pos="A">яркыт-горд</l><stg><st>яркыт-горд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="A">югыдгӧрд, алӧй</t></tg></mg></e>
+<e><lg><l pos="A">шузи</l><stg><st>шузи</st></stg></lg><mg><tg xml:lang="kpv"><t>бӧб, йӧй, абу тыр сюсь</t></tg></mg></e>
+<e><lg><l pos="A">шулдыр</l><stg><st>шулдыр</st></stg></lg><mg><tg xml:lang="kpv"><t>гажа, бур, мича</t></tg><xg><x>урамын шулдыр</x><xt xml:lang="kpv">ывлаын, улич вылын гажа</xt></xg><xg><x>Шулдыр ӵукнаен, эшъёсы!</x><xt xml:lang="kpv">Бур асыв, ёртъясӧй!</xt></xg></mg></e>
+<e><lg><l pos="A">шуныт</l><stg><st>шуныт</st></stg></lg><mg><tg xml:lang="kpv"><t>шоныд</t></tg><xg><x>шуныт куазь</x><xt xml:lang="kpv">шоныд поводдя</xt></xg></mg></e>
+<e><lg><l pos="A">шуоно</l><stg><st>шуоно</st></stg></lg><mg><tg xml:lang="kpv"><t>сiдз шуана</t></tg></mg></e>
+<e><lg><l pos="A">шурдыт</l><stg><st>шурдыт</st></stg></lg><mg><tg xml:lang="kpv"><t>повзьӧдана, полана, ӧпаснӧй</t></tg></mg></e>
+<e><lg><l pos="A">шыпыт</l><stg><st>шыпыт</st></stg></lg><mg><tg xml:lang="kpv"><t>лӧнь</t></tg></mg><mg><tg xml:lang="kpv"><t>лӧня</t></tg><xg><x>Пиналъёс шыпыт пуко</x><xt xml:lang="kpv">Челядь лӧня пукалӧны</xt></xg></mg></e>
+<e><lg><l pos="A">вольыт</l><stg><st>вольыт</st></stg></lg><mg><tg xml:lang="kpv"><t>шыльыд, мольыд, волькыд</t></tg></mg><mg><tg xml:lang="kpv"><t>шыльыда</t></tg><xg><x>вольыт вераськыны</x><xt xml:lang="kpv">шыльыда сёрнитны</xt></xg></mg></e>
+<e><lg><l pos="A">вӧлмыт</l><stg><st>вӧлмыт</st></stg></lg><mg><tg xml:lang="kpv"><t>ота, зэв паськыд</t></tg><xg><x>вӧлмыт инбам</x><xt xml:lang="kpv">паськыд енэж</xt></xg></mg></e>
+<e><lg><l pos="A">йыгмыт</l><stg><st>йыгмыт</st></stg></lg><mg><tg xml:lang="kpv"><t>зумыд, крепыд</t></tg></mg><mg><tg xml:lang="kpv"><t>зумыда, крепыда</t></tg></mg></e>
+<e><lg><l pos="A">кезьыт</l><stg><st>кезьыт</st></stg></lg><mg><tg xml:lang="kpv"><t>кӧдзыд</t></tg><xg><x>Кезьыт луиз</x><xt xml:lang="kpv">Кӧдздӧдiс</xt></xg><xg><x>Туннэ кезьыт ӧвӧл</x><xt xml:lang="kpv">Талун абу кӧдзыд</xt></xg></mg></e>
+<e><lg><l pos="A">кузьыт</l><stg><st>кузьыт</st></stg></lg><mg><tg xml:lang="kpv"><t>сола, вывтi сола, курыд сов</t></tg></mg></e>
+<e><lg><l pos="A">курыт</l><stg><st>курыт</st></stg></lg><mg><tg xml:lang="kpv"><t>курыд, курыдтор</t></tg><xg><x>курытсэ юыны</x><xt xml:lang="kpv">курыдтор юны</xt></xg></mg><mg><tg xml:lang="kpv"><t>ёсь</t></tg><xg><x>Мадьяр сион-юон укыр курыт</x><xt xml:lang="kpv">Венгр сёяныс вывтi ёсь</xt></xg></mg></e>
+<e><lg><l pos="A">кышкыт</l><stg><st>кышкыт</st></stg></lg><mg><tg xml:lang="kpv"><t>повзьӧдлана, полӧга</t></tg><xg><x>кышкыт адями</x><xt xml:lang="kpv">повзьӧдчана морт</xt></xg></mg></e>
+<e><lg><l pos="A">лачмыт</l><stg><st>лачмыт</st></stg></lg><mg><tg xml:lang="kpv"><t>лӧнь, рам</t></tg><xg><x>лачмыт пияш</x><xt xml:lang="kpv">лӧнь зонка</xt></xg><xg><x>лачмыт пинал</x><xt xml:lang="kpv">лӧнь кага</xt></xg></mg></e>
+<e><lg><l pos="A">лэчыт</l><stg><st>лэчыт</st></stg></lg><mg><tg xml:lang="kpv"><t>лэчыд, ёсь</t></tg><xg><x>лэчыт карыны</x><xt xml:lang="kpv">лэчтавны, ёсьтыны</xt></xg></mg></e>
+<e><lg><l pos="A">люкыт</l><stg><st>люкыт</st></stg></lg><mg><tg xml:lang="kpv"><t>дзескыд</t></tg></mg><mg><tg xml:lang="kpv"><t>дзескыда</t></tg></mg></e>
+<e><lg><l pos="A">лякыт</l><stg><st>лякыт</st></stg></lg><mg><tg xml:lang="kpv"><t>вежавидзысь, кывзысьысь</t></tg></mg></e>
+<e><lg><l pos="A">мальдыт</l><stg><st>мальдыт</st></stg></lg><mg><tg xml:lang="kpv"><t>синмӧ шыбитчанаа, вывтi моднӧя</t></tg><xg><x>мальдыт дӥсяськыны</x><xt xml:lang="kpv">вывтi мичаа пасьтасьны</xt></xg></mg></e>
+<e><lg><l pos="A">мӧзмыт</l><stg><st>мӧзмыт</st></stg></lg><mg><tg xml:lang="kpv"><t>гажтӧм, жугыль</t></tg></mg></e>
+<e><lg><l pos="A">небыт</l><stg><st>небыт</st></stg></lg><mg><tg xml:lang="kpv"><t>небыд</t></tg><xg><x>небыт лымы</x><xt xml:lang="kpv">небыд лым</xt></xg></mg></e>
+<e><lg><l pos="A">ортчыт</l><stg><st>ортчыт</st></stg></lg><mg><tg xml:lang="kpv"><t>вывтi, зэв ёна</t></tg></mg></e>
+<e><lg><l pos="A">паськыт</l><stg><st>паськыт</st></stg></lg><mg><tg xml:lang="kpv"><t>паськыд</t></tg><xg><x>паськыт урам</x><xt xml:lang="kpv">паськыд пурысь, улич</xt></xg></mg></e>
+<e><lg><l pos="A">пеймыт</l><stg><st>пеймыт</st></stg></lg><mg><tg xml:lang="kpv"><t>пемыд</t></tg><xg><x>пеймыт уй</x><xt xml:lang="kpv">пемыд вой</xt></xg><xg><x>Пеймыт дунне!</x><xt xml:lang="kpv">Дзик гӧгӧрвотӧмтор!</xt></xg></mg></e>
+<e><lg><l pos="A">сайкыт</l><stg><st>сайкыт</st></stg></lg><mg><tg xml:lang="kpv"><t>ыркыд, свеж</t></tg></mg></e>
+<e><lg><l pos="A">секыт</l><stg><st>секыт</st></stg></lg><mg><tg xml:lang="kpv"><t>сьӧкыд</t></tg><xg><x>Туж секыт вал</x><xt xml:lang="kpv">Зэв сьӧкыд вӧлi</xt></xg></mg></e>
+<e><lg><l pos="A">сэрыт</l><stg><st>сэрыт</st></stg></lg><mg><tg xml:lang="kpv"><t>ӧдйӧ, перыда</t></tg></mg></e>
+<e><lg><l pos="A">чалмыт</l><stg><st>чалмыт</st></stg></lg><mg><tg xml:lang="kpv"><t>лӧнь</t></tg></mg><mg><tg xml:lang="kpv"><t>лӧня, ланьтӧмӧн</t></tg></mg></e>
+<e><lg><l pos="A">ческыт</l><stg><st>ческыт</st></stg></lg><mg><tg xml:lang="kpv"><t>юмов</t></tg><xg><x>ческыт шоколад</x><xt xml:lang="kpv">юмов шоколад</xt></xg><xg><x>ческыт канфет</x><xt xml:lang="kpv">юмов капмет</xt></xg></mg><mg><tg xml:lang="kpv"><t>чӧскыд</t></tg><xg><x>ческыт шыд</x><xt xml:lang="kpv">чӧскыд шыд</xt></xg><xg><x>ческыт ум</x><xt xml:lang="kpv">чӧскыд ун</xt></xg><xg><x>Ческыт мед кошкоз (потоз)!</x><xt xml:lang="kpv">Нянь да сов! (кк. Чӧскыдыс мед воас-петас!)</xt></xg></mg></e>
+<e><lg><l pos="A">чурыт</l><stg><st>чурыт</st></stg></lg><mg><tg xml:lang="kpv"><t>чорыд, топыд</t></tg></mg><mg><tg xml:lang="kpv"><t>скуп, надз</t></tg><xg><x>чурыт мурт</x><xt xml:lang="kpv">скуп морт, </xt></xg><xg><x>чурыт пус</x><xt xml:lang="kpv">чорыд пас</xt></xg></mg><mg><tg xml:lang="kpv"><t>топыда</t></tg></mg></e>
+<e><lg><l pos="A">чылкыт</l><stg><st>чылкыт</st></stg></lg><mg><tg xml:lang="kpv"><t>сӧстӧм, пельк</t></tg><xg><x>чылкыт омыр</x><xt xml:lang="kpv">сӧстӧм сынӧд</xt></xg></mg></e>
+<e><lg><l pos="A">шырыт</l><stg><st>шырыт</st></stg></lg><mg><tg xml:lang="kpv"><t>лышкыд</t></tg></mg></e>
+<e><lg><l pos="A">ыркыт</l><stg><st>ыркыт</st></stg></lg><mg><tg xml:lang="kpv"><t>ыркыд, свеж</t></tg><xg><x>ыркыт тӧл</x><xt xml:lang="kpv">ыркыд тӧв</xt></xg></mg></e>
+<e><lg><l pos="A">югыт</l><stg><st>югыт</st></stg></lg><mg><tg xml:lang="kpv"><t>югыд</t></tg><xg><x>Коркан югыт луиз</x><xt xml:lang="kpv">Керкаын югыд лои</xt></xg></mg></e>
+<e><lg><l pos="A">юзмыт</l><stg><st>юзмыт</st></stg></lg><mg><tg xml:lang="kpv"><t>ыркыд, сӧстӧм</t></tg><xg><x>юзмыт омыр</x><xt xml:lang="kpv">сӧстӧм сынӧд</xt></xg></mg></e>
+<e><lg><l pos="A">яркыт</l><stg><st>яркыт</st></stg></lg><mg><tg xml:lang="kpv"><t>яръюгыд</t></tg><xg><x>Тон яркыт кизили кадь</x><xt xml:lang="kpv">Тэ яръюгыд кодзув кодь</xt></xg></mg></e>
+<e><lg><l pos="A">ӝикыт</l><stg><st>ӝикыт</st></stg></lg><mg><tg xml:lang="kpv"><t>пельк, сӧстӧм, лӧсьыд, ӧкуратнӧй</t></tg></mg><mg><tg xml:lang="kpv"><t>видзтысь, абу таргайтысь</t></tg></mg><mg><tg xml:lang="kpv"><t>зэлыд, зэлыда</t></tg></mg></e>
+<e><lg><l pos="A">ӝокыт</l><stg><st>ӝокыт</st></stg></lg><mg><tg xml:lang="kpv"><t>пӧдтана, жар, дука</t></tg></mg><mg><tg xml:lang="kpv"><t>зэв ылыс, бокысса</t></tg><xg><x>ӝокыт тэль</x><xt xml:lang="kpv">сьӧд вӧр</xt></xg></mg></e>
+<e><lg><l pos="A">ӝужыт</l><stg><st>ӝужыт</st></stg></lg><mg><tg xml:lang="kpv"><t>джуджыд, кузь</t></tg><xg><x>> адями</x><xt xml:lang="kpv">джуджыд морт</xt></xg></mg></e>
+<e><lg><l pos="A">ӝуйӟектэм</l><stg><st>ӝуйӟектэм</st></stg></lg><mg><tg xml:lang="kpv"><t>нитшсялӧм</t></tg><xg><x>> кыпы</x><xt xml:lang="kpv">нитшсялӧм колода</xt></xg></mg></e>
+<e><lg><l pos="A">ӟоскыт</l><stg><st>ӟоскыт</st></stg></lg><mg><tg xml:lang="kpv"><t>дзескыд, векньыд, топыд</t></tg></mg><mg><tg xml:lang="kpv"><t>лӧнь</t></tg></mg><mg><tg xml:lang="kpv"><t>лӧня</t></tg><xg><x>> улыны</x><xt xml:lang="kpv">лӧня овны</xt></xg></mg></e>
+<e><lg><l pos="A">ӟырдыт</l><stg><st>ӟырдыт</st></stg></lg><mg><tg xml:lang="kpv"><t>пӧсь, биа пӧсь, > </t></tg><xg><x>сюлэм</x><xt xml:lang="kpv">пӧсь сьӧлӧм</xt></xg></mg><mg><tg xml:lang="kpv"><t>ӧдйӧ пузьысь, крут, > </t></tg><xg><x>адями</x><xt xml:lang="kpv">ӧдйӧ пузьысь морт</xt></xg></mg><mg><tg xml:lang="kpv"><t>пӧся</t></tg></mg></e>
+<e><lg><l pos="A">ӵошкыт</l><stg><st>ӵошкыт</st></stg></lg><mg><tg xml:lang="kpv"><t>шыльыд, тшӧтшкӧс, ляпкӧс</t></tg><xg><x>ӵошкыт тэркы</x><xt xml:lang="kpv">ляпкӧс тасьтi</xt></xg><xg><x>Дышетскымтэ муртлы дунне ӵошкыт</x><xt xml:lang="kpv">Велӧдчытӧм мортлы муюгыдыс шыльыд</xt></xg></mg></e>
+<e><lg><l pos="A">валано</l><stg><st>валано</st></stg></lg><mg><tg xml:lang="kpv"><t>гӧгӧрвоана</t><t>вежӧртана</t></tg></mg></e>
+<e><lg><l pos="A">егит</l><stg><st>егит</st></stg></lg><mg><tg xml:lang="kpv"><t>том</t></tg><xg><x>егит пияш</x><xt xml:lang="kpv">том зон</xt></xg><xg><x>егит дыр</x><xt xml:lang="kpv">томлун</xt></xg></mg></e>
+<e><lg><l pos="A">пересь</l><stg><st>пересь</st></stg></lg><mg><tg xml:lang="kpv"><t>пӧрысь, олӧма</t></tg><xg><x>пересь анай</x><xt xml:lang="kpv">пӧрысь мам</xt></xg><xg><x>пересь дыр</x><xt xml:lang="kpv">пӧрысь кад</xt></xg><xg><x>пересь пужым</x><xt xml:lang="kpv">пӧрысь пожӧм</xt></xg></mg></e>
+<e><lg><l pos="A">вераськись</l><stg><st>вераськись</st></stg></lg><mg><tg xml:lang="kpv"><t>варов</t><t>кыв-вора</t><t>сёрниа</t></tg></mg></e>
+<e><lg><l pos="A">веськрес</l><stg><st>веськрес</st></stg></lg><mg><tg xml:lang="kpv"><t>статя</t><t>мича мыгӧра</t></tg><xg><x>веськрес льӧмпу</x><xt xml:lang="kpv">статя льӧм пу</xt></xg><xg><x>веськрес мугоръем</x><xt xml:lang="kpv">мича мыгӧра</xt></xg></mg></e>
+<e><lg><l pos="A">веськырес</l><stg><st>веськырес</st></stg></lg><mg><tg xml:lang="kpv"><t>статя</t><t>лӧсьыд мыгӧра</t></tg><xg><x>веськырес ныл</x><xt xml:lang="kpv">статя ныв</xt></xg></mg></e>
+<e><lg><l pos="A">визьтэм</l><stg><st>визьтэм</st></stg></lg><mg><tg xml:lang="kpv"><t>йӧй</t><t>бӧб</t><t>вежӧртӧм</t></tg></mg></e>
+<e><lg><l pos="A">вожо</l><stg><st>вожо</st></stg></lg><mg><tg xml:lang="kpv"><t>веж</t><t>турунвиж</t></tg><xg><x>Ожо вожо, ожо вожо</x><xt xml:lang="kpv">Туруныс веж, туруныс веж</xt></xg></mg></e>
+<e><lg><l pos="A">ворпо</l><stg><st>ворпо</st></stg></lg><mg><tg xml:lang="kpv"><t>уна рӧма, уна сера</t></tg><xg><x>Вуюись ворпо</x><xt xml:lang="kpv">Ӧшкамӧшка уна рӧма</xt></xg></mg></e>
+<e><lg><l pos="A">вуоно</l><stg><st>вуоно</st></stg></lg><mg><tg xml:lang="kpv"><t>локтан, лоан, воан</t></tg><xg><x>вуоно арын</x><xt xml:lang="kpv">локтан воын</xt></xg><xg><x>вуоно инженеръёс</x><xt xml:lang="kpv">лоана инженеръяс</xt></xg><xg><x>_i_кывтуял¡_/i_ вуоно дыр</x><xt xml:lang="kpv">локтан кад (кадакывлӧн)</xt></xg></mg></e>
+<e><lg><l pos="A">дуно</l><stg><st>дуно</st></stg></lg><mg><tg xml:lang="kpv"><t>дона</t></tg><xg><x>дуно эше</x><xt xml:lang="kpv">дона ёртӧй</xt></xg><xg><x>Мумы-айы зарнилэсь но дуно</x><xt xml:lang="kpv">Ай-мам зарниысь на дона</xt></xg></mg></e>
+<e><lg><l pos="A">изо</l><stg><st>изо</st></stg></lg><mg><tg xml:lang="kpv"><t>изъя, изйӧсь</t></tg></mg></e>
+<e><lg><l pos="A">кускылио</l><stg><st>кускылио</st></stg></lg><mg><tg xml:lang="kpv"><t>колля</t></tg><xg><x>кускылио писпу</x><xt xml:lang="kpv">колля пу</xt></xg></mg></e>
+<e><lg><l pos="A">кучырмо</l><stg><st>кучырмо</st></stg></lg><mg><tg xml:lang="kpv"><t>орда, визяорда</t></tg></mg></e>
+<e><lg><l pos="A">луо</l><stg><st>луо</st></stg></lg><mg><tg xml:lang="kpv"><t>лыа</t></tg><xg><x>луо сюрес</x><xt xml:lang="kpv">лыа туй</xt></xg><xg><x>луо музъем</x><xt xml:lang="kpv">лыаа му</xt></xg></mg></e>
+<e><lg><l pos="A">луоно</l><stg><st>луоно</st></stg></lg><mg><tg xml:lang="kpv"><t>лоана, воана, лоны вермана</t></tg></mg></e>
+<e><lg><l pos="A">луонъя</l><stg><st>луонъя</st></stg></lg><mg><tg xml:lang="kpv"><t>_i_кывтуял¡_/i_ сослагательнӧй</t></tg><xg><x>луонъя сямлык</x><xt xml:lang="kpv">сослагательнӧй сёрнитанног</xt></xg></mg></e>
+<e><lg><l pos="A">лусьтро</l><stg><st>лусьтро</st></stg></lg><mg><tg xml:lang="kpv"><t>кузь, пашкыр гӧна</t></tg><xg><x>лусьтро гондыр</x><xt xml:lang="kpv">кузь гӧна ош</xt></xg></mg><mg><tg xml:lang="kpv"><t>кузь юрсиа</t></tg></mg></e>
+<e><lg><l pos="A">лысо</l><stg><st>лысо</st></stg></lg><mg><tg xml:lang="kpv"><t>лыска</t></tg><xg><x>лысо писпуос</x><xt xml:lang="kpv">лыска пуяс</xt></xg></mg></e>
+<e><lg><l pos="A">нюро</l><stg><st>нюро</st></stg></lg><mg><tg xml:lang="kpv"><t>нюра</t></tg><xg><x>нюро инты</x><xt xml:lang="kpv">нюраин</xt></xg></mg></e>
+<e><lg><l pos="A">осконо</l><stg><st>осконо</st></stg></lg><mg><tg xml:lang="kpv"><t>эскана, эскӧдана</t></tg><xg><x>осконо мурт</x><xt xml:lang="kpv">эскана морт, сылы позьӧ эскыны</xt></xg></mg></e>
+<e><lg><l pos="A">пумо</l><stg><st>пумо</st></stg></lg><mg><tg xml:lang="kpv"><t>пома</t></tg><xg><x>лэчыт пумо</x><xt xml:lang="kpv">лэчыд пома</xt></xg><xg><x>пӧртэм пумо</x><xt xml:lang="kpv">уна сикас</xt></xg></mg></e>
+<e><lg><l pos="A">суро</l><stg><st>суро</st></stg></lg><mg><tg xml:lang="kpv"><t>сора, сораса</t></tg></mg></e>
+<e><lg><l pos="A">сылало</l><stg><st>сылало</st></stg></lg><mg><tg xml:lang="kpv"><t>сола</t></tg><xg><x>Сылало шыдэз курыт ӧвӧл</x><xt xml:lang="kpv">Сола шыдыд абу курыд</xt></xg></mg></e>
+<e><lg><l pos="A">сюро</l><stg><st>сюро</st></stg></lg><mg><tg xml:lang="kpv"><t>сюра</t></tg><xg><x>пал сюро</x><xt xml:lang="kpv">сюр пӧла</xt></xg></mg></e>
+<e><lg><l pos="A">тодосо</l><stg><st>тодосо</st></stg></lg><mg><tg xml:lang="kpv"><t>туялан, наукаа</t></tg><xg><x>тодосо фантастика</x><xt xml:lang="kpv">туялан фантастика</xt></xg></mg></e>
+<e><lg><l pos="A">туго</l><stg><st>туго</st></stg></lg><mg><tg xml:lang="kpv"><t>тугъя, сыръя</t></tg><xg><x>туго ӝӧккышет</x><xt xml:lang="kpv">тугъя пызандӧра</xt></xg></mg></e>
+<e><lg><l pos="A">тумошо</l><stg><st>тумошо</st></stg></lg><mg><tg xml:lang="kpv"><t>тешкодь</t></tg><xg><x>тумошо суред</x><xt xml:lang="kpv">карикатура</xt></xg><xg><x>Тумошо потэ</x><xt xml:lang="kpv">Серам петӧ</xt></xg></mg></e>
+<e><lg><l pos="A">тыро</l><stg><st>тыро</st></stg></lg><mg><tg xml:lang="kpv"><t>тыра (дозмук йылысь)</t></tg></mg><mg><tg xml:lang="kpv"><t>кыйдӧса (вӧралысь йылысь)</t></tg></mg></e>
+<e><lg><l pos="A">тыршись</l><stg><st>тыршись</st></stg></lg><mg><tg xml:lang="kpv"><t>зiльысь, мырсьысь, зэв уджач</t></tg></mg></e>
+<e><lg><l pos="A">тӧло</l><stg><st>тӧло</st></stg></lg><mg><tg xml:lang="kpv"><t>тӧла</t></tg><xg><x>Туннэ туж тӧло</x><xt xml:lang="kpv">Талун зэв тӧла</xt></xg></mg></e>
+<e><lg><l pos="A">урдо</l><stg><st>урдо</st></stg></lg><mg><tg xml:lang="kpv"><t>орда, визяорда</t></tg></mg></e>
+<e><lg><l pos="A">чорыго</l><stg><st>чорыго</st></stg></lg><mg><tg xml:lang="kpv"><t>чериа</t></tg><xg><x>чорыго шур</x><xt xml:lang="kpv">чериа ю</xt></xg></mg></e>
+<e><lg><l pos="A">шудо</l><stg><st>шудо</st></stg></lg><mg><tg xml:lang="kpv"><t>шуда</t></tg></mg></e>
+<e><lg><l pos="A">шӧръёзо</l><stg><st>шӧръёзо</st></stg></lg><mg><tg xml:lang="kpv"><t>шӧр</t></tg><xg><x>шӧръёзо школа</x><xt xml:lang="kpv">шӧр школа</xt></xg></mg></e>
+<e><lg><l pos="A">яратоно</l><stg><st>яратоно</st></stg></lg><mg><tg xml:lang="kpv"><t>радейтана, муса</t></tg></mg></e>
+<e><lg><l pos="A">ӵуж</l><stg><st>ӵуж</st></stg></lg><mg><tg xml:lang="kpv"><t>виж</t></tg><xg><x>ӵуж губи</x><xt xml:lang="kpv">ручтшак, лисичка</xt></xg><xg><x>ӵуж кышет</x><xt xml:lang="kpv">виж чышъян, </xt></xg><xg><x>ӵуж юбер</x><xt xml:lang="kpv">иволга, _i_пк¡_/i_ дзулимкай</xt></xg></mg></e>
+<e><lg><l pos="A">ӵуказе</l><stg><st>ӵуказе</st></stg></lg><mg><tg xml:lang="kpv"><t>аскиа</t></tg><xg><x>ӵуказе нунал</x><xt xml:lang="kpv">аскиа лун</xt></xg></mg></e>
+<e><lg><l pos="A">ӵукна</l><stg><st>ӵукна</st></stg></lg><mg><tg xml:lang="kpv"><t>асыв, асъя</t></tg><xg><x>ӵукна ӟардэм</x><xt xml:lang="kpv">асъя кыа</xt></xg></mg><mg><tg xml:lang="kpv"><t>асывнас, асылӧ</t></tg></mg></e>
 </r>

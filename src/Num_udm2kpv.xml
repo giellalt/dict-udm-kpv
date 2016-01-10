@@ -28,9 +28,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="Num">куатьтон</l><stg><st>куатьтон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">квайтымын</t></tg></mg></e>
 <e><lg><l pos="Num">куинь</l><stg><st>куинь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">куим</t></tg><xg><x>куинь дышетскисьёс</x><xt xml:lang="kpv">куим велӧдчысь</xt></xg></mg></e>
 <e><lg><l pos="Num">кык</l><stg><st>кык</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">кык</t></tg><xg><x>кык кузя</x><xt xml:lang="kpv">кыкӧн</xt></xg></mg></e>
-<e><lg><l pos="Num">кыкетӥ</l><stg><st>кыкетӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">мӧд, кыкӧд</t></tg><xg><x>сю кыкетӥ</x><xt xml:lang="kpv">сё кыкӧд</xt></xg><xg><x>кыкетӥ улон</x><xt xml:lang="kpv">мӧд пӧв олӧм</xt></xg><xg><x>Тунне кыкетӥ южтолэзь</x><xt xml:lang="kpv">Талун рака тӧлысь кыкӧд лун</xt></xg></mg></e>
 <e><lg><l pos="Num">кыкмос</l><stg><st>кыкмос</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">мӧд юкӧдыс, джын</t></tg></mg></e>
-<e><lg><l pos="Num">нырысетӥ</l><stg><st>нырысетӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">медводдза, первой</t></tg></mg></e>
 <e><lg><l pos="Num">ньыль</l><stg><st>ньыль</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">нёль</t></tg><xg><x>Кык но кык — ньыль</x><xt xml:lang="kpv">Кык да кык — нёль</xt></xg></mg></e>
 <e><lg><l pos="Num">ньыльдон</l><stg><st>ньыльдон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">нелямын</t></tg><xg><x>Апайлы ньыльдон арес</x><xt xml:lang="kpv">Ыджыд чойлы нелямын арӧс</xt></xg></mg></e>
 <e><lg><l pos="Num">ог</l><stg><st>ог</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">ӧти</t></tg><xg><x>Ог нуналэ вуимы</x><xt xml:lang="kpv">Ӧти лунӧ воимӧ</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="Num">гӧгӧр, кымын, матӧ</t></tg></mg></e>
@@ -40,7 +38,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="Num">сюрс</l><stg><st>сюрс</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">сюрс</t></tg></mg></e>
 <e><lg><l pos="Num">тямыс</l><stg><st>тямыс</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">кӧкъямыс</t></tg></mg></e>
 <e><lg><l pos="Num">тямыстон</l><stg><st>тямыстон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">кӧкъямысдас</t></tg></mg></e>
-<e><lg><l pos="Num">тямысэтӥ</l><stg><st>тямысэтӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">кӧкъямысӧд</t></tg></mg></e>
 <e><lg><l pos="Num">укмыс</l><stg><st>укмыс</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">ӧкмыс</t></tg></mg></e>
 <e><lg><l pos="Num">укмыстон</l><stg><st>укмыстон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Num">ӧкмысдас</t></tg></mg></e>
 </r>
