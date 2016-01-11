@@ -54,4 +54,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="Pron">ачид</l><stg><st>ачид</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">ачыд</t></tg></mg></e>
 <e><lg><l pos="Pron">ачиз</l><stg><st>ачиз</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">ачыс</t></tg></mg></e>
 <e><lg><l pos="Pron">ачим</l><stg><st>ачим</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">ачым</t></tg><xg><x>мон ачим</x><xt xml:lang="kpv">ме ачым</xt></xg></mg></e>
+<e><lg><l pos="Pron">милям</l><stg><st>милям</st></stg></lg><mg><tg xml:lang="kpv"><t>миян</t></tg></mg></e>
+<e><lg><l pos="Pron">мынам</l><stg><st>мынам</st></stg></lg><mg><tg xml:lang="kpv"><t>менам</t></tg><xg><x>Мынам отчы ветлэмэ потэ</x><xt xml:lang="kpv">Ме сэтчӧ ветлыны кӧсъя</xt></xg></mg></e>
 </r>

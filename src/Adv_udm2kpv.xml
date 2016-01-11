@@ -146,9 +146,12 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="Adv">берен</l><stg><st>берен</st></stg></lg><mg><tg xml:lang="kpv"><t>бара</t></tg></mg><mg><tg xml:lang="kpv"><t>бӧр</t></tg><xg><x>берен сётыны</x><xt xml:lang="kpv">бӧр сетны</xt></xg></mg></e>
 <e><lg><l pos="Adv">быземын</l><stg><st>быземын</st></stg></lg><mg><tg xml:lang="kpv"><t>верӧс сайын</t></tg><xg><x>Со быземын ини</x><xt xml:lang="kpv">Сiйӧ верӧс сайын нин</xt></xg></mg></e>
 <e><lg><l pos="Adv">ку</l><stg><st>ку</st></stg></lg><mg><tg xml:lang="kpv"><t>кор, кодыр</t></tg><xg><x>Ку со вал?</x><xt xml:lang="kpv">Кор тайӧ вӧлi?</xt></xg></mg></e>
-<e><lg><l>куддыр</l><stg><st>куддыр</st></stg></lg><mg><tg xml:lang="kpv"><t>корсюрӧ, коркӧ</t></tg></mg></e>
-<e><lg><l>куддыръя</l><stg><st>куддыръя</st></stg></lg><mg><tg xml:lang="kpv"><t>корсюрӧ, мукӧддырйи</t></tg></mg></e>
-<e><lg><l>кудпала</l><stg><st>кудпала</st></stg></lg><mg><tg xml:lang="kpv"><t>кутшӧмладорӧ</t></tg></mg></e>
-<e><lg><l>кудпалан</l><stg><st>кудпалан</st></stg></lg><mg><tg xml:lang="kpv"><t>кутшӧмладорын</t></tg></mg></e>
-<e><lg><l>кудпалась</l><stg><st>кудпалась</st></stg></lg><mg><tg xml:lang="kpv"><t>кутшӧмладорысь, кысянь</t></tg></mg></e>
+<e><lg><l pos="Adv">куддыр</l><stg><st>куддыр</st></stg></lg><mg><tg xml:lang="kpv"><t>корсюрӧ, коркӧ</t></tg></mg></e>
+<e><lg><l pos="Adv">куддыръя</l><stg><st>куддыръя</st></stg></lg><mg><tg xml:lang="kpv"><t>корсюрӧ, мукӧддырйи</t></tg></mg></e>
+<e><lg><l pos="Adv">кудпала</l><stg><st>кудпала</st></stg></lg><mg><tg xml:lang="kpv"><t>кутшӧмладорӧ</t></tg></mg></e>
+<e><lg><l pos="Adv">кудпалан</l><stg><st>кудпалан</st></stg></lg><mg><tg xml:lang="kpv"><t>кутшӧмладорын</t></tg></mg></e>
+<e><lg><l pos="Adv">кудпалась</l><stg><st>кудпалась</st></stg></lg><mg><tg xml:lang="kpv"><t>кутшӧмладорысь, кысянь</t></tg></mg></e>
+<e><lg><l pos="Adv">матын</l><stg><st>матын</st></stg></lg><mg><tg xml:lang="kpv"><t>матын</t></tg></mg></e>
+<e><lg><l pos="Adv">матысь</l><stg><st>матысь</st></stg></lg><mg><tg xml:lang="kpv"><t>матысь</t></tg></mg><mg><tg xml:lang="kpv"><t>матысса</t></tg><xg><x>матысь эш</x><xt xml:lang="kpv">матысса ёрт</xt></xg></mg></e>
+<e><lg><l pos="Adv">матэ</l><stg><st>матэ</st></stg></lg><mg><tg xml:lang="kpv"><t>матӧ, матӧджык</t></tg></mg></e>
 </r>
