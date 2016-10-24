@@ -1750,23 +1750,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="Adv">артэ</l>
-     <stg>
-       <st>артэ</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="kpv">
-       <t pos="Adv">_i_кб¡_/i_ орччӧн</t>
-       <t pos="Adv">матӧ</t>
-     </tg>
-     <xg><x>Пуксьы монэн артэ</x>
-       <xt xml:lang="kpv">Пуксьы мекӧд орччӧн</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">бергес</l>
      <stg>
        <st>бергес</st>
@@ -1894,43 +1877,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </xg>
      <xg><x>шори карыны</x>
        <xt xml:lang="kpv">джынвыйӧ бертны, чегны</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">шоры</l>
-     <stg>
-       <st>шоры</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="kpv">
-       <t>_i_кб¡_/i_ шӧрӧ</t>
-       <t pos="Adv"> водзӧ</t>
-     </tg>
-     <xg><x>гондыр шоры укшаны</x>
-       <xt xml:lang="kpv">ош водзӧ веськавны</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">шорын</l>
-     <stg>
-       <st>шорын</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="kpv">
-       <t>_i_кб¡_/i_ шӧрын</t>
-       <t pos="Adv"> водзын</t>
-     </tg>
-     <xg><x>гужем шорын</x>
-       <xt xml:lang="kpv">гожӧм шӧрын</xt>
-     </xg>
-     <xg><x>шунды шорын пукыны</x>
-       <xt xml:lang="kpv">шондi водзын пукавны</xt>
      </xg>
    </mg>
 </e>
