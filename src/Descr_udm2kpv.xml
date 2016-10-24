@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="udmkpv" xml:lang="udm">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+ <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -8,35 +8,284 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov, Giellatekno at UiT, Divvun at the
-          Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
+ Norwegian Saami Parliament,
+ and members of the language communities. Source code
+ available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>
+ THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+ published dictionary. As such it can and
+ will contain unfinished entries, unpublished entries, entries with
+ objectionable translations, etc. If you find any errors or want to add more
+ words, download the file, edit it, and send it back to
+ <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+ Please also note that the entries are not necessarily sorted,
+ or could be wrongly sorted.
+
      </sourcenote></lics>
 
-<e><lg><l pos="Descr">гор-гор</l><stg><st>гор-гор</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">вак-вак</t></tg><xg><x>гор-гор серекъяны</x><xt xml:lang="kpv">вак-вак серавны</xt></xg></mg></e>
-<e><lg><l pos="Descr">жингыр</l><stg><st>жингыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">зиль-зёль, зёлякылӧм</t></tg></mg></e>
-<e><lg><l pos="Descr">жон</l><stg><st>жон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">тiньгӧм, триньгӧм, бовгӧм, звӧн</t></tg></mg></e>
-<e><lg><l pos="Descr">йыг-йыг</l><stg><st>йыг-йыг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">тотш-тотш</t></tg></mg><mg><tg xml:lang="kpv"><t pos="Descr">зумыда</t></tg><xg><x>йыг-йыг сылыны</x><xt xml:lang="kpv">зумыда сулавны</xt></xg></mg></e>
-<e><lg><l pos="Descr">йыг</l><stg><st>йыг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">тотш, тотшкӧдчан шы</t></tg></mg></e>
-<e><lg><l pos="Descr">кече-пеле</l><stg><st>кече-пеле</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr"></t></tg><xg><x>_i_чел¡_/i_ _i_лельк¡_/i_</x><xt xml:lang="kpv">кӧчиль, _i_кк¡_/i_ кӧчӧ-пельӧй</xt></xg></mg></e>
-<e><lg><l pos="Descr">лопыр-лопыр</l><stg><st>лопыр-лопыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">жбыр-жбыр</t></tg></mg></e>
-<e><lg><l pos="Descr">нуш-нуш</l><stg><st>нуш-нуш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">зумыда, сьӧкыда</t></tg></mg></e>
-<e><lg><l pos="Descr">орсь-орсь</l><stg><st>орсь-орсь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">рук-рук (порсь руксан шы)</t></tg></mg></e>
-<e><lg><l pos="Descr">торк</l><stg><st>торк</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">тотш, тотшкӧдчан шы</t></tg></mg></e>
-<e><lg><l pos="Descr">ури-бери</l><stg><st>ури-бери</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">зэв ӧдйӧ, дзик пыр, ӧти здукӧн</t></tg></mg></e>
-<e><lg><l pos="Descr">чиль-чиль</l><stg><st>чиль-чиль</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">са сьӧд, дзик сьӧд, вач сьӧд</t></tg></mg></e>
-<e><lg><l pos="Descr">шап</l><stg><st>шап</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">стӧч, буретш</t></tg></mg><mg><tg xml:lang="kpv"><t pos="Descr">визув, чож, тэрыб</t></tg><xg><x>шап вал</x><xt xml:lang="kpv">тэрыб вӧв</xt></xg></mg></e>
-<e><lg><l pos="Descr">шӧнгыль</l><stg><st>шӧнгыль</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">шушкыль</t></tg><xg><x>шӧнгыль вераськыны</x><xt xml:lang="kpv">шушкыля сёрнитны</xt></xg></mg></e>
-<e><lg><l pos="Descr">юг-юг</l><stg><st>юг-юг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">вывтi еджыд, югыд</t></tg></mg></e>
-<e><lg><l pos="Descr">ӟильыр</l><stg><st>ӟильыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">чип-чип</t></tg><xg><x>ӟильыр карыны</x><xt xml:lang="kpv">чипсыны, сильгыны, тивзыны</xt></xg></mg></e>
-<e><lg><l pos="Descr">ӵаш</l><stg><st>ӵаш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">шум, ыджыд шы</t></tg><xg><x>ӵаш карись адями</x><xt xml:lang="kpv">ыджыд шыа морт, гора морт</xt></xg></mg></e>
-<e><lg><l pos="Descr">ӵаштыр</l><stg><st>ӵаштыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Descr">шаракылӧм, шур-шар шыяс</t></tg></mg></e>
+<e>
+   <lg>
+     <l pos="Descr">гор-гор</l>
+     <stg>
+       <st>гор-гор</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">вак-вак</t>
+     </tg>
+     <xg><x>гор-гор серекъяны</x>
+       <xt xml:lang="kpv">вак-вак серавны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жингыр</l>
+     <stg>
+       <st>жингыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">зиль-зёль, зёлякылӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жон</l>
+     <stg>
+       <st>жон</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">тiньгӧм, триньгӧм, бовгӧм, звӧн</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыг-йыг</l>
+     <stg>
+       <st>йыг-йыг</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">тотш-тотш</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">зумыда</t>
+     </tg>
+     <xg><x>йыг-йыг сылыны</x>
+       <xt xml:lang="kpv">зумыда сулавны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыг</l>
+     <stg>
+       <st>йыг</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">тотш, тотшкӧдчан шы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кече-пеле</l>
+     <stg>
+       <st>кече-пеле</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr"></t>
+     </tg>
+     <xg><x>_i_чел¡_/i_ _i_лельк¡_/i_</x>
+       <xt xml:lang="kpv">кӧчиль, _i_кк¡_/i_ кӧчӧ-пельӧй</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лопыр-лопыр</l>
+     <stg>
+       <st>лопыр-лопыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">жбыр-жбыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">нуш-нуш</l>
+     <stg>
+       <st>нуш-нуш</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">зумыда, сьӧкыда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">орсь-орсь</l>
+     <stg>
+       <st>орсь-орсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">рук-рук (порсь руксан шы)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">торк</l>
+     <stg>
+       <st>торк</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">тотш, тотшкӧдчан шы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ури-бери</l>
+     <stg>
+       <st>ури-бери</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">зэв ӧдйӧ, дзик пыр, ӧти здукӧн</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-чиль</l>
+     <stg>
+       <st>чиль-чиль</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">са сьӧд, дзик сьӧд, вач сьӧд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шап</l>
+     <stg>
+       <st>шап</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">стӧч, буретш</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">визув, чож, тэрыб</t>
+     </tg>
+     <xg><x>шап вал</x>
+       <xt xml:lang="kpv">тэрыб вӧв</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шӧнгыль</l>
+     <stg>
+       <st>шӧнгыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">шушкыль</t>
+     </tg>
+     <xg><x>шӧнгыль вераськыны</x>
+       <xt xml:lang="kpv">шушкыля сёрнитны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юг-юг</l>
+     <stg>
+       <st>юг-юг</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">вывтi еджыд, югыд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟильыр</l>
+     <stg>
+       <st>ӟильыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">чип-чип</t>
+     </tg>
+     <xg><x>ӟильыр карыны</x>
+       <xt xml:lang="kpv">чипсыны, сильгыны, тивзыны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаш</l>
+     <stg>
+       <st>ӵаш</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">шум, ыджыд шы</t>
+     </tg>
+     <xg><x>ӵаш карись адями</x>
+       <xt xml:lang="kpv">ыджыд шыа морт, гора морт</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаштыр</l>
+     <stg>
+       <st>ӵаштыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Descr">шаракылӧм, шур-шар шыяс</t>
+     </tg>
+   </mg>
+</e>
 </r>

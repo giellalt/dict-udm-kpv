@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="udmkpv" xml:lang="udm">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+ <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -8,46 +8,508 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov, Giellatekno at UiT, Divvun at the
-          Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
+ Norwegian Saami Parliament,
+ and members of the language communities. Source code
+ available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>
+ THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+ published dictionary. As such it can and
+ will contain unfinished entries, unpublished entries, entries with
+ objectionable translations, etc. If you find any errors or want to add more
+ words, download the file, edit it, and send it back to
+ <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+ Please also note that the entries are not necessarily sorted,
+ or could be wrongly sorted.
+
      </sourcenote></lics>
 
-<e><lg><l pos="Po">быдӟа</l><stg><st>быдӟа</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">ыджда</t></tg><xg><x>ма быдӟа</x><xt xml:lang="kpv">мый ыджда</xt></xg><xg><x>мушко быдӟа нянь</x><xt xml:lang="kpv">куд ыджда нянь</xt></xg><xg><x>Койык кин быдӟа?</x><xt xml:lang="kpv">Йӧраыс мый ыджда?</xt></xg></mg></e>
-<e><lg><l pos="Po">бӧрсьы</l><stg><st>бӧрсьы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">бӧрысь</t><t pos="Po">бӧрся</t></tg></mg></e>
-<e><lg><l pos="Po">вадескы</l><stg><st>вадескы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ ӧтвесьтӧ</t><t pos="Po">паныд</t><t pos="Po">воча</t></tg></mg></e>
-<e><lg><l pos="Po">вискытӥ</l><stg><st>вискытӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ косттi</t><t pos="Po">пӧвсттi</t></tg></mg></e>
-<e><lg><l pos="Po">вӧзтӥ</l><stg><st>вӧзтӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ дортi, дорӧд</t></tg></mg></e>
-<e><lg><l pos="Po">вӧзы</l><stg><st>вӧзы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ дорӧ, дiнӧ, орччӧн</t></tg><xg><x>тон вӧзы</x><xt xml:lang="kpv">тэ дiнӧ</xt></xg></mg></e>
-<e><lg><l pos="Po">доры</l><stg><st>доры</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ дорӧ</t></tg><xg><x>Ӵуказе ӵужанае доры мынӥсько</x><xt xml:lang="kpv">Аски ыджыд мам дорӧ муна</xt></xg></mg></e>
-<e><lg><l pos="Po">кузьда</l><stg><st>кузьда</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">кузьта</t></tg></mg></e>
-<e><lg><l pos="Po">куспын</l><stg><st>куспын</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ костын</t></tg><xg><x>ӧс куспын</x><xt xml:lang="kpv">ӧдзӧс костын</xt></xg><xg><x>син куспын</x><xt xml:lang="kpv">ӧти здукӧн, син лапнитiгкостi</xt></xg></mg></e>
-<e><lg><l pos="Po">ласянь</l><stg><st>ласянь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ ина вежӧртаса отсасян кыв</t></tg><xg><x>тон ласянь</x><xt xml:lang="kpv">тэласянь</xt></xg></mg></e>
-<e><lg><l pos="Po">мурда</l><stg><st>мурда</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">джуджда</t></tg><xg><x>вить метр мурда</x><xt xml:lang="kpv">вит метр джуджта</xt></xg></mg></e>
-<e><lg><l pos="Po">мында</l><stg><st>мында</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">гӧгӧр, кымын</t></tg><xg><x>сю мында мурт</x><xt xml:lang="kpv">сё кымын морт</xt></xg></mg></e>
-<e><lg><l pos="Po">пумит</l><stg><st>пумит</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">паныд</t></tg><xg><x>пумит луыны</x><xt xml:lang="kpv">паныд лоны</xt></xg><xg><x>пумит вераны</x><xt xml:lang="kpv">паныд шуны</xt></xg></mg></e>
-<e><lg><l pos="Po">пӧлтӥ</l><stg><st>пӧлтӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">пӧвсттi, пыр</t></tg><xg><x>турын пӧлтӥ</x><xt xml:lang="kpv">турун пӧвсттi</xt></xg><xg><x>калык пӧлтӥ</x><xt xml:lang="kpv">йӧз пыр</xt></xg></mg></e>
-<e><lg><l pos="Po">сьӧры</l><stg><st>сьӧры</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ сайӧ, бӧрся, бӧрысь</t></tg><xg><x>город сьӧры потаны</x><xt xml:lang="kpv">кар сайӧ петавны</xt></xg></mg></e>
-<e><lg><l pos="Po">сьӧрын</l><stg><st>сьӧрын</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ сайын</t></tg><xg><x>сэрег сьӧрын</x><xt xml:lang="kpv">пельӧс сайын</xt></xg></mg></e>
-<e><lg><l pos="Po">сяна</l><stg><st>сяна</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">кындзи, ӧтдор</t></tg><xg><x>со сяна</x><xt xml:lang="kpv">таысь кындзи</xt></xg></mg></e>
-<e><lg><l pos="Po">сярысь</l><stg><st>сярысь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">йылысь</t></tg><xg><x>Кузебай Герд сярысь вераськыны</x><xt xml:lang="kpv">Кузебай Герд йылысь сёрнитны</xt></xg></mg></e>
-<e><lg><l pos="Po">ӝужда</l><stg><st>ӝужда</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">джуджта</t></tg><xg><x>пужым ></x><xt xml:lang="kpv">пожӧм джуджта</xt></xg></mg></e>
-<e><lg><l pos="Po">азе</l><stg><st>азе</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ водзӧ</t></tg><xg><x>корка азе</x><xt xml:lang="kpv">керка водзӧ</xt></xg></mg></e>
-<e><lg><l pos="Po">бере</l><stg><st>бере</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">I бӧрын</t><t pos="Po">мысти</t></tg><xg><x>нуназе бере</x><xt xml:lang="kpv">пажын бӧрын</xt></xg><xg><x>уйшор бере</x><xt xml:lang="kpv">вой шӧр бӧрын</xt></xg></mg></e>
-<e><lg><l pos="Po">берын</l><stg><st>берын</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ бӧрын</t><t pos="Po">сайын</t></tg></mg></e>
-<e><lg><l pos="Po">берысь</l><stg><st>берысь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">_i_кб¡_/i_ бӧрысь</t><t pos="Po">бӧрся</t></tg><xg><x>тон > адями</x><xt xml:lang="kpv">тэ бӧрын сулалысь морт</xt></xg></mg></e>
-<e><lg><l pos="Po">бордын</l><stg><st>бордын</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Po">бердын</t></tg></mg></e>
-<e><lg><l pos="Po">вадьсын</l><stg><st>вадьсын</st></stg></lg><mg><tg xml:lang="kpv"><t>_i_кб¡_/i_ весьтын</t><t>паныд</t><t>воча</t></tg><xg><x>нюлэс вадьсын</x><xt xml:lang="kpv">вӧрлы паныд</xt></xg></mg></e>
-<e><lg><l pos="Po">вазь</l><stg><st>вазь</st></stg></lg><mg><tg xml:lang="kpv"><t>водз</t></tg><xg><x>Дырызлэсь вазь нырдэ эн ош</x><xt xml:lang="kpv">Кадысь водз ныртӧ эн ӧшӧд</xt></xg></mg></e>
-<e><lg><l pos="Po">пала</l><stg><st>пала</st></stg></lg><mg><tg xml:lang="kpv"><t>мыйкӧлань, кодкӧлань</t></tg></mg><mg><tg xml:lang="kpv"><t>гӧгӧр, кымын</t></tg><xg><x>сю пала адями</x><xt xml:lang="kpv">сё кымын морт</xt></xg></mg></e>
-<e><lg><l pos="Po">палан</l><stg><st>палан</st></stg></lg><mg><tg xml:lang="kpv"><t>дорын, гӧгӧр</t></tg></mg></e>
-<e><lg><l pos="Po">палэнын</l><stg><st>палэнын</st></stg></lg><mg><tg xml:lang="kpv"><t>ортсыын, бокын</t></tg><xg><x>палэнын улыны</x><xt xml:lang="kpv">бокын овны</xt></xg></mg></e>
+<e>
+   <lg>
+     <l pos="Po">быдӟа</l>
+     <stg>
+       <st>быдӟа</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">ыджда</t>
+     </tg>
+     <xg><x>ма быдӟа</x>
+       <xt xml:lang="kpv">мый ыджда</xt>
+     </xg>
+     <xg><x>мушко быдӟа нянь</x>
+       <xt xml:lang="kpv">куд ыджда нянь</xt>
+     </xg>
+     <xg><x>Койык кин быдӟа?</x>
+       <xt xml:lang="kpv">Йӧраыс мый ыджда?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">бӧрсьы</l>
+     <stg>
+       <st>бӧрсьы</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">бӧрысь</t>
+       <t pos="Po">бӧрся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вадескы</l>
+     <stg>
+       <st>вадескы</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ ӧтвесьтӧ</t>
+       <t pos="Po">паныд</t>
+       <t pos="Po">воча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вамен</l>
+     <stg>
+       <st>вамен</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">вомӧн</t>
+       <t pos="Po">пӧперег</t>
+     </tg>
+     <xg><x>ульча, урам вамен</x>
+       <xt xml:lang="kpv">улич, пурысь вомӧн</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вискытӥ</l>
+     <stg>
+       <st>вискытӥ</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ косттi</t>
+       <t pos="Po">пӧвсттi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вӧзтӥ</l>
+     <stg>
+       <st>вӧзтӥ</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ дортi, дорӧд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вӧзы</l>
+     <stg>
+       <st>вӧзы</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ дорӧ, дiнӧ, орччӧн</t>
+     </tg>
+     <xg><x>тон вӧзы</x>
+       <xt xml:lang="kpv">тэ дiнӧ</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">доры</l>
+     <stg>
+       <st>доры</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ дорӧ</t>
+     </tg>
+     <xg><x>Ӵуказе ӵужанае доры мынӥсько</x>
+       <xt xml:lang="kpv">Аски ыджыд мам дорӧ муна</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">кузьда</l>
+     <stg>
+       <st>кузьда</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">кузьта</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">куспын</l>
+     <stg>
+       <st>куспын</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ костын</t>
+     </tg>
+     <xg><x>ӧс куспын</x>
+       <xt xml:lang="kpv">ӧдзӧс костын</xt>
+     </xg>
+     <xg><x>син куспын</x>
+       <xt xml:lang="kpv">ӧти здукӧн, син лапнитiгкостi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">ласянь</l>
+     <stg>
+       <st>ласянь</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ ина вежӧртаса отсасян кыв</t>
+     </tg>
+     <xg><x>тон ласянь</x>
+       <xt xml:lang="kpv">тэласянь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">мурда</l>
+     <stg>
+       <st>мурда</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">джуджда</t>
+     </tg>
+     <xg><x>вить метр мурда</x>
+       <xt xml:lang="kpv">вит метр джуджта</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">мында</l>
+     <stg>
+       <st>мында</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">гӧгӧр, кымын</t>
+     </tg>
+     <xg><x>сю мында мурт</x>
+       <xt xml:lang="kpv">сё кымын морт</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">пумит</l>
+     <stg>
+       <st>пумит</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">паныд</t>
+     </tg>
+     <xg><x>пумит луыны</x>
+       <xt xml:lang="kpv">паныд лоны</xt>
+     </xg>
+     <xg><x>пумит вераны</x>
+       <xt xml:lang="kpv">паныд шуны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">пӧлтӥ</l>
+     <stg>
+       <st>пӧлтӥ</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">пӧвсттi, пыр</t>
+     </tg>
+     <xg><x>турын пӧлтӥ</x>
+       <xt xml:lang="kpv">турун пӧвсттi</xt>
+     </xg>
+     <xg><x>калык пӧлтӥ</x>
+       <xt xml:lang="kpv">йӧз пыр</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">сьӧры</l>
+     <stg>
+       <st>сьӧры</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ сайӧ, бӧрся, бӧрысь</t>
+     </tg>
+     <xg><x>город сьӧры потаны</x>
+       <xt xml:lang="kpv">кар сайӧ петавны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">сьӧрын</l>
+     <stg>
+       <st>сьӧрын</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ сайын</t>
+     </tg>
+     <xg><x>сэрег сьӧрын</x>
+       <xt xml:lang="kpv">пельӧс сайын</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">сяна</l>
+     <stg>
+       <st>сяна</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">кындзи, ӧтдор</t>
+     </tg>
+     <xg><x>со сяна</x>
+       <xt xml:lang="kpv">таысь кындзи</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">сярысь</l>
+     <stg>
+       <st>сярысь</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">йылысь</t>
+     </tg>
+     <xg><x>Кузебай Герд сярысь вераськыны</x>
+       <xt xml:lang="kpv">Кузебай Герд йылысь сёрнитны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">ӝужда</l>
+     <stg>
+       <st>ӝужда</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">джуджта</t>
+     </tg>
+     <xg><x>пужым ></x>
+       <xt xml:lang="kpv">пожӧм джуджта</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">азе</l>
+     <stg>
+       <st>азе</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ водзӧ</t>
+     </tg>
+     <xg><x>корка азе</x>
+       <xt xml:lang="kpv">керка водзӧ</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">бере</l>
+     <stg>
+       <st>бере</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">I бӧрын</t>
+       <t pos="Po">мысти</t>
+     </tg>
+     <xg><x>нуназе бере</x>
+       <xt xml:lang="kpv">пажын бӧрын</xt>
+     </xg>
+     <xg><x>уйшор бере</x>
+       <xt xml:lang="kpv">вой шӧр бӧрын</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">берын</l>
+     <stg>
+       <st>берын</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ бӧрын</t>
+       <t pos="Po">сайын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">берысь</l>
+     <stg>
+       <st>берысь</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">_i_кб¡_/i_ бӧрысь</t>
+       <t pos="Po">бӧрся</t>
+     </tg>
+     <xg><x>тон > адями</x>
+       <xt xml:lang="kpv">тэ бӧрын сулалысь морт</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">бордын</l>
+     <stg>
+       <st>бордын</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="Po">бердын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вадьсын</l>
+     <stg>
+       <st>вадьсын</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t>_i_кб¡_/i_ весьтын</t>
+       <t>паныд</t>
+       <t>воча</t>
+     </tg>
+     <xg><x>нюлэс вадьсын</x>
+       <xt xml:lang="kpv">вӧрлы паныд</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">вазь</l>
+     <stg>
+       <st>вазь</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t>водз</t>
+     </tg>
+     <xg><x>Дырызлэсь вазь нырдэ эн ош</x>
+       <xt xml:lang="kpv">Кадысь водз ныртӧ эн ӧшӧд</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">пала</l>
+     <stg>
+       <st>пала</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t>мыйкӧлань, кодкӧлань</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t>гӧгӧр, кымын</t>
+     </tg>
+     <xg><x>сю пала адями</x>
+       <xt xml:lang="kpv">сё кымын морт</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">палан</l>
+     <stg>
+       <st>палан</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t>дорын, гӧгӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">палэнын</l>
+     <stg>
+       <st>палэнын</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t>ортсыын, бокын</t>
+     </tg>
+     <xg><x>палэнын улыны</x>
+       <xt xml:lang="kpv">бокын овны</xt>
+     </xg>
+   </mg>
+</e>
 </r>
