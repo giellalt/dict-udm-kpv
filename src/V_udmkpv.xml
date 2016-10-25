@@ -556,7 +556,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="V">бӧрдны</t>
      </tg>
-     <xg><x>> кутскыны</x>
+     <xg><x>бӧрдыны кутскыны</x>
        <xt xml:lang="kpv">бӧрддзыны</xt>
      </xg>
      <xg><x>Тон эн бӧрды, Сергие</x>
@@ -2998,7 +2998,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="V">сёрмыны, сулавны</t>
      </tg>
-     <xg><x>ужан интыын ></x>
+     <xg><x>ужан интыын ӝеганы</x>
        <xt xml:lang="kpv">уджаланiнӧ сёрмыны</xt>
      </xg>
    </mg>
@@ -3196,7 +3196,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="V">лэптыны, кыпӧдны, вӧчны</t>
      </tg>
-     <xg><x>выль корка ></x>
+     <xg><x>выль корка ӝутъяны</x>
        <xt xml:lang="kpv">выль керка лэптыны</xt>
      </xg>
    </mg>
@@ -3537,7 +3537,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="V">ломтыны, пестыны</t>
      </tg>
-     <xg><x>гур ></x>
+     <xg><x>гур ӟырдатыны</x>
        <xt xml:lang="kpv">пач ломтыны</xt>
      </xg>
    </mg>
@@ -10175,16 +10175,34 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="V">тӧдь(ы)маны</l>
+     <l pos="V">тӧдьманы</l>
      <stg>
        <st>тӧдь(ы)маны</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">едждӧдны-мавтны, белитны</t>
+       <t pos="V">едждӧдны-мавтны</t>
+       <t pos="V">белитны</t>
      </tg>
-     <xg><x>вӧлдэт ></x>
+     <xg><x>вӧлдэт тӧдьманы</x>
+       <xt xml:lang="kpv">йирк белитны</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тӧдьыманы</l>
+     <stg>
+       <st>тӧдь(ы)маны</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="V">едждӧдны-мавтны</t>
+       <t pos="V">белитны</t>
+     </tg>
+     <xg><x>вӧлдэт тӧдьыманы</x>
        <xt xml:lang="kpv">йирк белитны</xt>
      </xg>
    </mg>
