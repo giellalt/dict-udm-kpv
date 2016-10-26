@@ -1574,7 +1574,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="V">визувтны (ва йылысь)</t>
-       <t pos="V">_i_ӧтк¡_/i_ виявны</t>
      </tg>
    </mg>
 </e>
@@ -1854,7 +1853,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="V">ветлыны</t>
-       <t pos="V">_i_сш¡_/i_ голлясьны</t>
+       <t pos="V" dial="сш">голлясьны</t>
      </tg>
    </mg>
    <mg>
@@ -2192,7 +2191,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="V">вайӧдны</t>
      </tg>
      <xg><x>кылэз котькытчы вуттыны</x>
-       <xt xml:lang="kpv">нырсӧ быдлаӧ сюйны _i_кк¡_/i_ кывсӧ быдлаӧ сюйны</xt>
+       <xt xml:lang="kpv">нырсӧ быдлаӧ сюйны</xt>
+       <xt xml:lang="kpv" dial="кк">кывсӧ быдлаӧ сюйны</xt>
      </xg>
    </mg>
 </e>
@@ -2983,7 +2983,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лётавны, вынтӧммыны, ёна мудзны</t>
+       <t pos="V">лётавны</t>
+       <t pos="V">вынтӧммыны</t>                                                   
+       <t pos="V">ёна мудзны</t>
      </tg>
    </mg>
 </e>
@@ -2996,7 +2998,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сёрмыны, сулавны</t>
+       <t pos="V">сёрмыны</t>                                                   
+       <t pos="V">сулавны</t>
      </tg>
      <xg><x>ужан интыын ӝеганы</x>
        <xt xml:lang="kpv">уджаланiнӧ сёрмыны</xt>
@@ -3025,7 +3028,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">веськавны, зурасьны</t>
+       <t pos="V">веськавны</t>                                                   
+       <t pos="V">зурасьны</t>
      </tg>
    </mg>
 </e>
@@ -3039,7 +3043,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">топӧдны, дзигӧдны</t>
+       <t pos="V">топӧдны</t>                                                   
+       <t pos="V">дзигӧдны</t>
      </tg>
    </mg>
 </e>
@@ -3052,7 +3057,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шогӧ усьны, шогла лолӧн усьны</t>
+       <t pos="V">шогӧ усьны</t>                                                   
+       <t pos="V">шогла лолӧн усьны</t>
      </tg>
    </mg>
 </e>
@@ -3065,7 +3071,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧгасьны, скӧрмыны (кодкӧ вылӧ), ы </t>
+       <t pos="V">лӧгасьны</t>                                                   
+       <t pos="V">скӧрмыны (кодкӧ вылӧ)</t>
      </tg>
      <xg><x>мурт вылэ ӝожтӥськыны</x>
        <xt xml:lang="kpv">йӧз вылӧ норасьны</xt>
@@ -3081,7 +3088,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">рӧмидзтыны, няклявны</t>
+       <t pos="V">рӧмидзтыны</t>                                                   
+       <t pos="V">няклявны</t>
      </tg>
    </mg>
 </e>
@@ -3094,7 +3102,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ломзьыны, ӧзйыны</t>
+       <t pos="V">ломзьыны</t>                                                   
+       <t pos="V">ӧзйыны</t>
      </tg>
      <xg><x>Тыл ӝуа</x>
        <xt xml:lang="kpv">Би ӧзйӧ</xt>
@@ -3115,7 +3124,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧзйыны, ломзьыны</t>
+       <t pos="V">ӧзйыны</t>                                                   
+       <t pos="V">ломзьыны</t>
      </tg>
    </mg>
 </e>
@@ -3128,7 +3138,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">петны, быдмыны (быдмӧг петасъяс йылысь)</t>
+       <t pos="V">петны</t>                                                   
+       <t pos="V">быдмыны (быдмӧг петасъяс йылысь)</t>
      </tg>
      <xg><x>Ӟег ӝужам</x>
        <xt xml:lang="kpv">Ӧзим петӧма</xt>
@@ -3136,7 +3147,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">качны, петны (шондi-тӧлысь йылысь)</t>
+       <t pos="V">качны</t>                                                   
+       <t pos="V">петны (шондi-тӧлысь йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -3149,7 +3161,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кыпӧдчыны, кайны</t>
+       <t pos="V">кыпӧдчыны</t>                                                   
+       <t pos="V">кайны</t>
      </tg>
    </mg>
 </e>
@@ -3178,7 +3191,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кыпӧдчыны, кайны</t>
+       <t pos="V">кыпӧдчыны</t>                                                   
+       <t pos="V">кайны</t>
      </tg>
      <xg><x>падӟа кузя а</x>
        <xt xml:lang="kpv">сера поскӧд кайны</xt>
@@ -3194,7 +3208,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэптыны, кыпӧдны, вӧчны</t>
+       <t pos="V">лэптыны</t>                                                   
+       <t pos="V">кыпӧдны</t>                                                   
+       <t pos="V">вӧчны</t>
      </tg>
      <xg><x>выль корка ӝутъяны</x>
        <xt xml:lang="kpv">выль керка лэптыны</xt>
@@ -3210,7 +3226,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэптыны, кыпӧдны, У </t>
+       <t pos="V">лэптыны</t>                                                   
+       <t pos="V">кыпӧдны</t>
      </tg>
      <xg><x>шыд ӝутыны</x>
        <xt xml:lang="kpv">шыд кисьтыны</xt>
@@ -3285,7 +3302,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">исавны, исасьны</t>
+       <t pos="V">исавны</t>                                                   
+       <t pos="V">исасьны</t>
      </tg>
    </mg>
 </e>
@@ -3298,7 +3316,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сунны, ваӧ пырны</t>
+       <t pos="V">сунны</t>                                                   
+       <t pos="V">ваӧ пырны</t>
      </tg>
    </mg>
 </e>
@@ -3311,7 +3330,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мавтны, зыртны</t>
+       <t pos="V">мавтны</t>                                                   
+       <t pos="V">зыртны</t>
      </tg>
      <xg><x>краскаен зыраны</x>
        <xt xml:lang="kpv">вапӧн, краскаӧн мавтны</xt>
@@ -3327,7 +3347,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ва пытш, ва черань</t>
+       <t pos="V">ва пытш</t>                                                   
+       <t pos="V">ва черань</t>
      </tg>
    </mg>
 </e>
@@ -3356,7 +3377,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">югдыны, асъя кыалы петны</t>
+       <t pos="V">югдыны</t>                                                   
+       <t pos="V">асъя кыалы петны</t>
      </tg>
    </mg>
    <mg>
@@ -3408,7 +3430,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧрны, катласьны, качайтчыны</t>
+       <t pos="V">вӧрны</t>                                                   
+       <t pos="V">катласьны</t>                                                   
+       <t pos="V">качайтчыны</t>
      </tg>
    </mg>
 </e>
@@ -3421,7 +3445,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чипсыны, дзользьыны (лэбачьяс йылысь)</t>
+       <t pos="V">чипсыны</t>                                                   
+       <t pos="V">дзользьыны (лэбачьяс йылысь)</t>
      </tg>
    </mg>
    <mg>
@@ -3439,7 +3464,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">юыштны, гулькнитны-ньылыштны</t>
+       <t pos="V">юыштны</t>                                                   
+       <t pos="V">гулькнитны-ньылыштны</t>
      </tg>
    </mg>
    <mg>
@@ -3473,7 +3499,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзигӧдчыны, топӧдчыны, кутчысьлыны</t>
+       <t pos="V">дзигӧдчыны</t>                                                   
+       <t pos="V">топӧдчыны</t>                                                   
+       <t pos="V">кутчысьлыны</t>
      </tg>
    </mg>
 </e>
@@ -3486,7 +3514,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзигӧдны, топӧдлыны</t>
+       <t pos="V">дзигӧдны</t>                                                   
+       <t pos="V">топӧдлыны</t>
      </tg>
    </mg>
 </e>
@@ -3499,7 +3528,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзигӧдавлыны, топӧдчавлыны</t>
+       <t pos="V">дзигӧдавлыны</t>                                                   
+       <t pos="V">топӧдчавлыны</t>
      </tg>
    </mg>
 </e>
@@ -3512,7 +3542,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧсявны, донавны</t>
+       <t pos="V">пӧсявны</t>                                                   
+       <t pos="V">донавны</t>
      </tg>
    </mg>
    <mg>
@@ -3530,12 +3561,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">донӧдны, пӧсьӧдны</t>
+       <t pos="V">донӧдны</t>                                                   
+       <t pos="V">пӧсьӧдны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ломтыны, пестыны</t>
+       <t pos="V">ломтыны</t>                                                   
+       <t pos="V">пестыны</t>
      </tg>
      <xg><x>гур ӟырдатыны</x>
        <xt xml:lang="kpv">пач ломтыны</xt>
@@ -3551,7 +3584,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">юӧртны, юӧр сетны</t>
+       <t pos="V">юӧртны</t>                                                   
+       <t pos="V">юӧр сетны</t>
      </tg>
    </mg>
 </e>
@@ -3564,7 +3598,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лёк вӧчны, тшыкӧдны, торкны</t>
+       <t pos="V">лёк вӧчны</t>                                                   
+       <t pos="V">тшыкӧдны</t>                                                   
+       <t pos="V">торкны</t>
      </tg>
    </mg>
 </e>
@@ -3606,7 +3642,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">меститчыны, инасьны</t>
+       <t pos="V">меститчыны</t>                                                   
+       <t pos="V">инасьны</t>
      </tg>
    </mg>
 </e>
@@ -3619,12 +3656,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нерны, нерсьыны</t>
+       <t pos="V">нерны</t>                                                   
+       <t pos="V">нерсьыны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чутӧдны, вӧрӧдны</t>
+       <t pos="V">чутӧдны</t>                                                   
+       <t pos="V">вӧрӧдны</t>
      </tg>
    </mg>
    <mg>
@@ -3647,7 +3686,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">йитчыны, ӧтувтчыны</t>
+       <t pos="V">йитчыны</t>                                                   
+       <t pos="V">ӧтувтчыны</t>
      </tg>
    </mg>
 </e>
@@ -3673,7 +3713,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нетшкыны, кокавны</t>
+       <t pos="V">нетшкыны</t>                                                   
+       <t pos="V">кокавны</t>
      </tg>
    </mg>
 </e>
@@ -3717,7 +3758,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лючкиасьны, бурмыны</t>
+       <t pos="V">лючкиасьны</t>                                                   
+       <t pos="V">бурмыны</t>
      </tg>
    </mg>
 </e>
@@ -3730,7 +3772,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бурдӧдчыны, ёнмӧдчыны</t>
+       <t pos="V">бурдӧдчыны</t>                                                   
+       <t pos="V">ёнмӧдчыны</t>
      </tg>
    </mg>
 </e>
@@ -3770,7 +3813,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">инмӧдны, чуткыны</t>
+       <t pos="V">инмӧдны</t>                                                   
+       <t pos="V">чуткыны</t>
      </tg>
    </mg>
 </e>
@@ -3801,7 +3845,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тотшӧдны, йиркӧдны</t>
+       <t pos="V">тотшӧдны</t>                                                   
+       <t pos="V">йиркӧдны</t>
      </tg>
    </mg>
 </e>
@@ -3814,7 +3859,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тотшкӧдчыны, тотш-тотш вӧчны</t>
+       <t pos="V">тотшкӧдчыны</t>                                                   
+       <t pos="V">тотш-тотш вӧчны</t>
      </tg>
    </mg>
 </e>
@@ -3835,7 +3881,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">эштӧдны, кывкӧртӧд вӧчны</t>
+       <t pos="V">эштӧдны</t>                                                   
+       <t pos="V">кывкӧртӧд вӧчны</t>
      </tg>
    </mg>
 </e>
@@ -3848,7 +3895,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">помасьны, эштыны</t>
+       <t pos="V">помасьны</t>                                                   
+       <t pos="V">эштыны</t>
      </tg>
    </mg>
 </e>
@@ -3861,7 +3909,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">йирны, гыджгыны</t>
+       <t pos="V">йирны</t>                                                   
+       <t pos="V">гыджгыны</t>
      </tg>
    </mg>
 </e>
@@ -3874,10 +3923,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вошны, </t>
+       <t pos="V">вошны</t>
      </tg>
      <xg><x>Йыромем тури</x>
-       <xt xml:lang="kpv">Вошӧм ыж, _i_кк¡_/i_ вошӧм тури</xt>
+       <xt xml:lang="kpv" re="кк:вошӧм тури">Вошӧм ыж</xt>
      </xg>
    </mg>
 </e>
@@ -3890,7 +3939,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шогсьыны, майшасьны</t>
+       <t pos="V">шогсьыны</t>                                                   
+       <t pos="V">майшасьны</t>
      </tg>
    </mg>
 </e>
@@ -3903,12 +3953,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гуляйтны, ветлыны, шӧйтны</t>
+       <t pos="V">гуляйтны</t>                                                   
+       <t pos="V">ветлыны</t>                                                   
+       <t pos="V">шӧйтны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кырсавны, К </t>
+       <t pos="V">кырсавны</t>
      </tg>
      <xg><x>калгись пуны</x>
        <xt xml:lang="kpv">кырсалан пон</xt>
@@ -3927,7 +3979,12 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шӧйтны-ветлыны, бовъявны, шландайтны, шлёнъявны, жӧдзны, _i_сш¡_/i_ палъялны</t>
+       <t pos="V">шӧйтны-ветлыны</t>
+       <t pos="V">бовъявны</t>                                            
+       <t pos="V">шландайтны</t>                                            
+       <t pos="V">шлёнъявны</t>                                            
+       <t pos="V">жӧдзны</t>                                            
+       <t pos="V" dial="сш">палъялны</t>
      </tg>
    </mg>
 </e>
@@ -3958,7 +4015,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёрны, прӧклинайтны</t>
+       <t pos="V">ёрны</t>                                                   
+       <t pos="V">прӧклинайтны</t>
      </tg>
      <xg><x>Мон тонэ каргало</x>
        <xt xml:lang="kpv">Ме тэнӧ ёра</xt>
@@ -3974,7 +4032,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лоны, пӧртчыны, вӧчны</t>
+       <t pos="V">лоны</t>                                                   
+       <t pos="V">пӧртчыны</t>                                                   
+       <t pos="V">вӧчны</t>
      </tg>
    </mg>
    <mg>
@@ -4005,7 +4065,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧчны, керны</t>
+       <t pos="V">вӧчны</t>                                                   
+       <t pos="V">керны</t>
      </tg>
      <xg><x>Ма карыны уг тоды</x>
        <xt xml:lang="kpv">Мый вӧчны оз тӧд</xt>
@@ -4021,7 +4082,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бурдӧдны, веськӧдны</t>
+       <t pos="V">бурдӧдны</t>                                                   
+       <t pos="V">веськӧдны</t>
      </tg>
      <xg><x>йырез катьяны</x>
        <xt xml:lang="kpv">пӧкмелитчыны, юрӧс веськӧдны</xt>
@@ -4037,7 +4099,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧдны, джагавны</t>
+       <t pos="V">пӧдны</t>                                                   
+       <t pos="V">джагавны</t>
      </tg>
    </mg>
 </e>
@@ -4050,7 +4113,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">джагӧдны, пӧдтыны</t>
+       <t pos="V">джагӧдны</t>
+       <t pos="V">пӧдтыны</t>
      </tg>
    </mg>
 </e>
@@ -4063,12 +4127,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">эновтны, шыбитны, кольны</t>
+       <t pos="V">эновтны</t>
+       <t pos="V">шыбитны</t>
+       <t pos="V">кольны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вештыны, босьтны (мыйыськӧ)</t>
+       <t pos="V">вештыны</t>
+       <t pos="V">босьтны (мыйыськӧ)</t>
      </tg>
    </mg>
    <mg>
@@ -4086,7 +4153,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сьӧлӧм вылӧ воны, кажитчыны</t>
+       <t pos="V">сьӧлӧм вылӧ воны</t>
+       <t pos="V">кажитчыны</t>
      </tg>
    </mg>
    <mg>
@@ -4096,7 +4164,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мунны (кодкӧлань), лоны ӧткодьӧн кодкӧдкӧ</t>
+       <t pos="V">мунны (кодкӧлань)</t>
+       <t pos="V">лоны ӧткодьӧн кодкӧдкӧ</t>
      </tg>
      <xg><x>Ушъяськись мурт айы ӟазеглы кельше</x>
        <xt xml:lang="kpv">Ошйысьысь морт ай дзодзӧглань мунӧ, ай дзодзӧг кодь</xt>
@@ -4112,12 +4181,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">колльыны, колльӧдны</t>
+       <t pos="V">колльыны</t>
+       <t pos="V">колльӧдны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ыстыны, мӧдӧдны, нуны</t>
+       <t pos="V">ыстыны</t>
+       <t pos="V">мӧдӧдны</t>
+       <t pos="V">нуны</t>
      </tg>
    </mg>
 </e>
@@ -4130,7 +4202,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сӧветуйтчыны, юасьны-сёрнитны, юксьыны мӧвпъясӧн</t>
+       <t pos="V">сӧветуйтчыны</t>
+       <t pos="V">юасьны-сёрнитны</t>
+       <t pos="V">юксьыны мӧвпъясӧн</t>
      </tg>
    </mg>
    <mg>
@@ -4148,7 +4222,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧзтыны, ломзьӧдны</t>
+       <t pos="V">ӧзтыны</t>
+       <t pos="V">ломзьӧдны</t>
      </tg>
    </mg>
 </e>
@@ -4177,12 +4252,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧзйыны, ыззьыны, куысь петны</t>
+       <t pos="V">ӧзйыны</t>
+       <t pos="V">ыззьыны</t>
+       <t pos="V">куысь петны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзуглясьны, нервничайтны</t>
+       <t pos="V">дзуглясьны</t>
+       <t pos="V">нервничайтны</t>
      </tg>
    </mg>
 </e>
@@ -4195,7 +4273,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">яндысьны, родны</t>
+       <t pos="V">яндысьны</t>
+       <t pos="V">родны</t>
      </tg>
    </mg>
 </e>
@@ -4208,7 +4287,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кысьыны, вурсьыны</t>
+       <t pos="V">кысьыны</t>
+       <t pos="V">вурсьыны</t>
      </tg>
    </mg>
    <mg>
@@ -4226,7 +4306,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кыны, кӧртавны</t>
+       <t pos="V">кыны</t>
+       <t pos="V">кӧртавны</t>
      </tg>
      <xg><x>керттэм дӥськут</x>
        <xt xml:lang="kpv">кыӧм паськӧм</xt>
@@ -4280,7 +4361,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">горзыны, равзыны</t>
+       <t pos="V">горзыны</t>
+       <t pos="V">равзыны</t>
      </tg>
      <xg><x>Кесяськыса кыдёке уд вуы</x>
        <xt xml:lang="kpv">Горзӧмӧн ылӧ он во</xt>
@@ -4296,7 +4378,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кӧчйӧн, виж юра йӧн</t>
+       <t pos="V">кӧчйӧн</t>
+       <t pos="V">виж юра йӧн</t>
      </tg>
    </mg>
 </e>
@@ -4309,7 +4392,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дорыш вывтi ва кисьтыны, чалкайтны</t>
+       <t pos="V">дорыш вывтi ва кисьтыны</t>
+       <t pos="V">чалкайтны</t>
      </tg>
    </mg>
 </e>
@@ -4322,7 +4406,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">киськасьны, чалкайтчыны (ва йылысь)</t>
+       <t pos="V">киськасьны</t>
+       <t pos="V">чалкайтчыны (ва йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -4335,7 +4420,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">веськӧдлыны, ыджыдавны</t>
+       <t pos="V">веськӧдлыны</t>
+       <t pos="V">ыджыдавны</t>
      </tg>
    </mg>
 </e>
@@ -4403,7 +4489,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чукыртны, чукравны</t>
+       <t pos="V">чукыртны</t>
+       <t pos="V">чукравны</t>
      </tg>
      <xg><x>ныр кисыртыны</x>
        <xt xml:lang="kpv">ныр чукыртны</xt>
@@ -4435,7 +4522,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кисьмыны, воны</t>
+       <t pos="V">кисьмыны</t>
+       <t pos="V">воны</t>
      </tg>
      <xg><x>Узы кисьма</x>
        <xt xml:lang="kpv">Оз кисьмӧ</xt>
@@ -4464,7 +4552,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">киськасьны, чалкайтчыны</t>
+       <t pos="V">киськасьны</t>
+       <t pos="V">чалкайтчыны</t>
      </tg>
    </mg>
 </e>
@@ -4490,7 +4579,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">водзмӧстчыны, выльтор пыртны</t>
+       <t pos="V">водзмӧстчыны</t>
+       <t pos="V">выльтор пыртны</t>
      </tg>
    </mg>
 </e>
@@ -4503,12 +4593,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мӧвпавны, чайтны</t>
+       <t pos="V">мӧвпавны</t>
+       <t pos="V">чайтны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кежавлыны, пыравлыны</t>
+       <t pos="V">кежавлыны</t>
+       <t pos="V">пыравлыны</t>
      </tg>
    </mg>
 </e>
@@ -4537,7 +4629,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кучкавны, вины, сизьдыны</t>
+       <t pos="V">кучкавны</t>
+       <t pos="V">вины</t>
+       <t pos="V">сизьдыны</t>
      </tg>
    </mg>
    <mg>
@@ -4555,7 +4649,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тотшкыны, тотшӧдчыны</t>
+       <t pos="V">тотшкыны</t>
+       <t pos="V">тотшӧдчыны</t>
      </tg>
      <xg><x>Кыр кокаське</x>
        <xt xml:lang="kpv">Сизь тотшкӧ</xt>
@@ -4600,7 +4695,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гӧрбыльтчыны, кусыньтчыны</t>
+       <t pos="V">гӧрбыльтчыны</t>
+       <t pos="V">кусыньтчыны</t>
      </tg>
      <xg><x>Кокырмемлы куэз но секыт потэ</x>
        <xt xml:lang="kpv">Гӧрбыльтчӧмлы (пӧрысьлы) и кучикыс нин сьӧкыд</xt>
@@ -4629,7 +4725,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">керавны, керыштны</t>
+       <t pos="V">керавны</t>
+       <t pos="V">керыштны</t>
      </tg>
      <xg><x>нюлэс (тэль) кораны</x>
        <xt xml:lang="kpv">вӧр керавны</xt>
@@ -4645,12 +4742,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тшӧктыны, чорыда корны, кесйӧдлыны</t>
+       <t pos="V">тшӧктыны</t>
+       <t pos="V">чорыда корны</t>
+       <t pos="V">кесйӧдлыны</t>
      </tg>
      <xg><x>Монэ косоно ӧвӧл</x>
        <xt xml:lang="kpv">Мем тшӧктӧм оз ков</xt>
      </xg>
-     <xg><x>_i_кывтуял¡_/i_ косыса веран</x>
+     <xg><x>косыса веран</x>
        <xt xml:lang="kpv">тшӧктана сёрникузя</xt>
      </xg>
    </mg>
@@ -4685,7 +4784,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кӧтасьны, вазьыны</t>
+       <t pos="V">кӧтасьны</t>
+       <t pos="V">вазьыны</t>
      </tg>
      <xg><x>Турунзы оз котмы ни</x>
        <xt xml:lang="kpv">Туруныс оз кӧтась нин</xt>
@@ -4733,7 +4833,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гӧгӧртны, кытшовтны</t>
+       <t pos="V">гӧгӧртны</t>
+       <t pos="V">кытшовтны</t>
      </tg>
    </mg>
    <mg>
@@ -4783,7 +4884,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тшапитчыны, вышитчыны</t>
+       <t pos="V">тшапитчыны</t>
+       <t pos="V">вышитчыны</t>
      </tg>
    </mg>
 </e>
@@ -4796,7 +4898,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">яндысьны, родны</t>
+       <t pos="V">яндысьны</t>
+       <t pos="V">родны</t>
      </tg>
    </mg>
    <mg>
@@ -4814,7 +4917,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кельдӧдны, бледӧдны, бледмыны </t>
+       <t pos="V">кельдӧдны</t>
+       <t pos="V">бледӧдны</t>
+       <t pos="V">бледмыны </t>
      </tg>
    </mg>
 </e>
@@ -4827,7 +4932,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вой коллявны, узьны</t>
+       <t pos="V">вой коллявны</t>
+       <t pos="V">узьны</t>
      </tg>
    </mg>
 </e>
@@ -4840,7 +4946,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">узьны, войковтны</t>
+       <t pos="V">узьны</t>
+       <t pos="V">войковтны</t>
      </tg>
      <xg><x>мурт дорын кӧлыны</x>
        <xt xml:lang="kpv">йӧзын узьны</xt>
@@ -4872,7 +4979,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧрзьыны, тiркмунны, дрӧгмунны</t>
+       <t pos="V">вӧрзьыны</t>
+       <t pos="V">тiркмунны</t>
+       <t pos="V">дрӧгмунны</t>
      </tg>
    </mg>
 </e>
@@ -4885,7 +4994,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тiрзьыны, тiравны</t>
+       <t pos="V">тiрзьыны</t>
+       <t pos="V">тiравны</t>
      </tg>
    </mg>
 </e>
@@ -4911,7 +5021,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шыасьны, вочавидзны, воча шуны</t>
+       <t pos="V">шыасьны</t>
+       <t pos="V">вочавидзны</t>
+       <t pos="V">воча шуны</t>
      </tg>
    </mg>
 </e>
@@ -4937,7 +5049,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кусыньтны, куснявны</t>
+       <t pos="V">кусыньтны</t>
+       <t pos="V">куснявны</t>
      </tg>
    </mg>
 </e>
@@ -4982,7 +5095,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ызгыны, авгыны, зыксьыны, горӧн видчыны</t>
+       <t pos="V">ызгыны</t>
+       <t pos="V">авгыны</t>
+       <t pos="V">зыксьыны</t>
+       <t pos="V">горӧн видчыны</t>
      </tg>
    </mg>
 </e>
@@ -4995,7 +5111,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">киссьыны, жугавны</t>
+       <t pos="V">киссьыны</t>
+       <t pos="V">жугавны</t>
      </tg>
      <xg><x>Банк куашказ</x>
        <xt xml:lang="kpv">Банк киссис</xt>
@@ -5016,7 +5133,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">жугӧдны, кисьтыны</t>
+       <t pos="V">жугӧдны</t>
+       <t pos="V">кисьтыны</t>
      </tg>
    </mg>
 </e>
@@ -5042,7 +5160,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гозйӧдчыны, гӧтрасьны, верӧс сайӧ петны</t>
+       <t pos="V">гозйӧдчыны</t>
+       <t pos="V">гӧтрасьны</t>
+       <t pos="V">верӧс сайӧ петны</t>
      </tg>
    </mg>
 </e>
@@ -5087,7 +5207,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кувны, кувсьыны, мунны мӧдар югыдӧ</t>
+       <t pos="V">кувны</t>
+       <t pos="V">кувсьыны</t>
+       <t pos="V">мунны мӧдар югыдӧ</t>
      </tg>
    </mg>
 </e>
@@ -5113,7 +5235,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сёйны-юны гӧсьтитчигӧн, гӧсьтитчыны</t>
+       <t pos="V">сёйны-юны гӧсьтитчигӧн</t>
+       <t pos="V">гӧсьтитчыны</t>
      </tg>
    </mg>
 </e>
@@ -5126,7 +5249,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вердны воысьясӧс, пӧттшуйтны</t>
+       <t pos="V">вердны воысьясӧс</t>
+       <t pos="V">пӧттшуйтны</t>
      </tg>
    </mg>
 </e>
@@ -5139,7 +5263,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мучитчыны, матайтчыны</t>
+       <t pos="V">мучитчыны</t>
+       <t pos="V">матайтчыны</t>
      </tg>
    </mg>
 </e>
@@ -5165,7 +5290,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шогсьыны, майшасьны, шог пыкны</t>
+       <t pos="V">шогсьыны</t>
+       <t pos="V">майшасьны</t>
+       <t pos="V">шог пыкны</t>
      </tg>
    </mg>
 </e>
@@ -5178,7 +5305,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нуӧдчыны, вӧзйысьны</t>
+       <t pos="V">нуӧдчыны</t>
+       <t pos="V">вӧзйысьны</t>
      </tg>
    </mg>
 </e>
@@ -5191,12 +5319,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёрдны, судитны</t>
+       <t pos="V">ёрдны</t>
+       <t pos="V">судитны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лёкӧдны, омӧльтны</t>
+       <t pos="V">лёкӧдны</t>
+       <t pos="V">омӧльтны</t>
      </tg>
      <xg><x>Нянез ноку курланы уг яра</x>
        <xt xml:lang="kpv">Няньсӧ некор лёкӧдны оз ков</xt>
@@ -5230,7 +5360,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сёйыштны, курччыштны</t>
+       <t pos="V">сёйыштны</t>
+       <t pos="V">курччыштны</t>
      </tg>
    </mg>
 </e>
@@ -5275,7 +5406,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пондыны, заводитны</t>
+       <t pos="V">пондыны</t>
+       <t pos="V">заводитны</t>
      </tg>
    </mg>
    <mg>
@@ -5301,7 +5433,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧрйӧдлыны, ылӧдлыны кодӧскӧ, кӧмӧдны</t>
+       <t pos="V">пӧрйӧдлыны</t>
+       <t pos="V">ылӧдлыны кодӧскӧ</t>
+       <t pos="V">кӧмӧдны</t>
      </tg>
    </mg>
 </e>
@@ -5327,7 +5461,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кутны, кыйны</t>
+       <t pos="V">кутны</t>
+       <t pos="V">кыйны</t>
      </tg>
      <xg><x>чорыг кутыны</x>
        <xt xml:lang="kpv">чери кыйны</xt>
@@ -5335,7 +5470,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">босьтны, примитны, ч </t>
+       <t pos="V">босьтны</t>
+       <t pos="V">примитны</t>
      </tg>
      <xg><x>пельнянь кутыны</x>
        <xt xml:lang="kpv">пельнянь гӧглявны-вӧчны</xt>
@@ -5351,7 +5487,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">эновтчыны, ӧтдортчыны</t>
+       <t pos="V">эновтчыны</t>
+       <t pos="V">ӧтдортчыны</t>
      </tg>
    </mg>
 </e>
@@ -5364,7 +5501,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шыбитны, уськӧдны</t>
+       <t pos="V">шыбитны</t>
+       <t pos="V">уськӧдны</t>
      </tg>
    </mg>
    <mg>
@@ -5377,7 +5515,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">перъясьны, аборт вӧчны</t>
+       <t pos="V">перъясьны</t>
+       <t pos="V">аборт вӧчны</t>
      </tg>
      <xg><x>нылпи (пинал) куштыны</x>
        <xt xml:lang="kpv">кага перъявны</xt>
@@ -5409,7 +5548,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шыбитны, эновтны</t>
+       <t pos="V">шыбитны</t>
+       <t pos="V">эновтны</t>
      </tg>
    </mg>
    <mg>
@@ -5427,7 +5567,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шыбитны, шуны туйтӧмӧн</t>
+       <t pos="V">шыбитны</t>
+       <t pos="V">шуны туйтӧмӧн</t>
      </tg>
    </mg>
    <mg>
@@ -5445,7 +5586,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">донӧдны, ёна пӧсьӧдны</t>
+       <t pos="V">донӧдны</t>
+       <t pos="V">ёна пӧсьӧдны</t>
      </tg>
    </mg>
 </e>
@@ -5474,7 +5616,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">няйтӧссьыны, лякӧссьыны</t>
+       <t pos="V">няйтӧссьыны</t>
+       <t pos="V">лякӧссьыны</t>
      </tg>
    </mg>
 </e>
@@ -5488,7 +5631,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кызны, кызӧктавны</t>
+       <t pos="V">кызны</t>
+       <t pos="V">кызӧктавны</t>
      </tg>
    </mg>
 </e>
@@ -5501,7 +5645,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">артмыны, чужны</t>
+       <t pos="V">артмыны</t>
+       <t pos="V">чужны</t>
      </tg>
    </mg>
 </e>
@@ -5514,7 +5659,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">артмӧдны, лӧсьӧдны, подулавны</t>
+       <t pos="V">артмӧдны</t>
+       <t pos="V">лӧсьӧдны</t>
+       <t pos="V">подулавны</t>
      </tg>
    </mg>
 </e>
@@ -5527,7 +5674,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кывзысьны, кывзыны (лекция, мортлысь пытшкӧссӧ)</t>
+       <t pos="V">кывзысьны</t>
+       <t pos="V">кывзыны (лекция, мортлысь пытшкӧссӧ)</t>
      </tg>
    </mg>
 </e>
@@ -5556,7 +5704,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кывсьыны, паськавны (юӧр йылысь)</t>
+       <t pos="V">кывсьыны</t>
+       <t pos="V">паськавны (юӧр йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -5569,7 +5718,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">куйлыны, куйлыштны</t>
+       <t pos="V">куйлыны</t>
+       <t pos="V">куйлыштны</t>
      </tg>
      <xg><x>гаӵоло кылльыны</x>
        <xt xml:lang="kpv">гатшӧн куйлыны</xt>
@@ -5619,7 +5769,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кынмӧдчыны, кынтыны асьтӧ</t>
+       <t pos="V">кынмӧдчыны</t>
+       <t pos="V">кынтыны асьтӧ</t>
      </tg>
    </mg>
 </e>
@@ -5706,7 +5857,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шӧйтны-ветлыны, кысъясьны</t>
+       <t pos="V">шӧйтны-ветлыны</t>
+       <t pos="V">кысъясьны</t>
      </tg>
    </mg>
 </e>
@@ -5748,7 +5900,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нюшкыны, куритны</t>
+       <t pos="V">нюшкыны</t>
+       <t pos="V">куритны</t>
      </tg>
      <xg><x>тамак кыскыны</x>
        <xt xml:lang="kpv">табак куритны</xt>
@@ -5785,7 +5938,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нюжавны, нюжӧдчыны</t>
+       <t pos="V">нюжавны</t>
+       <t pos="V">нюжӧдчыны</t>
      </tg>
    </mg>
    <mg>
@@ -5835,7 +5989,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чирксьыны (чирк йылысь), китшкыны, китшсьыны (катша йылысь)</t>
+       <t pos="V">чирксьыны (чирк йылысь)</t>
+       <t pos="V">китшкыны</t>
+       <t pos="V">китшсьыны (катша йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -5848,7 +6004,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гажтӧмтчыны, гажтӧма казьтывлыны</t>
+       <t pos="V">гажтӧмтчыны</t>
+       <t pos="V">гажтӧма казьтывлыны</t>
      </tg>
    </mg>
    <mg>
@@ -5885,7 +6042,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гӧтрасьны, гӧтырӧс лӧсьӧдны</t>
+       <t pos="V">гӧтрасьны</t>
+       <t pos="V">гӧтырӧс лӧсьӧдны</t>
      </tg>
    </mg>
 </e>
@@ -5898,7 +6056,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дӧмны, дзоньтавны, К </t>
+       <t pos="V">дӧмны</t>
+       <t pos="V">дзоньтавны</t>
      </tg>
      <xg><x>кӧт кышъяны</x>
        <xt xml:lang="kpv">нуръясьыштны, мыйкӧ курччыштны, _i_кк¡_/i_ кынӧмӧс дӧмыштны</xt>
@@ -5914,7 +6073,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзоньтасьны, дӧмсьыны, вурсьыны</t>
+       <t pos="V">дзоньтасьны</t>
+       <t pos="V">дӧмсьыны</t>
+       <t pos="V">вурсьыны</t>
      </tg>
    </mg>
 </e>
@@ -5940,7 +6101,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вевттьыны, вевт вӧчны</t>
+       <t pos="V">вевттьыны</t>
+       <t pos="V">вевт вӧчны</t>
      </tg>
      <xg><x>липет липыны</x>
        <xt xml:lang="kpv">вевт пуктыны</xt>
@@ -5982,7 +6144,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чушкавны, чушкасьны</t>
+       <t pos="V">чушкавны</t>
+       <t pos="V">чушкасьны</t>
      </tg>
    </mg>
 </e>
@@ -6000,7 +6163,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">писькӧдны, лӧсьӧдны</t>
+       <t pos="V">писькӧдны</t>
+       <t pos="V">лӧсьӧдны</t>
      </tg>
      <xg><x>лёгем сюрес</x>
        <xt xml:lang="kpv">писькӧдӧм туй</xt>
@@ -6038,7 +6202,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="V">лэбзьыны</t>
      </tg>
      <xg><x>лобӟыса кошкыны</x>
-       <xt xml:lang="kpv">лэбзьыны, _i_кк¡_/i_ лэбӧмӧн мунны</xt>
+       <xt xml:lang="kpv" re="кк:лэбӧмӧн мунны">лэбзьыны</xt>
      </xg>
    </mg>
 </e>
@@ -6056,7 +6220,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧдйӧ котӧртны, мунны</t>
+       <t pos="V">ӧдйӧ котӧртны</t>
+       <t pos="V">ӧдйӧ мунны</t>
      </tg>
    </mg>
 </e>
@@ -6069,7 +6234,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шенны бордъясӧн, швачкӧдны, швачӧдны</t>
+       <t pos="V">шенны бордъясӧн</t>
+       <t pos="V">швачкӧдны</t>
+       <t pos="V">швачӧдны</t>
      </tg>
    </mg>
 </e>
@@ -6082,7 +6249,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">плавдыны, кыпавны ва веркӧсӧ</t>
+       <t pos="V">плавдыны</t>
+       <t pos="V">кыпавны ва веркӧсӧ</t>
      </tg>
    </mg>
    <mg>
@@ -6131,7 +6299,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гусявны, гуны, шепыштны</t>
+       <t pos="V">гусявны</t>
+       <t pos="V">гуны</t>
+       <t pos="V">шепыштны</t>
      </tg>
    </mg>
 </e>
@@ -6202,7 +6372,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пажнайтны, ӧбедайтны</t>
+       <t pos="V">пажнайтны</t>
+       <t pos="V">ӧбедайтны</t>
      </tg>
    </mg>
 </e>
@@ -6241,7 +6412,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэччыны, мынны (чеп йылысь)</t>
+       <t pos="V">лэччыны</t>
+       <t pos="V">мынны (чеп йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -6254,7 +6426,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэдзны, сетны позянлун</t>
+       <t pos="V">лэдзны</t>
+       <t pos="V">сетны позянлун</t>
      </tg>
      <xg><x>кыскыны лэзьыны</x>
        <xt xml:lang="kpv">куритчыны лэдзны</xt>
@@ -6286,7 +6459,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧчны, тэчны, кыпӧдны</t>
+       <t pos="V">вӧчны</t>
+       <t pos="V">тэчны</t>
+       <t pos="V">кыпӧдны</t>
      </tg>
    </mg>
    <mg>
@@ -6309,7 +6484,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧсявны, туйны</t>
+       <t pos="V">лӧсявны</t>
+       <t pos="V">туйны</t>
      </tg>
    </mg>
 </e>
@@ -6322,7 +6498,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэчтавны, ёсьтыны</t>
+       <t pos="V">лэчтавны</t>
+       <t pos="V">ёсьтыны</t>
      </tg>
    </mg>
 </e>
@@ -6335,7 +6512,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тэчны, чукӧртны, заптыны, чӧжны</t>
+       <t pos="V">тэчны</t>
+       <t pos="V">чукӧртны</t>
+       <t pos="V">заптыны</t>
+       <t pos="V">чӧжны</t>
      </tg>
      <xg><x>коньдон люканы</x>
        <xt xml:lang="kpv">сьӧм чӧжны</xt>
@@ -6356,7 +6536,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чукӧртчыны, чӧжсьыны</t>
+       <t pos="V">чукӧртчыны</t>
+       <t pos="V">чӧжсьыны</t>
      </tg>
    </mg>
 </e>
@@ -6369,7 +6550,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">падмӧдны, мешайтны, падмӧг пуктыны</t>
+       <t pos="V">падмӧдны</t>
+       <t pos="V">мешайтны</t>
+       <t pos="V">падмӧг пуктыны</t>
      </tg>
    </mg>
 </e>
@@ -6382,12 +6565,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">торъявны, разӧдчыны</t>
+       <t pos="V">торъявны</t>
+       <t pos="V">разӧдчыны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">юксьыны, торйӧдчыны (гозъя йылысь)</t>
+       <t pos="V">юксьыны</t>
+       <t pos="V">торйӧдчыны (гозъя йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -6416,7 +6601,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">юкны, торйӧдны</t>
+       <t pos="V">юкны</t>
+       <t pos="V">торйӧдны</t>
      </tg>
    </mg>
    <mg>
@@ -6434,7 +6620,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лябны, омӧльтчыны</t>
+       <t pos="V">лябны</t>
+       <t pos="V">омӧльтчыны</t>
      </tg>
    </mg>
 </e>
@@ -6447,7 +6634,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">омӧльтчыны, слабмыны, лябны</t>
+       <t pos="V">омӧльтчыны</t>
+       <t pos="V">слабмыны</t>
+       <t pos="V">лябны</t>
      </tg>
    </mg>
 </e>
@@ -6484,11 +6673,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нӧдны, _i_ӧтк¡_/i_ _i_пк¡_/i_ </t>
+       <t pos="V">нӧдны</t>
      </tg>
-     <xg><x>модьны</x>
-       <xt xml:lang="kpv">тоткыны, сӧрны, _i_зк¡_/i_ мойдны</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -6500,7 +6686,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мӧвпавны, думайтны</t>
+       <t pos="V">мӧвпавны</t>
+       <t pos="V">думайтны</t>
      </tg>
      <xg><x>Сое малпаны кулэ</x>
        <xt xml:lang="kpv">Тайӧс мӧвпыштны колӧ</xt>
@@ -6592,7 +6779,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мӧдны, кӧсйыны, лӧсьӧдчыны, мӧвпавны мыйкӧ вӧчны</t>
+       <t pos="V">мӧдны</t>
+       <t pos="V">кӧсйыны</t>
+       <t pos="V">лӧсьӧдчыны</t>
+       <t pos="V">мӧвпавны мыйкӧ вӧчны</t>
      </tg>
      <xg><x>Котькытчы вуыны медэ</x>
        <xt xml:lang="kpv">Быдлаӧ волыны кӧсйӧ</xt>
@@ -6608,7 +6798,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">муртавны, веситны, ӧшӧдлыны</t>
+       <t pos="V">муртавны</t>
+       <t pos="V">веситны</t>
+       <t pos="V">ӧшӧдлыны</t>
      </tg>
    </mg>
 </e>
@@ -6621,7 +6813,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">веситчыны, ассьыд сьӧктатӧ тӧдмавны</t>
+       <t pos="V">веситчыны</t>
+       <t pos="V">ассьыд сьӧктатӧ тӧдмавны</t>
      </tg>
    </mg>
 </e>
@@ -6634,7 +6827,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пуктыны град выв пуктас, кӧдзны</t>
+       <t pos="V">пуктыны град выв пуктас</t>
+       <t pos="V">кӧдзны</t>
      </tg>
      <xg><x>сугон мерттыны</x>
        <xt xml:lang="kpv">лук пуктыны</xt>
@@ -6650,7 +6844,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мыськыны, мыськавны</t>
+       <t pos="V">мыськыны</t>
+       <t pos="V">мыськавны</t>
      </tg>
      <xg><x>ымнырез миськыны</x>
        <xt xml:lang="kpv">чужӧмӧс, ныр-вомӧс мыськыны</xt>
@@ -6687,7 +6882,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нюжмасьны, сёрмыны</t>
+       <t pos="V">нюжмасьны</t>
+       <t pos="V">сёрмыны</t>
      </tg>
    </mg>
 </e>
@@ -6700,7 +6896,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ньӧжмӧдны, кутны, сувтӧдны, падмӧдны</t>
+       <t pos="V">ньӧжмӧдны</t>
+       <t pos="V">кутны</t>
+       <t pos="V">сувтӧдны</t>
+       <t pos="V">падмӧдны</t>
      </tg>
    </mg>
 </e>
@@ -6713,7 +6912,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сувтны, сирасьны</t>
+       <t pos="V">сувтны</t>
+       <t pos="V">сирасьны</t>
      </tg>
    </mg>
 </e>
@@ -6726,7 +6926,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мездыны, лэдзны вӧляӧ, мынтӧдны</t>
+       <t pos="V">мездыны</t>
+       <t pos="V">лэдзны вӧляӧ</t>
+       <t pos="V">мынтӧдны</t>
      </tg>
    </mg>
 </e>
@@ -6739,7 +6941,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гажтӧмтчыны, шогавны</t>
+       <t pos="V">гажтӧмтчыны</t>
+       <t pos="V">шогавны</t>
      </tg>
      <xg><x>Кинтэк тон мӧзмиськод?</x>
        <xt xml:lang="kpv">Кодысь тэ гажтӧмтчан?</xt>
@@ -6755,7 +6958,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мудйыны, кодъявны</t>
+       <t pos="V">мудйыны</t>
+       <t pos="V">кодъявны</t>
      </tg>
    </mg>
 </e>
@@ -6768,7 +6972,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">муръявны, тыртӧмӧн кольны (мӧс йылысь)</t>
+       <t pos="V">муръявны</t>
+       <t pos="V">тыртӧмӧн кольны (мӧс йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -6781,7 +6986,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мусаавны, лелькуйтны</t>
+       <t pos="V">мусаавны</t>
+       <t pos="V">лелькуйтны</t>
      </tg>
    </mg>
 </e>
@@ -6794,7 +7000,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мусукасьны, лелькуйтчыны</t>
+       <t pos="V">мусукасьны</t>
+       <t pos="V">лелькуйтчыны</t>
      </tg>
    </mg>
 </e>
@@ -6846,7 +7053,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">копыртчыны, юрӧс лэдзлыны</t>
+       <t pos="V">копыртчыны</t>
+       <t pos="V">юрӧс лэдзлыны</t>
      </tg>
    </mg>
 </e>
@@ -6872,7 +7080,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кӧсйыны, гажлы петны</t>
+       <t pos="V">кӧсйыны</t>
+       <t pos="V">гажлы петны</t>
      </tg>
      <xg><x>Мынам лыктыны али ик мылы потэ</x>
        <xt xml:lang="kpv">Менам дзик ӧнi локны гажӧй петӧ</xt>
@@ -6888,7 +7097,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нюмъявны, вашъявны</t>
+       <t pos="V">нюмъявны</t>
+       <t pos="V">вашъявны</t>
      </tg>
    </mg>
 </e>
@@ -6917,7 +7127,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нюмъявны, шпыньявны</t>
+       <t pos="V">нюмъявны</t>
+       <t pos="V">шпыньявны</t>
      </tg>
    </mg>
 </e>
@@ -6930,7 +7141,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тешитчыны, увтыртны, уськӧдны</t>
+       <t pos="V">тешитчыны</t>
+       <t pos="V">увтыртны</t>
+       <t pos="V">уськӧдны</t>
      </tg>
    </mg>
 </e>
@@ -6943,7 +7156,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бритчыны, ус-тош шырны</t>
+       <t pos="V">бритчыны</t>
+       <t pos="V">ус-тош шырны</t>
      </tg>
    </mg>
 </e>
@@ -6956,7 +7170,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мыччыны, чургӧдны</t>
+       <t pos="V">мыччыны</t>
+       <t pos="V">чургӧдны</t>
      </tg>
      <xg><x>пыдэз мычыны</x>
        <xt xml:lang="kpv">кок чургӧдны</xt>
@@ -6977,7 +7192,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лякӧссьыны, няйтӧссьыны</t>
+       <t pos="V">лякӧссьыны</t>
+       <t pos="V">няйтӧссьыны</t>
      </tg>
    </mg>
 </e>
@@ -7016,7 +7232,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">небзьыны, шонавны</t>
+       <t pos="V">небзьыны</t>
+       <t pos="V">шонавны</t>
      </tg>
    </mg>
 </e>
@@ -7055,7 +7272,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нимтыны, ним пуктыны</t>
+       <t pos="V">нимтыны</t>
+       <t pos="V">ним пуктыны</t>
      </tg>
    </mg>
 </e>
@@ -7068,7 +7286,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нетшкыны, ниртны</t>
+       <t pos="V">нетшкыны</t>
+       <t pos="V">ниртны</t>
      </tg>
    </mg>
 </e>
@@ -7081,7 +7300,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ниртны, нетшкыны, кульны</t>
+       <t pos="V">ниртны</t>
+       <t pos="V">нетшкыны</t>
+       <t pos="V">кульны</t>
      </tg>
      <xg><x>куэз ниръяны</x>
        <xt xml:lang="kpv">кучик кульыштны</xt>
@@ -7123,7 +7344,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">иславны, исласьны</t>
+       <t pos="V">иславны</t>
+       <t pos="V">исласьны</t>
      </tg>
      <xg><x>куасэн нискыланы</x>
        <xt xml:lang="kpv">лызьӧн исласьны</xt>
@@ -7139,7 +7361,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нёньӧдны, нёнь сетны</t>
+       <t pos="V">нёньӧдны</t>
+       <t pos="V">нёнь сетны</t>
      </tg>
    </mg>
 </e>
@@ -7152,7 +7375,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нёнь, нёнь юр</t>
+       <t pos="V">нёнь</t>
+       <t pos="V">нёнь юр</t>
      </tg>
      <xg><x>Бӧрдымтэ нунылы ноны уг сёто</x>
        <xt xml:lang="kpv">Бӧрдтӧм кагалы нёнь оз сетлыны</xt>
@@ -7205,7 +7429,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пажнайтны, ӧбедайтны</t>
+       <t pos="V">пажнайтны</t>
+       <t pos="V">ӧбедайтны</t>
      </tg>
    </mg>
 </e>
@@ -7283,7 +7508,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нуны, нуӧдны</t>
+       <t pos="V">нуны</t>
+       <t pos="V">нуӧдны</t>
      </tg>
      <xg><x>китӥз нуыны</x>
        <xt xml:lang="kpv">киӧдыс нуӧдны</xt>
@@ -7343,7 +7569,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ньӧръявны, ньӧрӧн кучкавны</t>
+       <t pos="V">ньӧръявны</t>
+       <t pos="V">ньӧрӧн кучкавны</t>
      </tg>
    </mg>
 </e>
@@ -7356,7 +7583,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ньылавны, ньылыштны</t>
+       <t pos="V">ньылавны</t>
+       <t pos="V">ньылыштны</t>
      </tg>
      <xg><x>Кылдэ ньылод – туж ческыт</x>
        <xt xml:lang="kpv">Кывтӧ ньылыштан – зэв чӧскыд</xt>
@@ -7388,7 +7616,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гадь зыртны, кок кучик зыртны</t>
+       <t pos="V">гадь зыртны</t>
+       <t pos="V">кок кучик зыртны</t>
      </tg>
    </mg>
 </e>
@@ -7401,7 +7630,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пажнайтны, ӧбедайтны</t>
+       <t pos="V">пажнайтны</t>
+       <t pos="V">ӧбедайтны</t>
      </tg>
    </mg>
 </e>
@@ -7414,7 +7644,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧтувтны, йитны, содтыны ӧтув</t>
+       <t pos="V">ӧтувтны</t>
+       <t pos="V">йитны</t>
+       <t pos="V">содтыны ӧтув</t>
      </tg>
    </mg>
 </e>
@@ -7427,7 +7659,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧтувтчыны, топыда йитчыны</t>
+       <t pos="V">ӧтувтчыны</t>
+       <t pos="V">топыда йитчыны</t>
      </tg>
    </mg>
 </e>
@@ -7440,7 +7673,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дойдны, сутшкыны, вины (ёсь тышка кӧлуйӧн, пуртӧн, шыпуртӧн)</t>
+       <t pos="V">дойдны</t>
+       <t pos="V">сутшкыны</t>
+       <t pos="V">вины (ёсь тышка кӧлуйӧн, пуртӧн, шыпуртӧн)</t>
      </tg>
    </mg>
 </e>
@@ -7453,7 +7688,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тышкасьны, косясьны</t>
+       <t pos="V">тышкасьны</t>
+       <t pos="V">косясьны</t>
      </tg>
    </mg>
 </e>
@@ -7466,7 +7702,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тырмыны, тырны, ӧкмыны</t>
+       <t pos="V">тырмыны</t>
+       <t pos="V">тырны</t>
+       <t pos="V">ӧкмыны</t>
      </tg>
    </mg>
 </e>
@@ -7479,7 +7717,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧктыны, идравны</t>
+       <t pos="V">ӧктыны</t>
+       <t pos="V">идравны</t>
      </tg>
    </mg>
    <mg>
@@ -7502,7 +7741,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вундыны, урожай босьтны </t>
+       <t pos="V">вундыны</t>
+       <t pos="V">урожай босьтны </t>
      </tg>
    </mg>
 </e>
@@ -7528,7 +7768,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гумлавны, перйыны</t>
+       <t pos="V">гумлавны</t>
+       <t pos="V">перйыны</t>
      </tg>
      <xg><x>омыръяса быдтыны</x>
        <xt xml:lang="kpv">гумлавны помӧдз, ставсӧ</xt>
@@ -7544,7 +7785,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">прӧйдитны, мунны</t>
+       <t pos="V">прӧйдитны</t>
+       <t pos="V">мунны</t>
      </tg>
      <xg><x>сюрес вылтӥ ортчыны</x>
        <xt xml:lang="kpv">туй вывтi мунны</xt>
@@ -7555,12 +7797,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кольны, помасьны</t>
+       <t pos="V">кольны</t>
+       <t pos="V">помасьны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">панйыны, ордйыны</t>
+       <t pos="V">панйыны</t>
+       <t pos="V">ордйыны</t>
      </tg>
    </mg>
 </e>
@@ -7573,7 +7817,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нуӧдны, коллявны</t>
+       <t pos="V">нуӧдны</t>
+       <t pos="V">коллявны</t>
      </tg>
      <xg><x>отпускез ортчытъяны</x>
        <xt xml:lang="kpv">шойччӧг коллявны</xt>
@@ -7589,7 +7834,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нуӧдны, лӧсьӧдны, коллявны (кад)</t>
+       <t pos="V">нуӧдны</t>
+       <t pos="V">лӧсьӧдны</t>
+       <t pos="V">коллявны (кад)</t>
      </tg>
    </mg>
 </e>
@@ -7623,7 +7870,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лача кутны, надейтчыны</t>
+       <t pos="V">лача кутны</t>
+       <t pos="V">надейтчыны</t>
      </tg>
    </mg>
 </e>
@@ -7636,7 +7884,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧшӧдчыны, ӧшйысьны</t>
+       <t pos="V">ӧшӧдчыны</t>
+       <t pos="V">ӧшйысьны</t>
      </tg>
    </mg>
 </e>
@@ -7649,7 +7898,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧшлыны, ӧшлавны</t>
+       <t pos="V">ӧшлыны</t>
+       <t pos="V">ӧшлавны</t>
      </tg>
    </mg>
 </e>
@@ -7662,7 +7912,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧшны, ӧшӧдны</t>
+       <t pos="V">ӧшны</t>
+       <t pos="V">ӧшӧдны</t>
      </tg>
      <xg><x>йырез ошыны</x>
        <xt xml:lang="kpv">юрӧс лэдзны</xt>
@@ -7678,7 +7929,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пондыны, заводитны</t>
+       <t pos="V">пондыны</t>
+       <t pos="V">заводитны</t>
      </tg>
    </mg>
 </e>
@@ -7704,7 +7956,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">восӧдны, вуктӧдлыны</t>
+       <t pos="V">восӧдны</t>
+       <t pos="V">вуктӧдлыны</t>
      </tg>
      <xg><x>Пуны ӧске</x>
        <xt xml:lang="kpv">Пон восӧ</xt>
@@ -7736,12 +7989,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">киссьыны, резсьыны</t>
+       <t pos="V">киссьыны</t>
+       <t pos="V">резсьыны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">жугавны, киссьыны </t>
+       <t pos="V">жугавны</t>
+       <t pos="V">киссьыны </t>
      </tg>
    </mg>
 </e>
@@ -7754,7 +8009,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кисьтыны, шыбитны</t>
+       <t pos="V">кисьтыны</t>
+       <t pos="V">шыбитны</t>
      </tg>
    </mg>
    <mg>
@@ -7772,7 +8028,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">койны, резны, шыблавны, _i_ӧтк¡_/i_ пазӧдны</t>
+       <t pos="V">койны</t>
+       <t pos="V">резны</t>
+       <t pos="V">шыблавны</t>
      </tg>
    </mg>
 </e>
@@ -7785,7 +8043,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">резсьыны, лэбзьыны гӧгӧр </t>
+       <t pos="V">резсьыны</t>
+       <t pos="V">лэбзьыны гӧгӧр </t>
      </tg>
    </mg>
 </e>
@@ -7798,7 +8057,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шензьыны, шемӧсмыны, дивуйтчыны</t>
+       <t pos="V">шензьыны</t>
+       <t pos="V">шемӧсмыны</t>
+       <t pos="V">дивуйтчыны</t>
      </tg>
    </mg>
 </e>
@@ -7811,7 +8072,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шензьӧдны, шемӧсмӧдны</t>
+       <t pos="V">шензьӧдны</t>
+       <t pos="V">шемӧсмӧдны</t>
      </tg>
      <xg><x>вань калыкез паймытыны</x>
        <xt xml:lang="kpv">став йӧзсӧ шензьӧдны</xt>
@@ -7840,7 +8102,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">солькйӧдлыны, кисьтавны ортсӧ</t>
+       <t pos="V">солькйӧдлыны</t>
+       <t pos="V">кисьтавны ортсӧ</t>
      </tg>
    </mg>
 </e>
@@ -7871,7 +8134,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нюмъёвтны, нюмъявны</t>
+       <t pos="V">нюмъёвтны</t>
+       <t pos="V">нюмъявны</t>
      </tg>
    </mg>
 </e>
@@ -7884,7 +8148,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧтдортчыны, соссьыны, торйӧдчыны</t>
+       <t pos="V">ӧтдортчыны</t>
+       <t pos="V">соссьыны</t>
+       <t pos="V">торйӧдчыны</t>
      </tg>
      <xg><x>кылъёслэсь палэнскыны</x>
        <xt xml:lang="kpv">кывъясысь соссьыны</xt>
@@ -7918,7 +8184,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧжны, тшай заваритны</t>
+       <t pos="V">пӧжны</t>
+       <t pos="V">тшай заваритны</t>
      </tg>
      <xg><x>веникез парыны</x>
        <xt xml:lang="kpv">корӧсьяс пӧжны</xt>
@@ -7991,12 +8258,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чеччыштны, лэбыштны</t>
+       <t pos="V">чеччыштны</t>
+       <t pos="V">лэбыштны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пезьдыны, мынны</t>
+       <t pos="V">пезьдыны</t>
+       <t pos="V">мынны</t>
      </tg>
    </mg>
 </e>
@@ -8045,7 +8314,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бакшасьны, сiсьмыны</t>
+       <t pos="V">бакшасьны</t>
+       <t pos="V">сiсьмыны</t>
      </tg>
    </mg>
 </e>
@@ -8087,7 +8357,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">йӧзӧдны, лэдзны, печатайтны</t>
+       <t pos="V">йӧзӧдны</t>
+       <t pos="V">лэдзны</t>
+       <t pos="V">печатайтны</t>
      </tg>
    </mg>
 </e>
@@ -8113,7 +8385,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чипсыны, визгыны</t>
+       <t pos="V">чипсыны</t>
+       <t pos="V">визгыны</t>
      </tg>
    </mg>
 </e>
@@ -8150,7 +8423,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вундыны, пилитны</t>
+       <t pos="V">вундыны</t>
+       <t pos="V">пилитны</t>
      </tg>
      <xg><x>Нылэн сэрен сюлэмыд пилемын</x>
        <xt xml:lang="kpv">Ныв понда сьӧлӧмыд жугалӧма</xt>
@@ -8208,7 +8482,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ичӧтмӧдны, посньӧдны</t>
+       <t pos="V">ичӧтмӧдны</t>
+       <t pos="V">посньӧдны</t>
      </tg>
    </mg>
 </e>
@@ -8221,7 +8496,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">югъявны, югзьыны</t>
+       <t pos="V">югъявны</t>
+       <t pos="V">югзьыны</t>
      </tg>
      <xg><x>чебер пиштысь тылъёс</x>
        <xt xml:lang="kpv">мичаа югзьысь бияс</xt>
@@ -8237,7 +8513,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пиавны, чужтыны</t>
+       <t pos="V">пиавны</t>
+       <t pos="V">чужтыны</t>
      </tg>
    </mg>
 </e>
@@ -8250,7 +8527,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёкмылявны, корӧг вӧчны</t>
+       <t pos="V">ёкмылявны</t>
+       <t pos="V">корӧг вӧчны</t>
      </tg>
    </mg>
 </e>
@@ -8279,7 +8557,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧрны, усьны</t>
+       <t pos="V">пӧрны</t>
+       <t pos="V">усьны</t>
      </tg>
    </mg>
 </e>
@@ -8292,7 +8571,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">туплясьны, вальмайтчыны</t>
+       <t pos="V">туплясьны</t>
+       <t pos="V">вальмайтчыны</t>
      </tg>
    </mg>
 </e>
@@ -8305,7 +8585,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧрӧдны, уськӧдны</t>
+       <t pos="V">пӧрӧдны</t>
+       <t pos="V">уськӧдны</t>
      </tg>
      <xg><x>Оген будӥсь писпуэз тӧл но погыртэ</x>
        <xt xml:lang="kpv">Ӧткӧн быдмысь путӧ тӧв пӧрӧдӧ</xt>
@@ -8321,7 +8602,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гудыртны, пежавны, няйтӧсьтны</t>
+       <t pos="V">гудыртны</t>
+       <t pos="V">пежавны</t>
+       <t pos="V">няйтӧсьтны</t>
      </tg>
    </mg>
 </e>
@@ -8344,7 +8627,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тшыксьыны, торксьыны, пежасьны</t>
+       <t pos="V">тшыксьыны</t>
+       <t pos="V">торксьыны</t>
+       <t pos="V">пежасьны</t>
      </tg>
    </mg>
 </e>
@@ -8357,7 +8642,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гартны, чиклясьны, кыны</t>
+       <t pos="V">гартны</t>
+       <t pos="V">чиклясьны</t>
+       <t pos="V">кыны</t>
      </tg>
      <xg><x>гозыез позыръяны</x>
        <xt xml:lang="kpv">гез кыны</xt>
@@ -8373,7 +8660,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пелысӧн сынны, пелысасьны</t>
+       <t pos="V">пелысӧн сынны</t>
+       <t pos="V">пелысасьны</t>
      </tg>
      <xg><x>полысэн полсаса</x>
        <xt xml:lang="kpv">пелысӧн пелысасьӧмӧн</xt>
@@ -8389,7 +8677,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пуктыны, кисьтыны</t>
+       <t pos="V">пуктыны</t>
+       <t pos="V">кисьтыны</t>
      </tg>
      <xg><x>ним поныны</x>
        <xt xml:lang="kpv">ним пуктыны</xt>
@@ -8405,7 +8694,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">писькӧдны, розьӧдны</t>
+       <t pos="V">писькӧдны</t>
+       <t pos="V">розьӧдны</t>
      </tg>
    </mg>
 </e>
@@ -8418,7 +8708,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэбавны, жбыръявны, гӧгравны-кытшлавны</t>
+       <t pos="V">лэбавны</t>
+       <t pos="V">жбыръявны</t>
+       <t pos="V">гӧгравны-кытшлавны</t>
      </tg>
      <xg><x>Дыдык инмын поръя</x>
        <xt xml:lang="kpv">Гулю енэжын лэбалӧ</xt>
@@ -8439,7 +8731,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">яндысьны, падмыны</t>
+       <t pos="V">яндысьны</t>
+       <t pos="V">падмыны</t>
      </tg>
    </mg>
 </e>
@@ -8452,7 +8745,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">песны, куснявны, чукравны, нямравны</t>
+       <t pos="V">песны</t>
+       <t pos="V">куснявны</t>
+       <t pos="V">чукравны</t>
+       <t pos="V">нямравны</t>
      </tg>
    </mg>
 </e>
@@ -8481,7 +8777,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">петкӧдны, перйыны</t>
+       <t pos="V">петкӧдны</t>
+       <t pos="V">перйыны</t>
      </tg>
      <xg><x>нефть поттыны</x>
        <xt xml:lang="kpv">мусир перйыны</xt>
@@ -8489,7 +8786,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэдзны, вӧчны</t>
+       <t pos="V">лэдзны</t>
+       <t pos="V">вӧчны</t>
      </tg>
      <xg><x>пыӵал поттон завод</x>
        <xt xml:lang="kpv">пишшаль вӧчан завод</xt>
@@ -8526,7 +8824,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пуны, пуӧдны</t>
+       <t pos="V">пуны</t>
+       <t pos="V">пуӧдны</t>
      </tg>
    </mg>
    <mg>
@@ -8547,7 +8846,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пуны, варкйыны-пуны</t>
+       <t pos="V">пуны</t>
+       <t pos="V">варкйыны-пуны</t>
      </tg>
      <xg><x>Уж пӧзе</x>
        <xt xml:lang="kpv">Уджыс пуӧ</xt>
@@ -8563,7 +8863,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧравны, кыйсьыны</t>
+       <t pos="V">вӧравны</t>
+       <t pos="V">кыйсьыны</t>
      </tg>
    </mg>
 </e>
@@ -8589,7 +8890,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">артмыны, мойвины, пӧртчыны олӧмӧ</t>
+       <t pos="V">артмыны</t>
+       <t pos="V">мойвины</t>
+       <t pos="V">пӧртчыны олӧмӧ</t>
      </tg>
      <xg><x>Мынам номыр но уз пӧрмы</x>
        <xt xml:lang="kpv">Менам нинӧм оз артмы</xt>
@@ -8605,7 +8908,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ылӧдлыны, пӧрйӧдлыны, пӧръявны</t>
+       <t pos="V">ылӧдлыны</t>
+       <t pos="V">пӧрйӧдлыны</t>
+       <t pos="V">пӧръявны</t>
      </tg>
    </mg>
 </e>
@@ -8623,7 +8928,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тшӧкыда вежлавны (удж, оланiн), П </t>
+       <t pos="V">тшӧкыда вежлавны (удж, оланiн)</t>
      </tg>
      <xg><x>пуаса ветлыны</x>
        <xt xml:lang="kpv">инысь инӧ чеччавны</xt>
@@ -8639,7 +8944,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">серъясӧн вурны, серъясӧн кыны</t>
+       <t pos="V">серъясӧн вурны</t>
+       <t pos="V">серъясӧн кыны</t>
      </tg>
    </mg>
 </e>
@@ -8652,7 +8958,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">серъяс вурны, серъяс кыны</t>
+       <t pos="V">серъяс вурны</t>
+       <t pos="V">серъяс кыны</t>
      </tg>
      <xg><x>Улон — пужъятэм ӝӧккышет ӧвӧл</x>
        <xt xml:lang="kpv">Олӧм — абу серъясӧн вурӧм пызандӧра</xt>
@@ -8668,7 +8975,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">колькъявны, кольк вайны</t>
+       <t pos="V">колькъявны</t>
+       <t pos="V">кольк вайны</t>
      </tg>
      <xg><x>Курегъёс пузало</x>
        <xt xml:lang="kpv">Курӧгъяс колькъялӧны</xt>
@@ -8729,7 +9037,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">паныдасьны, аддзысьны</t>
+       <t pos="V">паныдасьны</t>
+       <t pos="V">аддзысьны</t>
      </tg>
    </mg>
 </e>
@@ -8742,7 +9051,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">паныдавны, вочаавны</t>
+       <t pos="V">паныдавны</t>
+       <t pos="V">вочаавны</t>
      </tg>
      <xg><x>гажаса пумитаны</x>
        <xt xml:lang="kpv">пыдди-пуктӧмӧн вочаавны</xt>
@@ -8761,7 +9071,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">паныдасьны, вочаасьны</t>
+       <t pos="V">паныдасьны</t>
+       <t pos="V">вочаасьны</t>
      </tg>
    </mg>
 </e>
@@ -8774,7 +9085,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">паныдасьны, зурасьны</t>
+       <t pos="V">паныдасьны</t>
+       <t pos="V">зурасьны</t>
      </tg>
    </mg>
 </e>
@@ -8787,7 +9099,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">помавны, эштӧдны, сигӧртны</t>
+       <t pos="V">помавны</t>
+       <t pos="V">эштӧдны</t>
+       <t pos="V">сигӧртны</t>
      </tg>
    </mg>
 </e>
@@ -8816,7 +9130,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">удждыны, уджйӧзасьны, водзӧсӧн босьтны </t>
+       <t pos="V">удждыны</t>
+       <t pos="V">уджйӧзасьны</t>
+       <t pos="V">водзӧсӧн босьтны </t>
      </tg>
    </mg>
 </e>
@@ -8829,7 +9145,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кыпавны, ёна быдмыны</t>
+       <t pos="V">кыпавны</t>
+       <t pos="V">ёна быдмыны</t>
      </tg>
      <xg><x>Нош вуиз тулыс, Льӧмпуос пурӟо</x>
        <xt xml:lang="kpv">Бара вои тулыс, Льӧм дзоридзьяс киссьӧны</xt>
@@ -8850,7 +9167,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэптыны, кыпӧдны</t>
+       <t pos="V">лэптыны</t>
+       <t pos="V">кыпӧдны</t>
      </tg>
      <xg><x>тузон пурӟытыны</x>
        <xt xml:lang="kpv">бус лэптыны</xt>
@@ -8866,7 +9184,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">куритчыны, табак нюшкыны</t>
+       <t pos="V">куритчыны</t>
+       <t pos="V">табак нюшкыны</t>
      </tg>
    </mg>
 </e>
@@ -8879,7 +9198,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пурны, курччавны</t>
+       <t pos="V">пурны</t>
+       <t pos="V">курччавны</t>
      </tg>
    </mg>
 </e>
@@ -8892,7 +9212,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пасйыны, пас пуктыны</t>
+       <t pos="V">пасйыны</t>
+       <t pos="V">пас пуктыны</t>
      </tg>
    </mg>
 </e>
@@ -8905,7 +9226,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">быдмыны, паськавны</t>
+       <t pos="V">быдмыны</t>
+       <t pos="V">паськавны</t>
      </tg>
    </mg>
    <mg>
@@ -8923,7 +9245,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пидзӧсчанясьны, сувтны пидзӧс вылӧ</t>
+       <t pos="V">пидзӧсчанясьны</t>
+       <t pos="V">сувтны пидзӧс вылӧ</t>
      </tg>
    </mg>
 </e>
@@ -9002,12 +9325,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пыкны, мыджны</t>
+       <t pos="V">пыкны</t>
+       <t pos="V">мыджны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дивитны, шуасьны</t>
+       <t pos="V">дивитны</t>
+       <t pos="V">шуасьны</t>
      </tg>
    </mg>
 </e>
@@ -9020,7 +9345,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">уявны, купайтчыны</t>
+       <t pos="V">уявны</t>
+       <t pos="V">купайтчыны</t>
      </tg>
    </mg>
    <mg>
@@ -9038,7 +9364,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">купайтны, мыськавны</t>
+       <t pos="V">купайтны</t>
+       <t pos="V">мыськавны</t>
      </tg>
    </mg>
 </e>
@@ -9051,7 +9378,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">паськавны, чашкавны (синъяс йылысь)</t>
+       <t pos="V">паськавны</t>
+       <t pos="V">чашкавны (синъяс йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -9064,7 +9392,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пырны уджӧ, участвуйтны</t>
+       <t pos="V">пырны уджӧ</t>
+       <t pos="V">участвуйтны</t>
      </tg>
    </mg>
 </e>
@@ -9114,7 +9443,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">инӧ-артӧ вайӧдны, инасӧ вайӧдны</t>
+       <t pos="V">инӧ-артӧ вайӧдны</t>
+       <t pos="V">инасӧ вайӧдны</t>
      </tg>
    </mg>
 </e>
@@ -9127,7 +9457,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">садьмӧдны, узьӧмысь торкны</t>
+       <t pos="V">садьмӧдны</t>
+       <t pos="V">узьӧмысь торкны</t>
      </tg>
      <xg><x>Уж дыръя шундыэз ачид сайкаты</x>
        <xt xml:lang="kpv">Уджалiг шондiсӧ ачыд садьмӧд</xt>
@@ -9143,7 +9474,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">садьмыны, унмысь палявны</t>
+       <t pos="V">садьмыны</t>
+       <t pos="V">унмысь палявны</t>
      </tg>
      <xg><x>бер сайкыны</x>
        <xt xml:lang="kpv">сёр садьмыны</xt>
@@ -9159,7 +9491,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сайӧдны, вуджӧр сетны</t>
+       <t pos="V">сайӧдны</t>
+       <t pos="V">вуджӧр сетны</t>
      </tg>
    </mg>
 </e>
@@ -9172,7 +9505,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лякӧсьтны, няйтӧсьтны</t>
+       <t pos="V">лякӧсьтны</t>
+       <t pos="V">няйтӧсьтны</t>
      </tg>
    </mg>
 </e>
@@ -9185,7 +9519,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧттшуйтны, вердны-юктавны</t>
+       <t pos="V">пӧттшуйтны</t>
+       <t pos="V">вердны-юктавны</t>
      </tg>
      <xg><x>сюкасен сектаны</x>
        <xt xml:lang="kpv">ырӧшӧн юктӧдны</xt>
@@ -9201,7 +9536,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сьӧктаммыны, тырсявны</t>
+       <t pos="V">сьӧктаммыны</t>
+       <t pos="V">тырсявны</t>
      </tg>
    </mg>
 </e>
@@ -9214,7 +9550,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">серӧктыны, С </t>
+       <t pos="V">серӧктыны</t>
      </tg>
      <xg><x>пеле пырымон серектыны</x>
        <xt xml:lang="kpv">пель вундымӧн серӧктыны</xt>
@@ -9230,7 +9566,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">серавны, тешитчыны</t>
+       <t pos="V">серавны</t>
+       <t pos="V">тешитчыны</t>
      </tg>
      <xg><x>кӧтэ посыса / кӧтэ кутыса серекъяны</x>
        <xt xml:lang="kpv">рушку чукралӧмӧн серавны</xt>
@@ -9246,7 +9583,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">домавны, кӧртвомавны</t>
+       <t pos="V">домавны</t>
+       <t pos="V">кӧртвомавны</t>
      </tg>
      <xg><x>валэз серметаны</x>
        <xt xml:lang="kpv">вӧлӧс кӧртвомавны</xt>
@@ -9281,7 +9619,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сёйны, нуръясьны</t>
+       <t pos="V">сёйны</t>
+       <t pos="V">нуръясьны</t>
      </tg>
      <xg><x>Ӵыныз синдэ сие</x>
        <xt xml:lang="kpv">Тшыныс синтӧ сёйӧ</xt>
@@ -9297,7 +9636,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">казявны, торйӧдны</t>
+       <t pos="V">казявны</t>
+       <t pos="V">торйӧдны</t>
      </tg>
    </mg>
 </e>
@@ -9310,7 +9650,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">радейтчыны, мусмыны</t>
+       <t pos="V">радейтчыны</t>
+       <t pos="V">мусмыны</t>
      </tg>
      <xg><x>ныллы синмаськыны</x>
        <xt xml:lang="kpv">ныв вылӧ радейтчыны</xt>
@@ -9321,7 +9662,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кажитчыны, сьӧлӧм вылӧ воны</t>
+       <t pos="V">кажитчыны</t>
+       <t pos="V">сьӧлӧм вылӧ воны</t>
      </tg>
    </mg>
    <mg>
@@ -9370,7 +9712,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сёйны, сёйыштны</t>
+       <t pos="V">сёйны</t>
+       <t pos="V">сёйыштны</t>
      </tg>
      <xg><x>Мон сиськисько</x>
        <xt xml:lang="kpv">Ме сёя</xt>
@@ -9463,7 +9806,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сысъявны, пожнавны</t>
+       <t pos="V">сысъявны</t>
+       <t pos="V">пожнавны</t>
      </tg>
    </mg>
 </e>
@@ -9524,7 +9868,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">жугавны, пазавны</t>
+       <t pos="V">жугавны</t>
+       <t pos="V">пазавны</t>
      </tg>
      <xg><x>Телевизор сӧриськиз</x>
        <xt xml:lang="kpv">Серпаскуд жугалiс</xt>
@@ -9566,7 +9911,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">судзӧдны, босьтны</t>
+       <t pos="V">судзӧдны</t>
+       <t pos="V">босьтны</t>
      </tg>
      <xg><x>киын сузьыны</x>
        <xt xml:lang="kpv">киӧн судзӧдны</xt>
@@ -9598,7 +9944,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">весавны, вӧчны, керны</t>
+       <t pos="V">весавны</t>
+       <t pos="V">вӧчны</t>
+       <t pos="V">керны</t>
      </tg>
      <xg><x>чорыг сузяны</x>
        <xt xml:lang="kpv">чери вӧчны</xt>
@@ -9619,7 +9967,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сувтны, чеччыны</t>
+       <t pos="V">сувтны</t>
+       <t pos="V">чеччыны</t>
      </tg>
      <xg><x>ӝӧк сьӧрысь султыны</x>
        <xt xml:lang="kpv">пызан сайысь петны</xt>
@@ -9635,7 +9984,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сорлавны, гудравны</t>
+       <t pos="V">сорлавны</t>
+       <t pos="V">гудравны</t>
      </tg>
    </mg>
 </e>
@@ -9648,7 +9998,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сорны, соравны, С </t>
+       <t pos="V">сорны</t>
+       <t pos="V">соравны</t>
      </tg>
      <xg><x>йырвизь сураны</x>
        <xt xml:lang="kpv">йӧймӧдны, тӧлксьыс воштӧдны</xt>
@@ -9709,7 +10060,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">II суӧдны, вӧтӧдны</t>
+       <t pos="V">суӧдны</t>
+       <t pos="V">вӧтӧдны</t>
      </tg>
      <xg><x>Мон вынэз сутӥ</x>
        <xt xml:lang="kpv">Ме ичӧт вокӧс суӧдi</xt>
@@ -9768,7 +10120,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гыжъявны, гыжйыштны</t>
+       <t pos="V">гыжъявны</t>
+       <t pos="V">гыжйыштны</t>
      </tg>
    </mg>
 </e>
@@ -9781,7 +10134,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сынасьны, юрси шыльӧдны</t>
+       <t pos="V">сынасьны</t>
+       <t pos="V">юрси шыльӧдны</t>
      </tg>
    </mg>
 </e>
@@ -9820,7 +10174,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мыж вӧчавны, грек вӧчны, грекӧвӧйтчыны</t>
+       <t pos="V">мыж вӧчавны</t>
+       <t pos="V">грек вӧчны</t>
+       <t pos="V">грекӧвӧйтчыны</t>
      </tg>
    </mg>
 </e>
@@ -9833,7 +10189,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пыркнитны, тракнитны</t>
+       <t pos="V">пыркнитны</t>
+       <t pos="V">тракнитны</t>
      </tg>
    </mg>
    <mg>
@@ -9851,7 +10208,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пыркӧдны, тракйыны</t>
+       <t pos="V">пыркӧдны</t>
+       <t pos="V">тракйыны</t>
      </tg>
    </mg>
    <mg>
@@ -9877,7 +10235,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чӧвтны, путкыльтны</t>
+       <t pos="V">чӧвтны</t>
+       <t pos="V">путкыльтны</t>
      </tg>
      <xg><x>эксэез сэрпалтыны</x>
        <xt xml:lang="kpv">сарӧс чӧвтны</xt>
@@ -9893,7 +10252,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">разьны, лэдзны-личӧдны (юрси туг, гӧрӧд)</t>
+       <t pos="V">разьны</t>
+       <t pos="V">лэдзны-личӧдны (юрси туг, гӧрӧд)</t>
      </tg>
      <xg><x>герд сэрттыны</x>
        <xt xml:lang="kpv">гӧрӧд разьны</xt>
@@ -9909,7 +10269,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вердны, сёйӧдны</t>
+       <t pos="V">вердны</t>
+       <t pos="V">сёйӧдны</t>
      </tg>
      <xg><x>пудоез сюдыны</x>
        <xt xml:lang="kpv">скӧтӧс вердны</xt>
@@ -9925,7 +10286,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">корны мыйкӧ вӧчны, кевмыны мыйкӧ вӧчны</t>
+       <t pos="V">корны мыйкӧ вӧчны</t>
+       <t pos="V">кевмыны мыйкӧ вӧчны</t>
      </tg>
    </mg>
 </e>
@@ -9938,7 +10300,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тӧждысьны, майшасьны, шогсьыны</t>
+       <t pos="V">тӧждысьны</t>
+       <t pos="V">майшасьны</t>
+       <t pos="V">шогсьыны</t>
      </tg>
      <xg><x>нылпиос сярысь сюлмаськыны</x>
        <xt xml:lang="kpv">челядь вӧсна тӧждысьны</xt>
@@ -9957,7 +10321,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">майшасьны, шогсьыны, думайтны</t>
+       <t pos="V">майшасьны</t>
+       <t pos="V">шогсьыны</t>
+       <t pos="V">думайтны</t>
      </tg>
      <xg><x>пиналъёс понна сюлэмшугъяськыны</x>
        <xt xml:lang="kpv">челядь вӧсна майшасьны</xt>
@@ -10041,7 +10407,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзоридзавны, дзордзавны</t>
+       <t pos="V">дзоридзавны</t>
+       <t pos="V">дзордзавны</t>
      </tg>
    </mg>
 </e>
@@ -10054,7 +10421,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кӧдзӧдны, раммӧдны</t>
+       <t pos="V">кӧдзӧдны</t>
+       <t pos="V">раммӧдны</t>
      </tg>
    </mg>
 </e>
@@ -10067,7 +10435,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">жугӧдны, косявны, тшыкӧдны</t>
+       <t pos="V">жугӧдны</t>
+       <t pos="V">косявны</t>
+       <t pos="V">тшыкӧдны</t>
      </tg>
      <xg><x>тылобурдо карез тӥяны</x>
        <xt xml:lang="kpv">лэбач позъяс жуглыны</xt>
@@ -10086,7 +10456,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">жугавны, киссьыны, торксьыны</t>
+       <t pos="V">жугавны</t>
+       <t pos="V">киссьыны</t>
+       <t pos="V">торксьыны</t>
      </tg>
      <xg><x>Уробо колёсаез тӥяськем</x>
        <xt xml:lang="kpv">Телега гӧгыльыс жугалӧма</xt>
@@ -10150,7 +10522,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тӧдны, тӧдмавны</t>
+       <t pos="V">тӧдны</t>
+       <t pos="V">тӧдмавны</t>
      </tg>
      <xg><x>Со уг тоды-а?</x>
        <xt xml:lang="kpv">Сiйӧ оз-ӧ тӧд?</xt>
@@ -10166,7 +10539,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тӧвйыны, тӧв коллявны</t>
+       <t pos="V">тӧвйыны</t>
+       <t pos="V">тӧв коллявны</t>
      </tg>
      <xg><x>Ми гуртын толйимы</x>
        <xt xml:lang="kpv">Ми сиктын тӧвйим</xt>
@@ -10216,7 +10590,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пӧльтны, тӧлавны</t>
+       <t pos="V">пӧльтны</t>
+       <t pos="V">тӧлавны</t>
      </tg>
      <xg><x>Тӧл тӧла</x>
        <xt xml:lang="kpv">Тӧв пӧльтӧ</xt>
@@ -10224,7 +10599,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">косьмыны, шуравны</t>
+       <t pos="V">косьмыны</t>
+       <t pos="V">шуравны</t>
      </tg>
    </mg>
 </e>
@@ -10237,7 +10613,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кайны, кавшасьны</t>
+       <t pos="V">кайны</t>
+       <t pos="V">кавшасьны</t>
      </tg>
      <xg><x>гурезе тубыны</x>
        <xt xml:lang="kpv">чойӧ, гӧраӧ кайны</xt>
@@ -10259,7 +10636,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзугны (сунис), пашкыртны (юрси)</t>
+       <t pos="V">дзугны (сунис)</t>
+       <t pos="V">пашкыртны (юрси)</t>
      </tg>
    </mg>
 </e>
@@ -10272,7 +10650,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гыасьны, гыавны</t>
+       <t pos="V">гыасьны</t>
+       <t pos="V">гыавны</t>
      </tg>
    </mg>
 </e>
@@ -10285,7 +10664,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">томанавны, игнавны</t>
+       <t pos="V">томанавны</t>
+       <t pos="V">игнавны</t>
      </tg>
    </mg>
 </e>
@@ -10298,7 +10678,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">интересуйтчыны, тӧдмавны кӧсйыны</t>
+       <t pos="V">интересуйтчыны</t>
+       <t pos="V">тӧдмавны кӧсйыны</t>
      </tg>
      <xg><x>Маин тунсыкъяськиськод?</x>
        <xt xml:lang="kpv">Мыйӧн интересуйтчан?</xt>
@@ -10342,7 +10723,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">дзоньтавны, лӧсьӧдны</t>
+       <t pos="V">дзоньтавны</t>
+       <t pos="V">лӧсьӧдны</t>
      </tg>
    </mg>
 </e>
@@ -10368,7 +10750,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧсьӧдчыны, кӧсйыны</t>
+       <t pos="V">лӧсьӧдчыны</t>
+       <t pos="V">кӧсйыны</t>
      </tg>
    </mg>
    <mg>
@@ -10386,7 +10769,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">фотографируйтны, югӧрсеравны</t>
+       <t pos="V">фотографируйтны</t>
+       <t pos="V">югӧрсеравны</t>
      </tg>
    </mg>
 </e>
@@ -10399,7 +10783,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ва туй тупкыны, ты вӧчны</t>
+       <t pos="V">ва туй тупкыны</t>
+       <t pos="V">ты вӧчны</t>
      </tg>
    </mg>
 </e>
@@ -10412,7 +10797,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сӧвтны, тэчны</t>
+       <t pos="V">сӧвтны</t>
+       <t pos="V">тэчны</t>
      </tg>
    </mg>
 </e>
@@ -10457,7 +10843,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">зiльны, мырсьыны</t>
+       <t pos="V">зiльны</t>
+       <t pos="V">мырсьыны</t>
      </tg>
    </mg>
 </e>
@@ -10478,7 +10865,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тыртны, сӧвтны, тэчны</t>
+       <t pos="V">тыртны</t>
+       <t pos="V">сӧвтны</t>
+       <t pos="V">тэчны</t>
      </tg>
    </mg>
 </e>
@@ -10491,7 +10880,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нӧйтны, кучкавны</t>
+       <t pos="V">нӧйтны</t>
+       <t pos="V">кучкавны</t>
      </tg>
    </mg>
 </e>
@@ -10504,7 +10894,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видны, видчыны</t>
+       <t pos="V">видны</t>
+       <t pos="V">видчыны</t>
      </tg>
    </mg>
 </e>
@@ -10526,27 +10917,29 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="V">тэляны</l>
+     <l hid="Hom1" pos="V">тэляны</l>
      <stg>
        <st>тэляны</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">I вӧравны, кыйсьыны</t>
+       <t pos="V">вӧравны</t>
+       <t pos="V">кыйсьыны</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="V">тэляны</l>
+     <l hid="Hom2" pos="V">тэляны</l>
      <stg>
        <st>тэляны</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">II тратшкӧдчыны, ӧддзыны-ломтысьны (пес йылысь)</t>
+       <t pos="V">тратшкӧдчыны</t>
+       <t pos="V">ӧддзыны-ломтысьны (пес йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -10559,12 +10952,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видны, дивитны</t>
+       <t pos="V">видны</t>
+       <t pos="V">дивитны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бракуйтны, туйтӧмӧн шуны</t>
+       <t pos="V">бракуйтны</t>
+       <t pos="V">туйтӧмӧн шуны</t>
      </tg>
    </mg>
 </e>
@@ -10577,7 +10972,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ыждавны, кратайтчыны</t>
+       <t pos="V">ыждавны</t>
+       <t pos="V">кратайтчыны</t>
      </tg>
    </mg>
    <mg>
@@ -10634,7 +11030,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чеччыштны, лэбыштны</t>
+       <t pos="V">чеччыштны</t>
+       <t pos="V">лэбыштны</t>
      </tg>
      <xg><x>вуэ тэтчыны</x>
        <xt xml:lang="kpv">ваӧ чеччыштны</xt>
@@ -10650,12 +11047,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">артмыны, чужны</t>
+       <t pos="V">артмыны</t>
+       <t pos="V">чужны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мойвины, шудлы усьны</t>
+       <t pos="V">мойвины</t>
+       <t pos="V">шудлы усьны</t>
      </tg>
      <xg><x>Солы удалтӥз</x>
        <xt xml:lang="kpv">Сылы шуд усис</xt>
@@ -10671,7 +11070,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧчны шудаӧн, шуд сетны</t>
+       <t pos="V">вӧчны шудаӧн</t>
+       <t pos="V">шуд сетны</t>
      </tg>
    </mg>
    <mg>
@@ -10689,7 +11089,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">удны, пӧттшуйтны</t>
+       <t pos="V">удны</t>
+       <t pos="V">пӧттшуйтны</t>
      </tg>
    </mg>
 </e>
@@ -10713,7 +11114,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">уджавны, вӧчны, керны</t>
+       <t pos="V">уджавны</t>
+       <t pos="V">вӧчны</t>
+       <t pos="V">керны</t>
      </tg>
      <xg><x>музъем ужаны</x>
        <xt xml:lang="kpv">му уджавны</xt>
@@ -10755,7 +11158,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сӧрны, вӧтын сёрнитны</t>
+       <t pos="V">сӧрны</t>
+       <t pos="V">вӧтын сёрнитны</t>
      </tg>
    </mg>
 </e>
@@ -10768,7 +11172,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧтчыны, вӧтӧдны, _i_ӧтк¡_/i_ уйны</t>
+       <t pos="V">вӧтчыны</t>
+       <t pos="V">вӧтӧдны</t>
      </tg>
    </mg>
 </e>
@@ -10804,7 +11209,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧзйыны, ыпнитны</t>
+       <t pos="V">ӧзйыны</t>
+       <t pos="V">ыпнитны</t>
      </tg>
    </mg>
    <mg>
@@ -10835,7 +11241,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">овны-вывны, овлыны</t>
+       <t pos="V">овны-вывны</t>
+       <t pos="V">овлыны</t>
      </tg>
      <xg><x>Улӥллям-вылӥллям кык эшъёс</x>
        <xt xml:lang="kpv">Овлӧмаӧсь-вӧвлӧмаӧсь кык ёрт</xt>
@@ -10851,7 +11258,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бурмӧдны, сӧвмӧдны</t>
+       <t pos="V">бурмӧдны</t>
+       <t pos="V">сӧвмӧдны</t>
      </tg>
    </mg>
 </e>
@@ -10864,7 +11272,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лыдмӧдны, содтыны</t>
+       <t pos="V">лыдмӧдны</t>
+       <t pos="V">содтыны</t>
      </tg>
    </mg>
 </e>
@@ -10900,7 +11309,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">орӧссьыны, пежасьны, ӧдны</t>
+       <t pos="V">орӧссьыны</t>
+       <t pos="V">пежасьны</t>
+       <t pos="V">ӧдны</t>
      </tg>
    </mg>
 </e>
@@ -10913,7 +11324,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёртасьны, ёртъясӧн лоны</t>
+       <t pos="V">ёртасьны</t>
+       <t pos="V">ёртъясӧн лоны</t>
      </tg>
    </mg>
 </e>
@@ -10926,7 +11338,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">киссьыны (ва йылысь), пышйыны</t>
+       <t pos="V">киссьыны (ва йылысь)</t>
+       <t pos="V">пышйыны</t>
      </tg>
      <xg><x>Шыд уртчис</x>
        <xt xml:lang="kpv">Шыдыс чинiс пуигас</xt>
@@ -10942,7 +11355,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ладмӧдчыны, ури лӧсьӧдны, миритчыны</t>
+       <t pos="V">ладмӧдчыны</t>
+       <t pos="V">ури лӧсьӧдны</t>
+       <t pos="V">миритчыны</t>
      </tg>
    </mg>
 </e>
@@ -10955,7 +11370,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кокавны, мудйыны</t>
+       <t pos="V">кокавны</t>
+       <t pos="V">мудйыны</t>
      </tg>
    </mg>
 </e>
@@ -11013,7 +11429,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">веськавны, лоны</t>
+       <t pos="V">веськавны</t>
+       <t pos="V">лоны</t>
      </tg>
      <xg><x>Мон висьыны уси</x>
        <xt xml:lang="kpv"> Ме висьми</xt>
@@ -11043,7 +11460,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видлыны, вомӧ босьтлыны</t>
+       <t pos="V">видлыны</t>
+       <t pos="V">вомӧ босьтлыны</t>
      </tg>
    </mg>
 </e>
@@ -11082,7 +11500,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">быдтыны, чередитны</t>
+       <t pos="V">быдтыны</t>
+       <t pos="V">чередитны</t>
      </tg>
    </mg>
    <mg>
@@ -11103,17 +11522,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видзны, чӧжны</t>
+       <t pos="V">видзны</t>
+       <t pos="V">чӧжны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">идравны, весавны</t>
+       <t pos="V">идравны</t>
+       <t pos="V">весавны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гӧсьтитӧдны, пӧттшуйтны</t>
+       <t pos="V">гӧсьтитӧдны</t>
+       <t pos="V">пӧттшуйтны</t>
      </tg>
    </mg>
 </e>
@@ -11142,7 +11564,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ошкыны, бура донъявны</t>
+       <t pos="V">ошкыны</t>
+       <t pos="V">бура донъявны</t>
      </tg>
    </mg>
 </e>
@@ -11171,7 +11594,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">уявны, варччыны, кывтны</t>
+       <t pos="V">уявны</t>
+       <t pos="V">варччыны</t>
+       <t pos="V">кывтны</t>
      </tg>
      <xg><x>уяны быгатыны</x>
        <xt xml:lang="kpv">варччыны кужны</xt>
@@ -11187,7 +11612,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кияс паськӧдлыны, киӧн юковтны</t>
+       <t pos="V">кияс паськӧдлыны</t>
+       <t pos="V">киӧн юковтны</t>
      </tg>
    </mg>
 </e>
@@ -11200,7 +11626,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ки пыдӧсӧн кучкыны, лӧсыштны</t>
+       <t pos="V">ки пыдӧсӧн кучкыны</t>
+       <t pos="V">лӧсыштны</t>
      </tg>
      <xg><x>бамаз чабкыны</x>
        <xt xml:lang="kpv">бандзибӧ лӧсыштны</xt>
@@ -11221,7 +11648,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кекӧначавны, кекӧначасьны</t>
+       <t pos="V">кекӧначавны</t>
+       <t pos="V">кекӧначасьны</t>
      </tg>
    </mg>
 </e>
@@ -11239,7 +11667,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видлыны, прӧверитны</t>
+       <t pos="V">видлыны</t>
+       <t pos="V">прӧверитны</t>
      </tg>
    </mg>
    <mg>
@@ -11280,7 +11709,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧньны, чӧвны</t>
+       <t pos="V">лӧньны</t>
+       <t pos="V">чӧвны</t>
      </tg>
      <xg><x>Тӧл чалмиз</x>
        <xt xml:lang="kpv">Тӧв лӧнис</xt>
@@ -11309,7 +11739,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мичаммыны, бурмыны</t>
+       <t pos="V">мичаммыны</t>
+       <t pos="V">бурмыны</t>
      </tg>
    </mg>
 </e>
@@ -11322,7 +11753,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мичмӧдны, мичӧдны</t>
+       <t pos="V">мичмӧдны</t>
+       <t pos="V">мичӧдны</t>
      </tg>
    </mg>
 </e>
@@ -11335,7 +11767,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">мичмӧдчыны, вӧччыны</t>
+       <t pos="V">мичмӧдчыны</t>
+       <t pos="V">вӧччыны</t>
      </tg>
    </mg>
 </e>
@@ -11348,7 +11781,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вензьыны, споритны</t>
+       <t pos="V">вензьыны</t>
+       <t pos="V">споритны</t>
      </tg>
    </mg>
 </e>
@@ -11374,7 +11808,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бӧрыньтчыны, мышлань мунны</t>
+       <t pos="V">бӧрыньтчыны</t>
+       <t pos="V">мышлань мунны</t>
      </tg>
    </mg>
 </e>
@@ -11387,7 +11822,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чегны, орны, жугӧдны</t>
+       <t pos="V">чегны</t>
+       <t pos="V">орны</t>
+       <t pos="V">жугӧдны</t>
      </tg>
      <xg><x>Чигем вень но бышкалтэ</x>
        <xt xml:lang="kpv">И чегӧм емыс сатшкалӧ</xt>
@@ -11406,7 +11843,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кутчысьны, асьтӧ кутны, терпитны</t>
+       <t pos="V">кутчысьны</t>
+       <t pos="V">асьтӧ кутны</t>
+       <t pos="V">терпитны</t>
      </tg>
    </mg>
 </e>
@@ -11419,7 +11858,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кутчысьны, кутны асьтӧ, крепитчыны</t>
+       <t pos="V">кутчысьны</t>
+       <t pos="V">кутны асьтӧ</t>
+       <t pos="V">крепитчыны</t>
      </tg>
    </mg>
 </e>
@@ -11432,7 +11873,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">югнитны, сявкнитны</t>
+       <t pos="V">югнитны</t>
+       <t pos="V">сявкнитны</t>
      </tg>
      <xg><x>Куазь чилектӥз</x>
        <xt xml:lang="kpv">Чардби югнитiс</xt>
@@ -11448,7 +11890,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кыны, прӧшви кыны</t>
+       <t pos="V">кыны</t>
+       <t pos="V">прӧшви кыны</t>
      </tg>
    </mg>
    <mg>
@@ -11466,7 +11909,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧставны, югъявны</t>
+       <t pos="V">лӧставны</t>
+       <t pos="V">югъявны</t>
      </tg>
    </mg>
 </e>
@@ -11497,7 +11941,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">третшкӧдчыны, сьывны</t>
+       <t pos="V">третшкӧдчыны</t>
+       <t pos="V">сьывны</t>
      </tg>
      <xg><x>Ӟозъёс чиргето</x>
        <xt xml:lang="kpv">Чиркъяс сьылӧны</xt>
@@ -11529,7 +11974,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">корны, чуксавны</t>
+       <t pos="V">корны</t>
+       <t pos="V">чуксавны</t>
      </tg>
      <xg><x>куное чортыны</x>
        <xt xml:lang="kpv">гӧсьти корны</xt>
@@ -11589,7 +12035,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чӧвтны, пуктыны</t>
+       <t pos="V">чӧвтны</t>
+       <t pos="V">пуктыны</t>
      </tg>
      <xg><x>визнан чӧлтыны</x>
        <xt xml:lang="kpv">шатин чӧвтны</xt>
@@ -11605,7 +12052,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧдйӧ паськавны (шы йылысь), гораа кывны</t>
+       <t pos="V">ӧдйӧ паськавны (шы йылысь)</t>
+       <t pos="V">гораа кывны</t>
      </tg>
    </mg>
 </e>
@@ -11618,7 +12066,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">окыштны, окавны</t>
+       <t pos="V">окыштны</t>
+       <t pos="V">окавны</t>
      </tg>
      <xg><x>Кин чупа ни бамъёстэ?</x>
        <xt xml:lang="kpv">Кодi окавлӧ нин бандзибъястӧ?</xt>
@@ -11634,7 +12083,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">пырны, писькӧдчыны</t>
+       <t pos="V">пырны</t>
+       <t pos="V">писькӧдчыны</t>
      </tg>
    </mg>
    <mg>
@@ -11652,7 +12102,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧньны, ланьтны, чусмыны</t>
+       <t pos="V">лӧньны</t>
+       <t pos="V">ланьтны</t>
+       <t pos="V">чусмыны</t>
      </tg>
      <xg><x>Тӧл чусомиз</x>
        <xt xml:lang="kpv">Тӧв лӧнис</xt>
@@ -11687,7 +12139,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шоммӧдны, шузьӧдны</t>
+       <t pos="V">шоммӧдны</t>
+       <t pos="V">шузьӧдны</t>
      </tg>
    </mg>
 </e>
@@ -11705,7 +12158,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шепыштны, гусявны</t>
+       <t pos="V">шепыштны</t>
+       <t pos="V">гусявны</t>
      </tg>
    </mg>
 </e>
@@ -11718,7 +12172,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">парсавны, гудйыны</t>
+       <t pos="V">парсавны</t>
+       <t pos="V">гудйыны</t>
      </tg>
    </mg>
    <mg>
@@ -11736,12 +12191,17 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">увгыны, ызгыны, зычитны, шумитны, горавны</t>
+       <t pos="V">увгыны</t>
+       <t pos="V">ызгыны</t>
+       <t pos="V">зычитны</t>
+       <t pos="V">шумитны</t>
+       <t pos="V">горавны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вензьыны, зык лэптыны</t>
+       <t pos="V">вензьыны</t>
+       <t pos="V">зык лэптыны</t>
      </tg>
    </mg>
 </e>
@@ -11754,7 +12214,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧзйыны, сӧветуйтны</t>
+       <t pos="V">вӧзйыны</t>
+       <t pos="V">сӧветуйтны</t>
      </tg>
    </mg>
    <mg>
@@ -11772,7 +12233,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">игнавны, томанавны</t>
+       <t pos="V">игнавны</t>
+       <t pos="V">томанавны</t>
      </tg>
    </mg>
 </e>
@@ -11785,7 +12247,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сатшкыны, сутшкыны</t>
+       <t pos="V">сатшкыны</t>
+       <t pos="V">сутшкыны</t>
      </tg>
    </mg>
 </e>
@@ -11798,7 +12261,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">керыштны, орӧдны, _i_ӧтк¡_/i_ чегны</t>
+       <t pos="V">керыштны</t>
+       <t pos="V">орӧдны</t>
      </tg>
    </mg>
 </e>
@@ -11811,7 +12275,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тупкыны, пӧдлавны</t>
+       <t pos="V">тупкыны</t>
+       <t pos="V">пӧдлавны</t>
      </tg>
      <xg><x>ымез ӵоксаны</x>
        <xt xml:lang="kpv">вомӧс пӧдлавны</xt>
@@ -11832,7 +12297,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тупкыны, пӧдлавны</t>
+       <t pos="V">тупкыны</t>
+       <t pos="V">пӧдлавны</t>
      </tg>
    </mg>
    <mg>
@@ -11853,7 +12319,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">саявны, тупкысьны</t>
+       <t pos="V">саявны</t>
+       <t pos="V">тупкысьны</t>
      </tg>
    </mg>
 </e>
@@ -11866,7 +12333,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ордйысьны, венласьны, панъясьны</t>
+       <t pos="V">ордйысьны</t>
+       <t pos="V">венласьны</t>
+       <t pos="V">панъясьны</t>
      </tg>
    </mg>
 </e>
@@ -11879,7 +12348,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ӧткодявны, ӧтлааститны</t>
+       <t pos="V">ӧткодявны</t>
+       <t pos="V">ӧтлааститны</t>
      </tg>
      <xg><x>финн-угор кылъёсыз ӵошатон кылрадъян</x>
        <xt xml:lang="kpv">фин-угор кывъясӧс ӧткодялана граматика</xt>
@@ -11924,7 +12394,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чышкавны, чышкыны</t>
+       <t pos="V">чышкавны</t>
+       <t pos="V">чышкыны</t>
      </tg>
    </mg>
 </e>
@@ -11937,7 +12408,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чышкысьны, косӧдчыны</t>
+       <t pos="V">чышкысьны</t>
+       <t pos="V">косӧдчыны</t>
      </tg>
    </mg>
 </e>
@@ -11950,7 +12422,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">_i_сёрнис¡_/i_ шойччыны, лолыштны</t>
+       <t pos="V" re="сёрнис">шойччыны</t>
+       <t pos="V">лолыштны</t>
      </tg>
    </mg>
 </e>
@@ -12079,7 +12552,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">тшынысь сьӧдасьны, сьӧдӧдз тшынасьны</t>
+       <t pos="V">тшынысь сьӧдасьны</t>
+       <t pos="V">сьӧдӧдз тшынасьны</t>
      </tg>
    </mg>
 </e>
@@ -12124,7 +12598,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">сюрны, аддзыны, корсьны</t>
+       <t pos="V">сюрны</t>
+       <t pos="V">аддзыны</t>
+       <t pos="V">корсьны</t>
      </tg>
      <xg><x>тодмоез шедьтыны</x>
        <xt xml:lang="kpv">тӧдсаӧс корсьны</xt>
@@ -12140,7 +12616,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шедны, веськавны</t>
+       <t pos="V">шедны</t>
+       <t pos="V">веськавны</t>
      </tg>
      <xg><x>нальыке шедьыны</x>
        <xt xml:lang="kpv">налькйӧ шедны</xt>
@@ -12156,7 +12633,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лэчтыны, ёсьтыны, тӧчитны</t>
+       <t pos="V">лэчтыны</t>
+       <t pos="V">ёсьтыны</t>
+       <t pos="V">тӧчитны</t>
      </tg>
      <xg><x>Нылъёс кылзэс шеро</x>
        <xt xml:lang="kpv">Нывъяс кывсӧ песӧны, _i_ӧтк¡_/i_ роч лясы точить</xt>
@@ -12172,7 +12651,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шыбитны, лыйны</t>
+       <t pos="V">шыбитны</t>
+       <t pos="V">лыйны</t>
      </tg>
    </mg>
    <mg>
@@ -12190,7 +12670,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гӧгравны-йӧктыны, йӧктӧмӧн гӧгравны</t>
+       <t pos="V">гӧгравны-йӧктыны</t>
+       <t pos="V">йӧктӧмӧн гӧгравны</t>
      </tg>
    </mg>
    <mg>
@@ -12208,7 +12689,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вевттьысьны, шебрасьны</t>
+       <t pos="V">вевттьысьны</t>
+       <t pos="V">шебрасьны</t>
      </tg>
      <xg><x>шобретэн шобырскыны</x>
        <xt xml:lang="kpv">эшкынӧн шебрасьны</xt>
@@ -12224,7 +12706,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шебравны, вевттьыны</t>
+       <t pos="V">шебравны</t>
+       <t pos="V">вевттьыны</t>
      </tg>
    </mg>
 </e>
@@ -12253,7 +12736,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лолыштны, ышловзьыны</t>
+       <t pos="V">лолыштны</t>
+       <t pos="V">ышловзьыны</t>
      </tg>
    </mg>
 </e>
@@ -12271,7 +12755,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вӧрзьыны, вешйыны</t>
+       <t pos="V">вӧрзьыны</t>
+       <t pos="V">вешйыны</t>
      </tg>
    </mg>
 </e>
@@ -12284,7 +12769,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шеныштны, ӧвтыштны</t>
+       <t pos="V">шеныштны</t>
+       <t pos="V">ӧвтыштны</t>
      </tg>
      <xg><x>йырын шоналтыны</x>
        <xt xml:lang="kpv">юрӧн довкнитны</xt>
@@ -12342,7 +12828,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шӧравны, вундавны</t>
+       <t pos="V">шӧравны</t>
+       <t pos="V">вундавны</t>
      </tg>
    </mg>
 </e>
@@ -12373,7 +12860,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">водзвыв тӧдны, тӧдмавны</t>
+       <t pos="V">водзвыв тӧдны</t>
+       <t pos="V">тӧдмавны</t>
      </tg>
    </mg>
 </e>
@@ -12399,7 +12887,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧсьӧдчыны мыйкӧ вӧчны, заводитны</t>
+       <t pos="V">лӧсьӧдчыны мыйкӧ вӧчны</t>
+       <t pos="V">заводитны</t>
      </tg>
    </mg>
 </e>
@@ -12425,7 +12914,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">майшасьны, тӧждысьны, нервничайтны</t>
+       <t pos="V">майшасьны</t>
+       <t pos="V">тӧждысьны</t>
+       <t pos="V">нервничайтны</t>
      </tg>
    </mg>
 </e>
@@ -12454,12 +12945,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кучкысьны, тангысьны, швачкысьны</t>
+       <t pos="V">кучкысьны</t>
+       <t pos="V">тангысьны</t>
+       <t pos="V">швачкысьны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ылӧдз кывны, паськавны (шы, сьылан йылысь)</t>
+       <t pos="V">ылӧдз кывны</t>
+       <t pos="V">паськавны (шы, сьылан йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -12472,12 +12966,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вины, тувъявны, кучкавны</t>
+       <t pos="V">вины</t>
+       <t pos="V">тувъявны</t>
+       <t pos="V">кучкавны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">йӧзӧдны, лэдзны</t>
+       <t pos="V">йӧзӧдны</t>
+       <t pos="V">лэдзны</t>
      </tg>
      <xg><x>книга шуккыны</x>
        <xt xml:lang="kpv">небӧг йӧзӧдны</xt>
@@ -12493,7 +12990,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шутлявны, тюрзыны</t>
+       <t pos="V">шутлявны</t>
+       <t pos="V">тюрзыны</t>
      </tg>
    </mg>
 </e>
@@ -12545,7 +13043,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">нимкодьӧдны, гажӧдны</t>
+       <t pos="V">нимкодьӧдны</t>
+       <t pos="V">гажӧдны</t>
      </tg>
    </mg>
 </e>
@@ -12558,7 +13057,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">радлыны, нимкодясьны</t>
+       <t pos="V">радлыны</t>
+       <t pos="V">нимкодясьны</t>
      </tg>
    </mg>
 </e>
@@ -12613,7 +13113,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">косьмыны, шуравны</t>
+       <t pos="V">косьмыны</t>
+       <t pos="V">шуравны</t>
      </tg>
      <xg><x>Корка липет шупаз</x>
        <xt xml:lang="kpv">Керка вевт косьмис</xt>
@@ -12655,7 +13156,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шуны, висьтавны, вочавидзны</t>
+       <t pos="V">шуны</t>
+       <t pos="V">висьтавны</t>
+       <t pos="V">вочавидзны</t>
      </tg>
      <xg><x>солэн юамезлы шуыны</x>
        <xt xml:lang="kpv">сылӧн юалӧм вылӧ вочавидзны</xt>
@@ -12687,7 +13190,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шӧпкыны, шӧпкӧдны</t>
+       <t pos="V">шӧпкыны</t>
+       <t pos="V">шӧпкӧдны</t>
      </tg>
    </mg>
 </e>
@@ -12700,7 +13204,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лӧньны, ланьтны</t>
+       <t pos="V">лӧньны</t>
+       <t pos="V">ланьтны</t>
      </tg>
    </mg>
 </e>
@@ -12713,7 +13218,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">шыравны, шыр кыйны</t>
+       <t pos="V">шыравны</t>
+       <t pos="V">шыр кыйны</t>
      </tg>
    </mg>
 </e>
@@ -12726,7 +13232,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видзтыны, экономитны</t>
+       <t pos="V">видзтыны</t>
+       <t pos="V">экономитны</t>
      </tg>
    </mg>
 </e>
@@ -12739,7 +13246,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">лыйны, лыйлыны</t>
+       <t pos="V">лыйны</t>
+       <t pos="V">лыйлыны</t>
      </tg>
    </mg>
 </e>
@@ -12752,7 +13260,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">чӧдлач, _i_кк¡_/i_ Ыж нёнь</t>
+       <t pos="V" re="кк:Ыж нёнь">чӧдлач</t>
      </tg>
    </mg>
 </e>
@@ -12765,7 +13273,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ульмыны, вазьыны, пӧсявны</t>
+       <t pos="V">ульмыны</t>
+       <t pos="V">вазьыны</t>
+       <t pos="V">пӧсявны</t>
      </tg>
    </mg>
 </e>
@@ -12778,7 +13288,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ыстыны, мӧдӧдны</t>
+       <t pos="V">ыстыны</t>
+       <t pos="V">мӧдӧдны</t>
      </tg>
    </mg>
 </e>
@@ -12871,12 +13382,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">видзӧдны, видлавны, прӧверитны</t>
+       <t pos="V">видзӧдны</t>
+       <t pos="V">видлавны</t>
+       <t pos="V">прӧверитны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">туявны, велӧдны</t>
+       <t pos="V">туявны</t>
+       <t pos="V">велӧдны</t>
      </tg>
    </mg>
 </e>
@@ -12892,7 +13406,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="V">пач ломтыны</t>
      </tg>
      <xg><x>гур эстыны</x>
-       <xt xml:lang="kpv">_i_сi¡_/i_, _i_ӧтк¡_/i_ ӧзтыны</xt>
+       <xt xml:lang="kpv" dial="сi">ӧзтыны</xt>
      </xg>
    </mg>
 </e>
@@ -12905,7 +13419,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кӧсйыны, лӧсьӧдчыны</t>
+       <t pos="V">кӧсйыны</t>
+       <t pos="V">лӧсьӧдчыны</t>
      </tg>
    </mg>
 </e>
@@ -12923,7 +13438,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">заклад вартны, вензьыны</t>
+       <t pos="V">заклад вартны</t>
+       <t pos="V">вензьыны</t>
      </tg>
    </mg>
 </e>
@@ -12949,7 +13465,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёртасьны, другасьны</t>
+       <t pos="V">ёртасьны</t>
+       <t pos="V">другасьны</t>
      </tg>
    </mg>
 </e>
@@ -12962,7 +13479,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">юавны, юасьны</t>
+       <t pos="V">юавны</t>
+       <t pos="V">юасьны</t>
      </tg>
    </mg>
    <mg>
@@ -13012,7 +13530,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">югдӧдны, сявкйыны (шондi йылысь)</t>
+       <t pos="V">югдӧдны</t>
+       <t pos="V">сявкйыны (шондi йылысь)</t>
      </tg>
    </mg>
 </e>
@@ -13025,7 +13544,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">вундавны, торйӧдлыны, шырны</t>
+       <t pos="V">вундавны</t>
+       <t pos="V">торйӧдлыны</t>
+       <t pos="V">шырны</t>
      </tg>
      <xg><x>юдэм сугон</x>
        <xt xml:lang="kpv">шырӧм лук</xt>
@@ -13041,7 +13562,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёртасьны, волысьны, другасьны</t>
+       <t pos="V">ёртасьны</t>
+       <t pos="V">волысьны</t>
+       <t pos="V">другасьны</t>
      </tg>
    </mg>
 </e>
@@ -13054,7 +13577,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">висьны, юкавны, доймыны</t>
+       <t pos="V">висьны</t>
+       <t pos="V">юкавны</t>
+       <t pos="V">доймыны</t>
      </tg>
    </mg>
 </e>
@@ -13067,7 +13592,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">гажӧдчыны, гаж коллявны, гуляйтны</t>
+       <t pos="V">гажӧдчыны</t>
+       <t pos="V">гаж коллявны</t>
+       <t pos="V">гуляйтны</t>
      </tg>
    </mg>
 </e>
@@ -13080,12 +13607,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёнмыны, чорзьыны</t>
+       <t pos="V">ёнмыны</t>
+       <t pos="V">чорзьыны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">бурдны, веськавны</t>
+       <t pos="V">бурдны</t>
+       <t pos="V">веськавны</t>
      </tg>
      <xg><x>Тазалыке юнмаз</x>
        <xt xml:lang="kpv">Дзоньвидзалунӧй веськалiс, бурмис</xt>
@@ -13101,7 +13630,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ёнмӧдны, вынсьӧдны</t>
+       <t pos="V">ёнмӧдны</t>
+       <t pos="V">вынсьӧдны</t>
      </tg>
      <xg><x>кивалтон уже юнматыны</x>
        <xt xml:lang="kpv">веськӧдлан удж вылӧ вынсьӧдны</xt>
@@ -13117,7 +13647,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">зывӧктыны, вӧктыны, ӧтдортны</t>
+       <t pos="V">зывӧктыны</t>
+       <t pos="V">вӧктыны</t>
+       <t pos="V">ӧтдортны</t>
      </tg>
    </mg>
 </e>
@@ -13130,7 +13662,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">отсавны, отсӧг сетны</t>
+       <t pos="V">отсавны</t>
+       <t pos="V">отсӧг сетны</t>
      </tg>
      <xg><x>Ачид юрттӥд ке, эшед но юрттоз</x>
        <xt xml:lang="kpv">Ачыд кӧ отсалан, и ёртыд отсалас</xt>
@@ -13193,17 +13726,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">кажитчыны, сьӧлӧм вылӧ воны</t>
+       <t pos="V">кажитчыны</t>
+       <t pos="V">сьӧлӧм вылӧ воны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">ковмыны, ковны</t>
+       <t pos="V">ковмыны</t>
+       <t pos="V">ковны</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="V">туйны, лӧсявны</t>
+       <t pos="V">туйны</t>
+       <t pos="V">лӧсявны</t>
      </tg>
    </mg>
 </e>
@@ -13237,7 +13773,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t>ёрдны, судитны</t>
+       <t pos="V">ёрдны</t>
+       <t pos="V">судитны</t>
      </tg>
    </mg>
 </e>
@@ -13250,7 +13787,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t>абу</t>
+       <t pos="V">абу</t>
      </tg>
      <xg><x>Ӧвӧллэн судэз ӧвӧл</x>
        <xt xml:lang="kpv">Абутӧмсьыс нем он босьт, _i_ӧтк¡_/i_ На нет и суда нет</xt>

@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">_i_кт¡_/i_ 1) да</t>
+       <t pos="Pcle" dial="кт">да</t>
        <t pos="Pcle">сiдз-сiдз</t>
        <t pos="Pcle">но</t>
      </tg>
@@ -53,12 +53,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">_i_сёрнис¡_/i_ да</t>
-       <t pos="Pcle">сiдз-сiдз, = </t>
+       <t pos="Pcle" re="сёрнис">да</t>
+       <t pos="Pcle">сiдз-сiдз</t>
      </tg>
-     <xg><x>бен</x>
-       <xt xml:lang="kpv"></xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -99,7 +96,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">сiдзкӧ, инӧ</t>
+       <t pos="Pcle">сiдзкӧ</t>
+       <t pos="Pcle">инӧ</t>
      </tg>
      <xg><x>Пуксьы, иське</x>
        <xt xml:lang="kpv">Пуксьы инӧ</xt>
@@ -115,7 +113,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">видлӧг вылӧ, шуам, со кӧть</t>
+       <t pos="Pcle">видлӧг вылӧ</t>
+       <t pos="Pcle">шуам</t>
+       <t pos="Pcle">со кӧть</t>
      </tg>
    </mg>
 </e>
@@ -128,7 +128,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">мыйкӧ, эсiйӧ, эсiйӧ тай (пыртӧд кыв)</t>
+       <t pos="Pcle">мыйкӧ</t>
+       <t pos="Pcle">эсiйӧ</t>
+       <t pos="Pcle">эсiйӧ тай (пыртӧд кыв)</t>
      </tg>
    </mg>
 </e>
@@ -141,7 +143,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">на, со тэд, босьт</t>
+       <t pos="Pcle">на</t>
+       <t pos="Pcle">со тэд</t>
+       <t pos="Pcle">босьт</t>
      </tg>
    </mg>
 </e>
@@ -189,7 +193,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">на, нӧшта</t>
+       <t pos="Pcle">на</t>
+       <t pos="Pcle">нӧшта</t>
      </tg>
      <xg><x>Ваня вань на-а?</x>
        <xt xml:lang="kpv">Ваня эм-ӧ на?</xt>
@@ -205,7 +210,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">енмӧй, господи</t>
+       <t pos="Pcle">енмӧй</t>
+       <t pos="Pcle">господи</t>
      </tg>
      <xg><x>Осто инмаре!</x>
        <xt xml:lang="kpv">Ыджыдӧй дай енмӧй!</xt>
@@ -234,7 +240,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">вот-вот, тшук ӧнi</t>
+       <t pos="Pcle">вот-вот</t>
+       <t pos="Pcle">тшук ӧнi</t>
      </tg>
    </mg>
 </e>
@@ -247,7 +254,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">то, со, вот</t>
+       <t pos="Pcle">то</t>
+       <t pos="Pcle">со</t>
+       <t pos="Pcle">вот</t>
      </tg>
      <xg><x>Тани тыныд!</x>
        <xt xml:lang="kpv">То тэныд!</xt>
@@ -285,7 +294,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">со, вот</t>
+       <t pos="Pcle">со</t>
+       <t pos="Pcle">вот</t>
      </tg>
    </mg>
 </e>
@@ -298,7 +308,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">ӧд, сы понда мый, сы вӧсна мый, да</t>
+       <t pos="Pcle">ӧд</t>
+       <t pos="Pcle">сы понда мый</t>
+       <t pos="Pcle">сы вӧсна мый</t>
+       <t pos="Pcle">да</t>
      </tg>
    </mg>
 </e>
@@ -311,7 +324,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">–ӧ, ӧмӧй</t>
+       <t pos="Pcle">–ӧ</t>
+       <t pos="Pcle">ӧмӧй</t>
      </tg>
    </mg>
    <mg>
@@ -345,12 +359,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">ӧд, жӧ</t>
+       <t pos="Pcle">ӧд</t>
+       <t pos="Pcle">жӧ</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">ладнӧ, бур</t>
+       <t pos="Pcle">ладнӧ</t>
+       <t pos="Pcle">бур</t>
      </tg>
      <xg><x>Мон верало, ява?</x>
        <xt xml:lang="kpv">Ме висьтала, ладнӧ?</xt>
@@ -366,7 +382,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pcle">мед, ладнӧ</t>
+       <t pos="Pcle">мед</t>
+       <t pos="Pcle">ладнӧ</t>
      </tg>
      <xg><x>Ӵок ини, вай манеттэ</x>
        <xt xml:lang="kpv">Ладнӧ инӧ, вай сьӧмтӧ</xt>

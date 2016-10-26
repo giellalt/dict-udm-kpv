@@ -74,7 +74,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Num">квайт, _i_ӧтк¡_/i_ _i_сй¡_/i_ _i_сш¡_/i_ квать</t>
+       <t pos="Num">квайт</t>
      </tg>
    </mg>
 </e>
@@ -132,7 +132,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Num">мӧд юкӧдыс, джын</t>
+       <t pos="Num">мӧд юкӧдыс</t>
+       <t pos="Num">джын</t>
      </tg>
    </mg>
 </e>
@@ -183,11 +184,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">Ӧти лунӧ воимӧ</xt>
      </xg>
    </mg>
-   <mg>
-     <tg xml:lang="kpv">
-       <t pos="Num">гӧгӧр, кымын, матӧ</t>
-     </tg>
-   </mg>
 </e>
 <e>
    <lg>
@@ -198,7 +194,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Num">ӧти, ӧтик</t>
+       <t pos="Num">ӧти</t>
+       <t pos="Num">ӧтик</t>
      </tg>
      <xg><x>одӥг ар</x>
        <xt xml:lang="kpv">ӧти во</xt>
