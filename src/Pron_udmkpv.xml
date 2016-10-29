@@ -49,10 +49,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pron">кодi</t>
+       <t pos="Pron">коді</t>
      </tg>
      <xg><x>Кин уг ужа, со уг сиы</x>
-       <xt xml:lang="kpv">Кодi оз уджав, сiйӧ оз сёй</xt>
+       <xt xml:lang="kpv">Коді оз уджав, сійӧ оз сёй</xt>
      </xg>
    </mg>
 </e>
@@ -400,8 +400,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="Pron">тi</t>
-       <t pos="Pron">тiйӧ</t>
+       <t pos="Pron">ті</t>
+       <t pos="Pron">тійӧ</t>
      </tg>
    </mg>
 </e>
@@ -446,7 +446,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="Pron">асьныд</t>
      </tg>
      <xg><x>тӥ асьтэос</x>
-       <xt xml:lang="kpv">тi асьныд</xt>
+       <xt xml:lang="kpv">ті асьныд</xt>
      </xg>
    </mg>
 </e>
@@ -551,10 +551,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </xg>
    </mg>
 </e>
-<e><lg><l pos="Pron">со</l><stg><st>со</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">сiйӧ</t></tg></mg></e>
+<e><lg><l pos="Pron">со</l><stg><st>со</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">сійӧ</t></tg></mg></e>
 <e><lg><l pos="Pron">ог-огзы</l><stg><st>ог-огзы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">ёрта-ёртӧс</t><t pos="Pron">мӧда-мӧдӧс</t></tg></mg></e>
-<e><lg><l pos="Pron">тӥляд</l><stg><st>тӥляд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">тiян</t></tg></mg></e>
+<e><lg><l pos="Pron">тӥляд</l><stg><st>тӥляд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">тіян</t></tg></mg></e>
 <e><lg><l pos="Pron">ма</l><stg><st>ма</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый</t></tg><xg><x>Ма луиз?</x><xt xml:lang="kpv">Мый лоис?</xt></xg><xg><x>Ма вылез?</x><xt xml:lang="kpv">Мый выльыс?</xt></xg></mg></e>
-<e><lg><l pos="Pron">мар-а</l><stg><st>мар-а</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый ли</t><t pos="Pron">сiйӧ ли мый ли</t></tg></mg></e>
+<e><lg><l pos="Pron">мар-а</l><stg><st>мар-а</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый ли</t><t pos="Pron">сійӧ ли мый ли</t></tg></mg></e>
 <e><lg><l pos="Pron">маке</l><stg><st>маке</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый</t><t pos="Pron">мыйкӧ</t></tg><xg><x>маке понна</x><xt xml:lang="kpv">мыйкӧ понда</xt></xg></mg></e>
 </r>

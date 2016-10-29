@@ -217,7 +217,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I пач</t>
+       <t pos="N">пач</t>
        <t pos="N">пывсян гор</t>
        <t pos="N" dial="пк">гор</t>
      </tg>
@@ -378,7 +378,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">нэм</t>
      </tg>
      <xg><x>Ас даураз со трос адӟиз</x>
-       <xt xml:lang="kpv">Ас нэмнас сiйӧ уна аддзылiс</xt>
+       <xt xml:lang="kpv">Ас нэмнас сійӧ уна аддзыліс</xt>
      </xg>
    </mg>
 </e>
@@ -401,7 +401,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">айму</t>
        <t pos="N">чужан му</t>
-       <t pos="N">чужанiн</t>
+       <t pos="N">чужанін</t>
      </tg>
      <xg><x>дор палъёс</x>
        <xt xml:lang="kpv">чужан местаяс</xt>
@@ -560,10 +560,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N" dial="вк">велӧдчанiн</t>
+       <t pos="N" dial="вк">велӧдчанін</t>
      </tg>
      <xg><x>вылӥ дышетсконни</x>
-       <xt xml:lang="kpv">вылыс велӧдчанiн</xt>
+       <xt xml:lang="kpv">вылыс велӧдчанін</xt>
      </xg>
    </mg>
 </e>
@@ -664,7 +664,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">пулӧн дiн</t>
+       <t pos="N">пулӧн дін</t>
      </tg>
    </mg>
 </e>
@@ -729,8 +729,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">шыблас коянiн</t>
-       <t pos="N">шыблас чукӧртанiн</t>
+       <t pos="N">шыблас коянін</t>
+       <t pos="N">шыблас чукӧртанін</t>
      </tg>
    </mg>
 </e>
@@ -815,8 +815,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ай малязi</t>
-       <t pos="N">ай мазi</t>
+       <t pos="N">ай малязі</t>
+       <t pos="N">ай мазі</t>
      </tg>
    </mg>
 </e>
@@ -1250,7 +1250,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">юрси</t>
      </tg>
      <xg><x>Мертчанлэсь но ӵужо йырсие</x>
-       <xt xml:lang="kpv">Шабдiысь на вижджык юрсиӧй</xt>
+       <xt xml:lang="kpv">Шабдіысь на вижджык юрсиӧй</xt>
      </xg>
    </mg>
 </e>
@@ -1307,7 +1307,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N" dial="вк">кӧдзыд шкап</t>
-       <t pos="N">кынтанiн</t>
+       <t pos="N">кынтанін</t>
        <t pos="N" dial="кк">йишкап</t>
      </tg>
    </mg>
@@ -1455,7 +1455,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">кабала</t>
        <t pos="N">гумага</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; кагаз</t>
      </tg>
    </mg>
 </e>
@@ -1525,7 +1524,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">войтырсикас</t>
        <t pos="N">этнос</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; калык</t>
      </tg>
    </mg>
 </e>
@@ -1598,7 +1596,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">тасьтi-пань пуктан джадж</t>
+       <t pos="N">тасьті-пань пуктан джадж</t>
      </tg>
    </mg>
 </e>
@@ -1699,10 +1697,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">картi</t>
+       <t pos="N">карті</t>
      </tg>
      <xg><x>картаен шудыны</x>
-       <xt xml:lang="kpv">картiасьны</xt>
+       <xt xml:lang="kpv">картіасьны</xt>
      </xg>
    </mg>
 </e>
@@ -1939,7 +1937,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">ай кӧза</t>
        <t pos="N">козёл</t>
        <t pos="N" dial="кк">кӧзамеж</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;пк&lt;/i&gt; козабаран&lt;i&gt;сi&lt;/i&gt;</t>
      </tg>
    </mg>
 </e>
@@ -2062,7 +2059,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I киль</t>
+       <t pos="N">киль</t>
      </tg>
      <xg><x>Йыраз килез трос</x>
        <xt xml:lang="kpv">Юрас кильыс тырыс</xt>
@@ -2553,7 +2550,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">ковта</t>
-       <t pos="N">&lt;i&gt;сш&lt;/i&gt;&lt;i&gt;печ&lt;/i&gt; колта</t>
+       <t pos="N" dial="сш:печ">колта</t>
      </tg>
    </mg>
 </e>
@@ -2792,19 +2789,19 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ен видзанiн</t>
-       <t pos="N">кевмысянiн</t>
+       <t pos="N">ен видзанін</t>
+       <t pos="N">кевмысянін</t>
      </tg>
      <xg><x>пичи куала</x>
-       <xt xml:lang="kpv">ӧти котырса, семъялӧн кевмысянiн</xt>
+       <xt xml:lang="kpv">ӧти котырса, семъялӧн кевмысянін</xt>
      </xg>
      <xg><x>бадӟым куала</x>
-       <xt xml:lang="kpv">сиктса либӧ ӧти ордлӧн кевмысянiн</xt>
+       <xt xml:lang="kpv">сиктса либӧ ӧти ордлӧн кевмысянін</xt>
      </xg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">гожся пусянiн</t>
+       <t pos="N">гожся пусянін</t>
      </tg>
    </mg>
 </e>
@@ -3586,7 +3583,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">кӧчгоб</t>
        <t pos="N">мӧсгоб</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;изьв&lt;/i&gt; кыдз тшак</t>
      </tg>
    </mg>
 </e>
@@ -4499,8 +4495,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">стрӧитанiн</t>
-       <t pos="N">стрӧйба лэптанiн</t>
+       <t pos="N">стрӧитанін</t>
+       <t pos="N">стрӧйба лэптанін</t>
      </tg>
    </mg>
 </e>
@@ -4626,7 +4622,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">вузасянiн</t>
+       <t pos="N">вузасянін</t>
        <t pos="N">лавка</t>
      </tg>
    </mg>
@@ -4695,7 +4691,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">потшӧс майӧг</xt>
      </xg>
      <xg><x>Выжыетӥз сисьмем майыгез юбоен пыкиллям</x>
-       <xt xml:lang="kpv">Важ сiсьмӧм майӧгсӧ сюръяӧн пыкӧмны</xt>
+       <xt xml:lang="kpv">Важ сісьмӧм майӧгсӧ сюръяӧн пыкӧмны</xt>
      </xg>
    </mg>
 </e>
@@ -4856,7 +4852,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">кудель</t>
-       <t pos="N">шабдi</t>
+       <t pos="N">шабді</t>
        <t pos="N">пыш кудель</t>
      </tg>
    </mg>
@@ -4985,7 +4981,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">дзоньвидза</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; мотор&lt;i&gt;сi&lt;/i&gt;</t>
      </tg>
    </mg>
 </e>
@@ -5000,7 +4995,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">му</t>
        <t pos="N">му выв</t>
-       <t pos="N">вылысiн</t>
+       <t pos="N">вылысін</t>
        <t pos="N">вевтас</t>
      </tg>
    </mg>
@@ -5133,10 +5128,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </xg>
      <xg><x>мунчо азь</x>
        <xt xml:lang="kpv">пывсян кӧдж</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt;</xt>
-     </xg>
-     <xg><x>монча</x>
-       <xt xml:lang="kpv">пывсян</xt>
      </xg>
    </mg>
 </e>
@@ -5163,7 +5154,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">гымга</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt; роч морда &lt; балтика-фин. merta</t>
      </tg>
    </mg>
 </e>
@@ -5462,7 +5452,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I морӧс</t>
+       <t pos="N">морӧс</t>
      </tg>
      <xg><x>Мӧляе висе</x>
        <xt xml:lang="kpv">Морӧсӧй висьӧ</xt>
@@ -5984,7 +5974,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">сён</t>
-       <t pos="N">увтасiн</t>
+       <t pos="N">увтасін</t>
      </tg>
      <xg><x>Нёжалын милям гуртмы</x>
        <xt xml:lang="kpv">Сёнын миян сиктным</xt>
@@ -6414,7 +6404,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">пель дiн</t>
+       <t pos="N">пель дін</t>
        <t pos="N">кӧсича</t>
      </tg>
    </mg>
@@ -6459,7 +6449,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">бак</t>
-       <t pos="N">сiсьманiн</t>
+       <t pos="N">сісьманін</t>
      </tg>
    </mg>
 </e>
@@ -6505,7 +6495,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">пельшеравны</xt>
      </xg>
      <xg><x>Солы першал кулэ</x>
-       <xt xml:lang="kpv">Сiйӧ абу ас садяс</xt>
+       <xt xml:lang="kpv">Сійӧ абу ас садяс</xt>
      </xg>
    </mg>
 </e>
@@ -6700,9 +6690,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">зонка</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt; пиук</t>
-       <t pos="N">венгр. fiú</t>
-       <t pos="N">хант пух</t>
      </tg>
    </mg>
 </e>
@@ -6922,14 +6909,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">кӧр</t>
-       <t pos="N">р</t>
      </tg>
      <xg><x>пужей сион турын</x>
        <xt xml:lang="kpv">яла</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;зк&lt;/i&gt;</xt>
-     </xg>
-     <xg><x>пежгу</x>
-       <xt xml:lang="kpv">3 тӧлысся кӧрпи</xt>
      </xg>
    </mg>
 </e>
@@ -7105,9 +7087,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">коръясьӧм том нинпу</t>
      </tg>
-     <xg><x>нин пуппы</x>
-       <xt xml:lang="kpv">&lt;i&gt;сi&lt;/i&gt;</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -7267,7 +7246,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">кокбӧр</t>
      </tg>
      <xg><x>Пыдберыз гинэ адӟиськиз на</x>
-       <xt xml:lang="kpv">Коклябӧрсӧ сӧмын аддзылiс</xt>
+       <xt xml:lang="kpv">Коклябӧрсӧ сӧмын аддзыліс</xt>
      </xg>
      <xg><x>пыдбер возьматыны</x>
        <xt xml:lang="kpv">коклябӧр петкӧдлыны = мыш петкӧдлыны (мунны-пышйыны)</xt>
@@ -7331,10 +7310,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">дзескыдiн</t>
+       <t pos="N">дзескыдін</t>
      </tg>
      <xg><x>пыдсэтэ пуктыны</x>
-       <xt xml:lang="kpv">дзескыдiнӧ йӧртны</xt>
+       <xt xml:lang="kpv">дзескыдінӧ йӧртны</xt>
      </xg>
    </mg>
 </e>
@@ -7484,7 +7463,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I пев</t>
+       <t pos="N">пев</t>
      </tg>
      <xg><x>пӧлы пум</x>
        <xt xml:lang="kpv">пига, вит чуня пертас</xt>
@@ -7653,7 +7632,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">чолӧм висьтавны</xt>
      </xg>
      <xg><x>Шутовлэсь но тӥледлы салам</x>
-       <xt xml:lang="kpv">Шутовсянь тiянлы чолӧм</xt>
+       <xt xml:lang="kpv">Шутовсянь тіянлы чолӧм</xt>
      </xg>
    </mg>
    <mg>
@@ -7811,7 +7790,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">турун видзанiн</t>
+       <t pos="N">турун видзанін</t>
        <t pos="N">турун видзан сарай</t>
        <t pos="N">лэбув</t>
      </tg>
@@ -8025,7 +8004,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">пож</t>
-       <t pos="N">&lt;i&gt;пк&lt;/i&gt; сипож</t>
+       <t pos="N" dial="пк">сипож</t>
      </tg>
    </mg>
 </e>
@@ -8080,10 +8059,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">сiсь</t>
+       <t pos="N">сісь</t>
      </tg>
      <xg><x>сись пу</x>
-       <xt xml:lang="kpv">сiсь пу</xt>
+       <xt xml:lang="kpv">сісь пу</xt>
      </xg>
    </mg>
 </e>
@@ -8113,7 +8092,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N" dial="вк">сёянiн</t>
+       <t pos="N" dial="вк">сёянін</t>
      </tg>
    </mg>
 </e>
@@ -8261,7 +8240,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">пу гӧр</t>
-     <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt; роч соха</t>
      <t pos="N" dial="изьв">сабан</t>
      </tg>
    </mg>
@@ -8280,7 +8258,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">кӧрыш</t>
      </tg>
      <xg><x>Лыз инмын зарни сукыри (Шунды)</x>
-       <xt xml:lang="kpv">Лӧз енэжын зарни тупӧсь (Шондi)</xt>
+       <xt xml:lang="kpv">Лӧз енэжын зарни тупӧсь (Шонді)</xt>
      </xg>
    </mg>
 </e>
@@ -8522,7 +8500,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">вись пуктанiн</t>
+       <t pos="N">вись пуктанін</t>
      </tg>
    </mg>
 </e>
@@ -8663,7 +8641,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">&lt;i&gt;кывтуял&lt;/i&gt; сёрнитанног</t>
+       <t pos="N">сёрнитанног</t>
      </tg>
      <xg><x>косон сямлык</x>
        <xt xml:lang="kpv">тшӧктана сёрнитанног</xt>
@@ -8788,16 +8766,16 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">сiт</t>
+       <t pos="N">сіт</t>
        <t pos="N">куйӧд</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">сiтӧсь</t>
+       <t pos="N">сітӧсь</t>
      </tg>
      <xg><x>Котырес сюрес — вӧё сюрес, векчи сюрес — сӥть сюрес</x>
-       <xt xml:lang="kpv">Кытшола туй — выя туй, веськыд туй — сiтӧсь туй</xt>
+       <xt xml:lang="kpv">Кытшола туй — выя туй, веськыд туй — сітӧсь туй</xt>
      </xg>
    </mg>
 </e>
@@ -8909,7 +8887,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">дзоньвидзанлун</t>
-     <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; тазалык&lt;i&gt;сi&lt;/i&gt;</t>
      </tg>
    </mg>
 </e>
@@ -8935,7 +8912,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">сiдзи и</t>
+       <t pos="N">сідзи и</t>
        <t pos="N">век жӧ</t>
        <t pos="N">сы вылӧ видзӧдтӧг</t>
      </tg>
@@ -9258,7 +9235,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ытшанiн</t>
+       <t pos="N">ытшанін</t>
        <t pos="N">ытшкан адас</t>
      </tg>
    </mg>
@@ -9414,7 +9391,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <t pos="N" dial="кк">би си</t>
      </tg>
      <xg><x>шунды тылсиос</x>
-       <xt xml:lang="kpv">шондi югӧръяс</xt>
+       <xt xml:lang="kpv">шонді югӧръяс</xt>
      </xg>
    </mg>
 </e>
@@ -9521,7 +9498,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">ва нидзув</t>
-     <t pos="N">&lt;i&gt;печ&lt;/i&gt; ва нигыль</t>
+     <t pos="N" dial="печ">ва нигыль</t>
      </tg>
    </mg>
 </e>
@@ -9566,7 +9543,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">тасьтi</t>
+       <t pos="N">тасьті</t>
        <t pos="N" dial="сш">бекар</t>
        <t pos="N" dial="пк">бекор</t>
      </tg>
@@ -9760,7 +9737,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">кевмысянiнын ыджыдалысь</t>
+       <t pos="N">кевмысянінын ыджыдалысь</t>
      </tg>
      <xg><x>бадӟым куа тӧро</x>
        <xt xml:lang="kpv">(тувъя кевмысян чомйын ыджыдалысь, вежаай</xt>
@@ -9821,12 +9798,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ытшкиг-вундiг ӧти мортӧн босьтана пасьта</t>
-     <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;сш&lt;/i&gt;</t>
+       <t pos="N">ытшкиг-вундіг ӧти мортӧн босьтана пасьта</t>
      </tg>
-     <xg><x>Адас</x>
-       <xt xml:lang="kpv"></xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -10114,7 +10087,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>кык полэс укно</x>
        <xt xml:lang="kpv">кык пӧвста ӧшинь</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; окна</xt>
      </xg>
    </mg>
 </e>
@@ -10161,7 +10133,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">дiнму</t>
+       <t pos="N">дінму</t>
        <t pos="N">район</t>
      </tg>
    </mg>
@@ -10219,8 +10191,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">мазi поз</t>
-       <t pos="N">колодаын мазi поз</t>
+       <t pos="N">мазі поз</t>
+       <t pos="N">колодаын мазі поз</t>
      </tg>
    </mg>
 </e>
@@ -10248,10 +10220,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">лудiк</t>
+       <t pos="N">лудік</t>
      </tg>
      <xg><x>урбо куртчем</x>
-       <xt xml:lang="kpv">лудiк курччӧм</xt>
+       <xt xml:lang="kpv">лудік курччӧм</xt>
      </xg>
    </mg>
 </e>
@@ -10492,10 +10464,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">часi</t>
+       <t pos="N">часі</t>
      </tg>
      <xg><x>киын нуллон час</x>
-       <xt xml:lang="kpv">киын новлан часi</xt>
+       <xt xml:lang="kpv">киын новлан часі</xt>
      </xg>
    </mg>
    <mg>
@@ -10597,7 +10569,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">ӧчередь</t>
      </tg>
      <xg><x>Табере тынад черодэд!</x>
-       <xt xml:lang="kpv">Ӧнi тэнад чередыд!</xt>
+       <xt xml:lang="kpv">Ӧні тэнад чередыд!</xt>
      </xg>
    </mg>
 </e>
@@ -10829,7 +10801,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">зарни чери</xt>
      </xg>
      <xg><x>Чорыг йырысеныз сисьме</x>
-       <xt xml:lang="kpv">Чери юрсяньыс сiсьмӧ</xt>
+       <xt xml:lang="kpv">Чери юрсяньыс сісьмӧ</xt>
      </xg>
    </mg>
 </e>
@@ -11000,7 +10972,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ном чутiк</t>
+       <t pos="N">ном чутік</t>
      <t pos="N" re="роч">Мотыль</t>
      </tg>
    </mg>
@@ -11089,12 +11061,12 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">дi</t>
+       <t pos="N">ді</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">дiвывса</t>
+       <t pos="N">дівывса</t>
      </tg>
    </mg>
 </e>
@@ -11115,7 +11087,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">шӧрин</t>
      </tg>
      <xg><x>Татын-а городлэн шорсюлмыз?</x>
-       <xt xml:lang="kpv">Танi-ӧ карса шӧриныс?</xt>
+       <xt xml:lang="kpv">Тані-ӧ карса шӧриныс?</xt>
      </xg>
    </mg>
 </e>
@@ -11187,7 +11159,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
    </mg>
 </e>
-<e><lg><l pos="N">шунды</l><stg><st>шунды</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шондi</t></tg><xg><x>шунды ӝужон</x><xt xml:lang="kpv">шондi петӧм</xt></xg></mg></e>
+<e><lg><l pos="N">шунды</l><stg><st>шунды</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шонді</t></tg><xg><x>шунды ӝужон</x><xt xml:lang="kpv">шонді петӧм</xt></xg></mg></e>
 <e>
    <lg>
      <l pos="N">шундыберган</l>
@@ -11199,7 +11171,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">подсолнух</t>
      <t pos="N" dial="вк">шондiюр</t>
-     <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt; венгр napraforgó&lt;i&gt;кк&lt;/i&gt; шондiлань бергӧдчысь</t>
      </tg>
    </mg>
 </e>
@@ -11213,8 +11184,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">сiдз шуана</t>
-       <t pos="N">сiдз шусяна</t>
+       <t pos="N">сідз шуана</t>
+       <t pos="N">сідз шусяна</t>
      </tg>
    </mg>
 </e>
@@ -11658,7 +11629,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N" dial="вк">бурдӧдчанiн</t>
+       <t pos="N" dial="вк">бурдӧдчанін</t>
      </tg>
    </mg>
 </e>
@@ -11852,7 +11823,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">югыдысь-югыд</t>
      </tg>
      <xg><x>юг тыл</x>
-       <xt xml:lang="kpv">вывтi югыд</xt>
+       <xt xml:lang="kpv">вывті югыд</xt>
      </xg>
    </mg>
 </e>
@@ -11866,7 +11837,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">асъя кыа</t>
-       <t pos="N">шондi петӧм</t>
+       <t pos="N">шонді петӧм</t>
        <t pos="N">югдӧм</t>
      </tg>
    </mg>
@@ -12025,7 +11996,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">керка</t>
-       <t pos="N">оланiн</t>
+       <t pos="N">оланін</t>
      </tg>
      <xg><x>нылпи юрт</x>
        <xt xml:lang="kpv">(ай-мамтӧм) челядь керка, детдом</xt>
@@ -12064,7 +12035,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">стрӧйба</t>
        <t pos="N">керка</t>
-       <t pos="N">оланiн</t>
+       <t pos="N">оланін</t>
      </tg>
      <xg><x>юртъерез страховать карыны</x>
        <xt xml:lang="kpv">олан стрӧйбаяс стракуйтны</xt>
@@ -12541,7 +12512,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">лабич</t>
-     <t pos="N" dial="вк">дiсек</t>
+     <t pos="N" dial="вк">дісек</t>
      </tg>
    </mg>
 </e>
@@ -12750,7 +12721,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">чардби</t>
      </tg>
      <xg><x>ӵашъем бервыл</x>
-       <xt xml:lang="kpv">чардбилӧн лыянiн</xt>
+       <xt xml:lang="kpv">чардбилӧн лыянін</xt>
      </xg>
    </mg>
 </e>
@@ -12848,7 +12819,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ёдiюр</t>
+       <t pos="N">ёдіюр</t>
      </tg>
    </mg>
 </e>
@@ -13100,7 +13071,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N" dial="вк">петкӧдлӧм</t>
        <t pos="N">мыччалӧм</t>
-       <t pos="N">петкӧдланiн</t>
+       <t pos="N">петкӧдланін</t>
      </tg>
    </mg>
 </e>
@@ -13116,7 +13087,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">морт</t>
      </tg>
      <xg><x>Кӧня адями татын?</x>
-       <xt xml:lang="kpv">Кымын морт танi?</xt>
+       <xt xml:lang="kpv">Кымын морт тані?</xt>
      </xg>
    </mg>
 </e>
@@ -13242,7 +13213,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">места</t>
      </tg>
      <xg><x>кӧс азьын</x>
-       <xt xml:lang="kpv">косiнын</xt>
+       <xt xml:lang="kpv">косінын</xt>
      </xg>
    </mg>
 </e>
@@ -13352,7 +13323,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">ай кӧк</xt>
      </xg>
      <xg><x>Со айизлы кельше</x>
-       <xt xml:lang="kpv">Ай кӧк пӧв (Сiйӧ ай вылас мунӧ, айыс кодь)</xt>
+       <xt xml:lang="kpv">Ай кӧк пӧв (Сійӧ ай вылас мунӧ, айыс кодь)</xt>
      </xg>
    </mg>
 </e>
@@ -13486,7 +13457,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">мам</t>
      </tg>
      <xg><x>Кыӵе тӥляд анай кылды?</x>
-       <xt xml:lang="kpv">Кутшӧм тiян чужан кывныд?</xt>
+       <xt xml:lang="kpv">Кутшӧм тіян чужан кывныд?</xt>
      </xg>
    </mg>
 </e>
@@ -13827,7 +13798,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N">лев</t>
        <t pos="N" dial="вк">тошкань</t>
-       <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt; венгр araszlan&lt;i&gt;сi&lt;/i&gt;</t>
      </tg>
    </mg>
 </e>
@@ -14142,7 +14112,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">чутiк</t>
+       <t pos="N">чутік</t>
        <t pos="N">даръюр</t>
      </tg>
    </mg>
@@ -14174,15 +14144,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>бакча сиён</x>
        <xt xml:lang="kpv">град выв пуктас</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="kpv">
-       <t pos="N">полокалӧ</t>
-       <t pos="N"></t>
-     </tg>
-     <xg><x>бакча суред</x>
-       <xt xml:lang="kpv">&lt;i&gt;сi&lt;/i&gt;</xt>
      </xg>
    </mg>
 </e>
@@ -14330,7 +14291,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I бӧр</t>
+       <t pos="N">бӧр</t>
        <t pos="N">сай</t>
      </tg>
      <xg><x>корка бер</x>
@@ -14530,7 +14491,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">тасьтi</t>
+       <t pos="N">тасьті</t>
        <t pos="N">блюд</t>
      </tg>
      <xg><x>чай юон блюда</x>
@@ -14609,7 +14570,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">мӧс сiт ув гаг</t>
+       <t pos="N">мӧс сіт ув гаг</t>
      </tg>
    </mg>
 </e>
@@ -14765,8 +14726,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <xg><x>Гондыр Буба</x>
        <xt xml:lang="kpv">ошкӧс нимтанкыв</xt>
        <xt xml:lang="kpv" dial="кк">Вӧрса Пӧль</xt>
-       <xt xml:lang="koi">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;пк&lt;/i&gt; Оша-Миша</xt>
-<xt xml:lang="kpv">&lt;i&gt;зк&lt;/i&gt; Микайлӧ ош</xt>
      </xg>
    </mg>
 </e>
@@ -14779,7 +14738,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I ай</t>
+       <t pos="N">ай</t>
        <t pos="N">бать</t>
      </tg>
      <xg><x>мынам бубие</x>
@@ -14799,7 +14758,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">II&lt;i&gt;чел&lt;/i&gt; коко</t>
+       <t pos="N" dial="чел">коко</t>
      </tg>
    </mg>
 </e>
@@ -14865,7 +14824,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">йӧртӧд</t>
-       <t pos="N">тусь видзанiн</t>
+       <t pos="N">тусь видзанін</t>
      </tg>
    </mg>
 </e>
@@ -14925,14 +14884,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">бур</l>
+     <l hid="Hom1" pos="N">бур</l>
      <stg>
        <st>бур</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I бур</t>
+       <t pos="N">бур</t>
      </tg>
      <xg><x>Ӟеч но бур!</x>
        <xt xml:lang="kpv">Здравствуй</xt>
@@ -14941,18 +14900,17 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">бур</l>
+     <l hid="Hom2" pos="N">бур</l>
      <stg>
        <st>бур</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">III мел</t>
+       <t pos="N">мел</t>
      </tg>
      <xg><x>бурен гожъяны</x>
        <xt xml:lang="kpv">мелӧн гижны</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; пор</xt>
      </xg>
    </mg>
 </e>
@@ -15435,7 +15393,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">войдӧрлун</t>
      </tg>
      <xg><x>Валлян пуксён вал</x>
-       <xt xml:lang="kpv">Войдӧрлун воторник вӧлi</xt>
+       <xt xml:lang="kpv">Войдӧрлун воторник вӧлі</xt>
      </xg>
    </mg>
 </e>
@@ -15957,7 +15915,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I сикӧтш; сикӧтш моль</t>
+       <t pos="N">сикӧтш; сикӧтш моль</t>
      </tg>
      <xg><x>какыт весь</x>
        <xt xml:lang="kpv">агатысь сикӧтш</xt>
@@ -16220,36 +16178,33 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">вож</l>
+     <l hid="Hom1" pos="N">вож</l>
      <stg>
        <st>вож</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">I 1) туйвеж</t>
+       <t pos="N">туйвеж</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">ю вом</t>
      </tg>
-     <xg><x>шур вож</x>
-       <xt xml:lang="kpv">&lt;i&gt;сi&lt;/i&gt;</xt>
-     </xg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">вож</l>
+     <l pos="A">вож</l>
      <stg>
        <st>вож</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">II 1) турунвиж</t>
-       <t pos="N">веж</t>
+       <t pos="A">турунвиж</t>
+       <t pos="A">веж</t>
      </tg>
      <xg><x>вож сугон</x>
        <xt xml:lang="kpv">веж лук</xt>
@@ -16257,20 +16212,20 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">кисьмытӧм</t>
+       <t pos="A">кисьмытӧм</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="N">вож</l>
+     <l hid="Hom2" pos="N">вож</l>
      <stg>
        <st>вож</st>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">III лӧг</t>
+       <t pos="N">лӧг</t>
        <t pos="N">лӧглун</t>
        <t pos="N">скӧр</t>
        <t pos="N">скӧрлун</t>
@@ -16495,7 +16450,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">гортпытшса би видзысь</t>
      </tg>
      <xg><x>воршуд куды</x>
-       <xt xml:lang="kpv">вись пуктанiн, жертвуйтан куд</xt>
+       <xt xml:lang="kpv">вись пуктанін, жертвуйтан куд</xt>
      </xg>
    </mg>
 </e>
@@ -16666,7 +16621,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">кевмысьӧм</t>
      </tg>
      <xg><x>вӧсяськон инты</x>
-       <xt xml:lang="kpv">кевмысянiн</xt>
+       <xt xml:lang="kpv">кевмысянін</xt>
      </xg>
    </mg>
 </e>
@@ -16772,7 +16727,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">вузасянiн</t>
+       <t pos="N">вузасянін</t>
      </tg>
    </mg>
 </e>
@@ -16896,7 +16851,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">изанiн</t>
+       <t pos="N">изанін</t>
        <t pos="N">изан</t>
        <t pos="N">мельнича</t>
      </tg>
@@ -17375,10 +17330,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>гадез мычыны</x>
        <xt xml:lang="kpv">морӧс мыччӧдны</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt; коми&lt;i&gt;сёрнис&lt;/i&gt;</xt>
-     </xg>
-     <xg><x>гад’</x>
-       <xt xml:lang="kpv">«пӧткалӧн зоб»</xt>
      </xg>
    </mg>
 </e>
@@ -17411,10 +17362,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>«Удмурт дуннеысь» газетчи</x>
        <xt xml:lang="kpv">«Удмурт дунне» газетысь журналист</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt;</xt>
-     </xg>
-     <xg><x>газетче</x>
-       <xt xml:lang="kpv"></xt>
      </xg>
    </mg>
 </e>
@@ -17547,7 +17494,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </mg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ворсiгӧн визьмӧдӧм кытш</t>
+       <t pos="N">ворсігӧн визьмӧдӧм кытш</t>
      </tg>
    </mg>
 </e>
@@ -17562,7 +17509,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <tg xml:lang="kpv">
        <t pos="N" dial="вк">шыпас</t>
      </tg>
-     <xg><x>&lt;i&gt;кывтуял&lt;/i&gt; бадӟым гожпус</x>
+     <xg><x>бадӟым гожпус</x>
        <xt xml:lang="kpv">ыджыд шыпас</xt>
      </xg>
      <xg><x>пичи гожпус</x>
@@ -17897,7 +17844,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>йӧн луыны</x>
        <xt xml:lang="kpv">бурдны (висьысь йылысь)</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt; ён</xt>
      </xg>
    </mg>
 </e>
@@ -18071,7 +18017,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">идзас</t>
      </tg>
      <xg><x>чабей куро</x>
-       <xt xml:lang="kpv">шобдi идзас</xt>
+       <xt xml:lang="kpv">шобді идзас</xt>
      </xg>
      <xg><x>куро липет</x>
        <xt xml:lang="kpv">идзас вевт</xt>
@@ -18675,7 +18621,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">шырсянiн</t>
+       <t pos="N">шырсянін</t>
      </tg>
    </mg>
 </e>
@@ -18750,10 +18696,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ёдi</t>
+       <t pos="N">ёді</t>
      </tg>
      <xg><x>Бадӟым пая шедӥз</x>
-       <xt xml:lang="kpv">Ыджыд ёдi шедiс</xt>
+       <xt xml:lang="kpv">Ыджыд ёді шедіс</xt>
      </xg>
    </mg>
 </e>
@@ -18829,7 +18775,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">пусянiн</t>
+       <t pos="N">пусянін</t>
        <t pos="N">кукня</t>
      </tg>
    </mg>
@@ -18903,7 +18849,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>дуэ сӥль</x>
        <xt xml:lang="kpv">верблюд яй</xt>
-     <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; туэ</xt>
      </xg>
    </mg>
 </e>
@@ -18920,7 +18865,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>тэль дыдык</x>
        <xt xml:lang="kpv">вӧр гулю</xt>
-       <xt xml:lang="kpv">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;уд&lt;/i&gt; дыдык</xt>
      </xg>
    </mg>
 </e>
@@ -18940,13 +18884,13 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">тшак вотан кад</xt>
      </xg>
      <xg><x>али дыр</x>
-       <xt xml:lang="kpv">ӧнiя кад, ӧ</xt>
+       <xt xml:lang="kpv">ӧнія кад</xt>
      </xg>
      <xg><x>юон дыр</x>
        <xt xml:lang="kpv">гаж, гажӧдчӧм</xt>
      </xg>
      <xg><x>Кӧня дыр али?</x>
-       <xt xml:lang="kpv">Уна-ӧ кадыс ӧнi?</xt>
+       <xt xml:lang="kpv">Уна-ӧ кадыс ӧні?</xt>
      </xg>
      <xg><x>Дыры ӧвӧл</x>
        <xt xml:lang="kpv">Кадӧй абу</xt>
@@ -19105,10 +19049,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">шабдi</t>
+       <t pos="N">шабді</t>
      </tg>
      <xg><x>етӥн бусы/луд</x>
-       <xt xml:lang="kpv">шабдi му</xt>
+       <xt xml:lang="kpv">шабді му</xt>
      </xg>
    </mg>
 </e>
@@ -19140,7 +19084,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">лёк поводдя</t>
      </tg>
      <xg><x>жоб куазь</x>
-       <xt xml:lang="kpv">сi</xt>
+       <xt xml:lang="kpv">сі</xt>
      </xg>
    </mg>
    <mg>
@@ -19433,7 +19377,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <t pos="N">места</t>
      </tg>
      <xg><x>ужан инты</x>
-       <xt xml:lang="kpv">уджаланiн</xt>
+       <xt xml:lang="kpv">уджаланін</xt>
      </xg>
    </mg>
 </e>
@@ -19750,7 +19694,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      <xg><x>арбузлэн люкет</x>
        <xt xml:lang="kpv">арбуз тор</xt>
      </xg>
-     <xg><x>&lt;i&gt;кывтуял&lt;/i&gt; вераськон люкет</x>
+     <xg><x>вераськон люкет</x>
        <xt xml:lang="kpv">кывсикас</xt>
      </xg>
    </mg>
@@ -19788,7 +19732,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
      <xg><x>модьӧм</x>
        <xt xml:lang="kpv">сӧрӧм</xt>
-     <xt xml:lang="kpv">&lt;i&gt;зк&lt;/i&gt; мойд</xt>
+     <xt xml:lang="kpv" dial="зк">мойд</xt>
      </xg>
    </mg>
 </e>
@@ -19819,7 +19763,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">ыджыд мазi</t>
+       <t pos="N">ыджыд мазі</t>
        <t pos="N">чушкан</t>
      </tg>
    </mg>
@@ -19868,7 +19812,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    <mg>
      <tg xml:lang="kpv">
        <t pos="N">вата</t>
-     <t pos="N">&lt;i&gt;ӧтк&lt;/i&gt;&lt;i&gt;мар&lt;/i&gt; мамык&lt;i&gt;сi&lt;/i&gt;</t>
      </tg>
    </mg>
 </e>
@@ -19940,10 +19883,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">мерайтанiн</t>
+       <t pos="N">мерайтанін</t>
      </tg>
      <xg><x>дӥськут мертанни</x>
-       <xt xml:lang="kpv">паськӧм мерайтанiн</xt>
+       <xt xml:lang="kpv">паськӧм мерайтанін</xt>
      </xg>
    </mg>
 </e>
@@ -20002,7 +19945,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">песласянiн</t>
+       <t pos="N">песласянін</t>
      </tg>
    </mg>
 </e>
@@ -20256,12 +20199,12 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N">мазi</t>
-       <t pos="N">малязi</t>
+       <t pos="N">мазі</t>
+       <t pos="N">малязі</t>
        <t pos="N">малямуш</t>
      </tg>
      <xg><x>лек муш</x>
-       <xt xml:lang="kpv">лёк мазi</xt>
+       <xt xml:lang="kpv">лёк мазі</xt>
      </xg>
    </mg>
 </e>
@@ -20401,7 +20344,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">ӧтиысь, ӧти пӧв, ӧтчыд(ысь)</xt>
      </xg>
      <xg><x>Кӧня пол ветлӥськод?</x>
-       <xt xml:lang="kpv">Кымынысь (кымын пӧв) ветлiн?</xt>
+       <xt xml:lang="kpv">Кымынысь (кымын пӧв) ветлін?</xt>
      </xg>
    </mg>
 </e>
@@ -20474,7 +20417,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">/</xt>
      </xg>
      <xg><x>ӧс дор</x>
-       <xt xml:lang="kpv">водзпом, пӧрччысянiн</xt>
+       <xt xml:lang="kpv">водзпом, пӧрччысянін</xt>
      </xg>
    </mg>
 </e>
@@ -20521,11 +20464,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
    </lg>
    <mg>
      <tg xml:lang="kpv">
-       <t pos="N"></t>
+       <t pos="N">посни вӧр</t>
      </tg>
-     <xg><x>&lt;i&gt;войв&lt;/i&gt;&lt;i&gt;сёрнис&lt;/i&gt;</x>
-       <xt xml:lang="kpv">посни вӧр</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -20771,8 +20711,8 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">кырезь</l><stg><st>кырезь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">гусли</t><t pos="N">видз. </t></tg><xg><x>крезь</x><xt xml:lang="kpv"></xt></xg></mg></e>
 <e><lg><l pos="N">кырныж</l><stg><st>кырныж</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кырныш</t></tg></mg></e>
 <e><lg><l pos="N">кышномурт</l><stg><st>кышномурт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ань</t><t pos="N">аньлов</t><t pos="N">нывбаба</t></tg></mg></e>
-<e><lg><l pos="N">кышнопал</l><stg><st>кышнопал</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">керкаын аньяслы джын</t><t pos="N">пусянiн</t><t pos="N">кукня</t></tg></mg></e>
-<e><lg><l pos="N">лавка</l><stg><st>лавкÁ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вузасянiн</t><t pos="N">лавка</t></tg></mg></e>
+<e><lg><l pos="N">кышнопал</l><stg><st>кышнопал</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">керкаын аньяслы джын</t><t pos="N">пусянін</t><t pos="N">кукня</t></tg></mg></e>
+<e><lg><l pos="N">лавка</l><stg><st>лавкÁ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вузасянін</t><t pos="N">лавка</t></tg></mg></e>
 <e><lg><l pos="N">лапас</l><stg><st>лапас</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сарай</t><t pos="N">лэбув</t><t pos="N">лабаз</t></tg><xg><x>пу возён лапас</x><xt xml:lang="kpv">пес видзан лэбув</xt></xg></mg></e>
 <e><lg><l pos="N">лапча</l><stg><st>лапча</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пывсянын вылыс джодж</t></tg></mg></e>
 <e><lg><l pos="N">легезь</l><stg><st>легезь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лежнӧг (тусь и пу)</t></tg></mg></e>
@@ -20790,7 +20730,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">манер</l><stg><st>манÉр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ног</t><t pos="N">мода</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">ӧбича</t><t pos="N">оласног</t></tg><xg><x>со манер ужаны</x><xt xml:lang="kpv">сы ног уджавны</xt></xg><xg><x>Солэн умой манерыс</x><xt xml:lang="kpv">Сылӧн бур ӧбичаыс</xt></xg></mg></e>
 <e><lg><l pos="N">мекангуби</l><stg><st>мекангуби</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">бакатшак</t></tg></mg></e>
 <e><lg><l pos="N">нарды</l><stg><st>нарды</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">барсук</t></tg><xg><x>нарды кӧй</x><xt xml:lang="kpv">барсук гос</xt></xg></mg></e>
-<e><lg><l pos="N">небыльток</l><stg><st>небыльток</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">мӧмӧт</t><t pos="N">нямлясьысь</t><t pos="N">китӧм дзудз</t></tg><xg><x>Со небыльток кадь</x><xt xml:lang="kpv">Сiйӧ мӧмӧт кодь</xt></xg></mg></e>
+<e><lg><l pos="N">небыльток</l><stg><st>небыльток</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">мӧмӧт</t><t pos="N">нямлясьысь</t><t pos="N">китӧм дзудз</t></tg><xg><x>Со небыльток кадь</x><xt xml:lang="kpv">Сійӧ мӧмӧт кодь</xt></xg></mg></e>
 <e><lg><l pos="N">немыч</l><stg><st>немыч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">индюк</t></tg></mg></e>
 <e><lg><l pos="N">нинпу</l><stg><st>нинпу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">нинпу рас</t></tg></mg></e>
 <e><lg><l pos="N">нӥзь</l><stg><st>нӥзь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">низь</t></tg></mg></e>
@@ -20816,7 +20756,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">гулбеч</l><stg><st>гулбеч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">гӧбӧч</t><t pos="N" dial="сш">гӧлбӧч</t></tg><xg><x>гулбечэ пырыны</x><xt xml:lang="kpv">гӧбӧчӧ пырны</xt></xg></mg></e>
 <e><lg><l pos="N">гумы</l><stg><st>гумы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">труба</t><t pos="N">тыртӧм пытшкӧса эмтор</t></tg><xg><x>пыӵал гумы</x><xt xml:lang="kpv">пишшаль ствол</xt></xg><xg><x>саес гумы</x><xt xml:lang="kpv">сос</xt></xg></mg></e>
 <e><lg><l pos="N">гурезь</l><stg><st>гурезь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">гӧра</t><t pos="N">керӧс</t><t pos="N" dial="сш">чой</t></tg><xg><x>ӝужыт гурезь</x><xt xml:lang="kpv">джуджыд гӧра</xt></xg></mg></e>
-<e><lg><l pos="N">гурт</l><stg><st>гурт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сикт</t><t pos="N">сиктса</t></tg><xg><x>гурт кенеш</x><xt xml:lang="kpv">сиктсӧвет</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">горт</t><t pos="N">гортса</t></tg><xg><x>гуртэ уж</x><xt xml:lang="kpv">гортса удж</xt></xg><xg><x>Ми гуртын пуким веник кертыса</x><xt xml:lang="kpv">Ми гортын пукалiм корӧсь кӧртавлiг</xt></xg></mg></e>
+<e><lg><l pos="N">гурт</l><stg><st>гурт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сикт</t><t pos="N">сиктса</t></tg><xg><x>гурт кенеш</x><xt xml:lang="kpv">сиктсӧвет</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">горт</t><t pos="N">гортса</t></tg><xg><x>гуртэ уж</x><xt xml:lang="kpv">гортса удж</xt></xg><xg><x>Ми гуртын пуким веник кертыса</x><xt xml:lang="kpv">Ми гортын пукалім корӧсь кӧртавліг</xt></xg></mg></e>
 <e><lg><l pos="N">гужем</l><stg><st>гужем</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">гожӧм</t></tg><xg><x>покчи гужем</x><xt xml:lang="kpv">зарни ар, ань гожӧм</xt></xg></mg></e>
 <e><lg><l pos="N">гырдалдӥ</l><stg><st>гырдалдӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">майса гаг</t></tg></mg></e>
 <e><lg><l pos="N">гырлы</l><stg><st>гырлы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">жыннян</t><t pos="N">троньган</t></tg><xg><x>скал гырлы</x><xt xml:lang="kpv">мӧс жыннян</xt></xg></mg></e>
@@ -20825,17 +20765,17 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">ду</l><stg><st>ду</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дор</t><t pos="N">дорыш</t></tg></mg></e>
 <e><lg><l pos="N">дунне</l><stg><st>дунне</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">муюгыд</t><t pos="N">мусяр</t></tg><xg><x>сопал дунне</x><xt xml:lang="kpv">мӧдар югыд</xt></xg></mg></e>
 <e><lg><l pos="N">дуногуби</l><stg><st>дуногуби</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дона гоб</t><t pos="N">еджыд гоб</t></tg></mg></e>
-<e><lg><l pos="N">дуринчи</l><stg><st>дуринчи</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">зi</t><t pos="N">чушкан</t><t pos="N">чушканзi</t></tg></mg></e>
+<e><lg><l pos="N">дуринчи</l><stg><st>дуринчи</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">зі</t><t pos="N">чушкан</t><t pos="N">чушканзі</t></tg></mg></e>
 <e><lg><l pos="N">дэра</l><stg><st>дэра</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дӧра</t></tg><xg><x>дэра куон</x><xt xml:lang="kpv">кысян стан</xt></xg></mg></e>
 <e><lg><l pos="N">ез</l><stg><st>ез</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сутуга</t></tg></mg></e>
-<e><lg><l pos="N">ёз</l><stg><st>ёз</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I 1) юкӧн</t><t pos="N">юкӧд</t><t pos="N">небӧгын юрпас</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">тор</t><t pos="N">мыгӧрысь юкӧн</t><t pos="N">орган</t></tg></mg></e>
+<e><lg><l pos="N">ёз</l><stg><st>ёз</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">юкӧн</t><t pos="N">юкӧд</t><t pos="N">небӧгын юрпас</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">тор</t><t pos="N">мыгӧрысь юкӧн</t><t pos="N">орган</t></tg></mg></e>
 <e><lg><l pos="N">ёзви</l><stg><st>ёзви</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">йӧзви</t></tg></mg></e>
 <e><lg><l pos="N">ёзлюкет</l><stg><st>ёзлюкет</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">юкӧн</t><t pos="N">юкӧд</t><t pos="N">факультет</t></tg><xg><x>финн-угор ёзлюкет</x><xt xml:lang="kpv">фин-угор факультет</xt></xg></mg></e>
-<e><lg><l pos="N">ёрос</l><stg><st>ёрос</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дiнму</t><t pos="N">гӧгӧрса ин</t><t pos="N">му</t></tg></mg></e>
+<e><lg><l pos="N">ёрос</l><stg><st>ёрос</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дінму</t><t pos="N">гӧгӧрса ин</t><t pos="N">му</t></tg></mg></e>
 <e><lg><l pos="N">ӝож</l><stg><st>ӝож</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лӧг</t><t pos="N">лӧглун</t><t pos="N">дӧсада</t></tg></mg></e>
 <e><lg><l pos="N">ӝутскон</l><stg><st>ӝутскон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кыпӧдчӧм</t><t pos="N">кайӧм</t></tg></mg></e>
 <e><lg><l pos="N">ӝуш</l><stg><st>ӝуш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кымӧс</t><t pos="N">рушку</t></tg></mg></e>
-<e><lg><l pos="N">ӝыт</l><stg><st>ӝыт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">рыт</t></tg><xg><x>> сиськон</x><xt xml:lang="kpv">рытья нур, ужын</xt></xg></mg></e>
+<e><lg><l pos="N">ӝыт</l><stg><st>ӝыт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">рыт</t></tg><xg><x>ӝыт сиськон</x><xt xml:lang="kpv">рытья нур, ужын</xt></xg></mg></e>
 <e><lg><l pos="N">ӟазег</l><stg><st>ӟазег</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дзодзӧг</t></tg><xg><x>айы ӟазег</x><xt xml:lang="kpv">ай дзодзӧг</xt></xg></mg></e>
 <e><lg><l pos="N">ӟазегсугон</l><stg><st>ӟазегсугон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дзодзӧг лук</t><t pos="N">утка лук турун</t></tg></mg></e>
 <e><lg><l pos="N">ӟардэм</l><stg><st>ӟардэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">асъя кыа</t></tg></mg></e>
@@ -20852,41 +20792,39 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">карпуш</l><stg><st>карпуш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">карп чери</t></tg></mg></e>
 <e><lg><l pos="N">кат</l><stg><st>кат</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">оланпас</t></tg></mg></e>
 <e><lg><l pos="N">каун</l><stg><st>каун</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тыква</t></tg></mg></e>
-<e><lg><l pos="N">кебит</l><stg><st>кебит</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дорччанiн</t><t pos="N">кузьнеча</t></tg></mg></e>
+<e><lg><l pos="N">кебит</l><stg><st>кебит</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дорччанін</t><t pos="N">кузьнеча</t></tg></mg></e>
 <e><lg><l pos="N">кедрапу</l><stg><st>кедрапу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сус</t><t pos="N">сус пу</t></tg></mg></e>
 <e><lg><l pos="N">кезегъянчорыг</l><stg><st>кезегъянчорыг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">из ув чери</t></tg></mg></e>
 <e><lg><l pos="N">кей</l><stg><st>кей</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">воз</t><t pos="N" dial="сй">кор</t></tg></mg></e>
 <e><lg><l pos="N">кекон</l><stg><st>кекон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧкакань</t><t pos="N">кокор турун</t></tg></mg></e>
 <e><lg><l pos="N">кенеш</l><stg><st>кенеш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чукӧртчӧм</t><t pos="N">сӧвет</t></tg><xg><x>«Кенеш» журнал, Вылӥ кенеш</x><xt xml:lang="kpv">Вылыс Сӧвет</xt></xg><xg><x></x><xt xml:lang="kpv"></xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">вӧзйӧм</t></tg><xg><x>кенеш сётыны</x><xt xml:lang="kpv">вӧзйыны, </xt></xg><xg><x>кенеш карыны</x><xt xml:lang="kpv">сёрнитчыны, сӧветуйтчыны</xt></xg></mg></e>
 <e><lg><l pos="N">кенешон</l><stg><st>кенешон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сӧвет</t><t pos="N">вӧзйӧм</t><t pos="N">туйдӧдӧм</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">сёрнитӧм</t></tg></mg></e>
-<e><lg><l pos="N">кенос</l><stg><st>кенос</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кум</t><t pos="N">амбар</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">торйӧн кыпӧдӧм гожся оланiн</t></tg></mg></e>
+<e><lg><l pos="N">кенос</l><stg><st>кенос</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кум</t><t pos="N">амбар</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">торйӧн кыпӧдӧм гожся оланін</t></tg></mg></e>
 <e><lg><l pos="N">кенэм</l><stg><st>кенэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пыш (быдмӧг)</t><t pos="N">кӧнтусь</t></tg><xg><x>кенэм вӧй</x><xt xml:lang="kpv">кӧнтусь вый</xt></xg></mg></e>
 <e><lg><l pos="N">кескич</l><stg><st>кескич</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">варгӧс</t><t pos="N">мудер</t><t pos="N">наян</t></tg></mg></e>
-<e><lg><l pos="N">кеч</l><stg><st>кеч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧза</t></tg><xg><x>луд кеч</x><xt xml:lang="kpv">сi</xt></xg><xg><x>кеч вордон</x><xt xml:lang="kpv">кӧза видзӧм</xt></xg><xg><x>_i_войв¡_/i_ куа кеч</x><xt xml:lang="kpv">кӧза</xt></xg><xg><x></x><xt xml:lang="kpv"></xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">кӧч</t></tg><xg><x>кеч пыд</x><xt xml:lang="kpv">кӧч кок</xt></xg></mg></e>
+<e><lg><l pos="N">кеч</l><stg><st>кеч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧза</t></tg><xg><x>луд кеч</x><xt xml:lang="kpv">сі</xt></xg><xg><x>кеч вордон</x><xt xml:lang="kpv">кӧза видзӧм</xt></xg><xg><x>_i_войв¡_/i_ куа кеч</x><xt xml:lang="kpv">кӧза</xt></xg><xg><x></x><xt xml:lang="kpv"></xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">кӧч</t></tg><xg><x>кеч пыд</x><xt xml:lang="kpv">кӧч кок</xt></xg></mg></e>
 <e><lg><l pos="N">кешыр</l><stg><st>кешыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">морков</t><t pos="N">гӧрдвуж</t></tg><xg><x>кешыр кидыс</x><xt xml:lang="kpv">морков кӧйдыс</xt></xg></mg></e>
 <e><lg><l pos="N">ки</l><stg><st>ки</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ки</t></tg><xg><x>бур ки</x><xt xml:lang="kpv">веськыд ки</xt></xg></mg></e>
 <e><lg><l pos="N">кивалтӥсь</l><stg><st>кивалтӥсь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">веськӧдлысь</t><t pos="N">юралысь</t></tg></mg></e>
 <e><lg><l pos="N">кивалтэт</l><stg><st>кивалтэт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">веськӧдлан котыр</t><t pos="N">правительство</t></tg></mg></e>
 <e><lg><l pos="N">кизись</l><stg><st>кизись</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧдзысь</t></tg><xg><x>нянь кизись</x><xt xml:lang="kpv">нянь кӧдзысь</xt></xg></mg></e>
-<e><lg><l pos="N">кикы</l><stg><st>кикы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I кӧк</t></tg><xg><x>кикы кар</x><xt xml:lang="kpv">кӧк поз</xt></xg><xg><x>Кикы гуртэ ӟечлы уг лыкты</x><xt xml:lang="kpv">Кӧк сиктӧ бур водзӧ оз лок</xt></xg></mg></e>
+<e><lg><l pos="N">кикы</l><stg><st>кикы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧк</t></tg><xg><x>кикы кар</x><xt xml:lang="kpv">кӧк поз</xt></xg><xg><x>Кикы гуртэ ӟечлы уг лыкты</x><xt xml:lang="kpv">Кӧк сиктӧ бур водзӧ оз лок</xt></xg></mg></e>
 <e><lg><l pos="N">кили</l><stg><st>кили</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ар</t><t pos="N">черипи</t></tg></mg></e>
 <e><lg><l pos="N">кион</l><stg><st>кион</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧин</t></tg><xg><x>мумы кион</x><xt xml:lang="kpv">энь кӧин</xt></xg><xg><x>Сютэм кионлы кынмем пуны но сиён</x><xt xml:lang="kpv">Тшыг кӧинлы и кынмӧм пон сёянтор</xt></xg></mg></e>
 <e><lg><l pos="N">кисы</l><stg><st>кисы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">зеп</t></tg><xg><x>пась кисы</x><xt xml:lang="kpv">розя зеп</xt></xg></mg></e>
 <e><lg><l pos="N">кичи</l><stg><st>кичи</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чикыш</t></tg></mg></e>
 <e><lg><l pos="N">кияр</l><stg><st>кияр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ӧгуреч</t></tg></mg></e>
-<e><lg><l pos="N">кож</l><stg><st>кож</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">йир</t><t pos="N">пыдынiн</t></tg><xg><x>мур кож</x><xt xml:lang="kpv">джуджыд йир</xt></xg></mg></e>
+<e><lg><l pos="N">кож</l><stg><st>кож</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">йир</t><t pos="N">пыдынін</t></tg><xg><x>мур кож</x><xt xml:lang="kpv">джуджыд йир</xt></xg></mg></e>
 <e><lg><l pos="N">кокась</l><stg><st>кокась</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кучкалысь</t><t pos="N">виысь</t></tg><xg><x>кыр кокась</x><xt xml:lang="kpv">сизь</xt></xg></mg></e>
 <e><lg><l pos="N">кол</l><stg><st>кол</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">водзир</t><t pos="N" dial="эй">ковпинь</t></tg></mg></e>
 <e><lg><l pos="N">колды</l><stg><st>колды</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тупӧсь</t><t pos="N">кӧрыш</t><t pos="N">чӧвпан</t></tg></mg></e>
 <e><lg><l pos="N">кÓмната</l><stg><st>кÓмната</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вежӧс</t><t pos="N">жыр</t></tg><xg><x>кык укноем кÓмната</x><xt xml:lang="kpv">кык ӧшиня вежӧс</xt></xg><xg><x>вить комнатаем квартира</x><xt xml:lang="kpv">вит вежӧса патера</xt></xg></mg></e>
 <e><lg><l pos="N">конституци</l><stg><st>конституци(я)</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">оланподув</t></tg><xg><x>Ӵуказе Конституцилэн нуналэз</x><xt xml:lang="kpv">Аски Оланподув лун</xt></xg></mg></e>
 <e><lg><l pos="N">коньдэт</l><stg><st>коньдэт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">бюджет</t><t pos="N" re="вк">куд</t></tg></mg></e>
-<e><lg><l pos="N">коньы</l><stg><st>коньы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I ур</t></tg><xg><x>Пуась коньы</x><xt xml:lang="kpv">Пуалысь ур (ӧтилаысь мӧдлаӧ вуджалысь морт йылысь)</xt></xg></mg></e>
-<e><lg><l pos="N">коньы</l><stg><st>коньы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">II ур</t><t pos="N">кӧпейка</t></tg><xg><x>Вузлэн дуныз куинь коньы</x><xt xml:lang="kpv">Вузӧслӧн доныс куим ур</xt></xg></mg></e>
+<e><lg><l pos="N">коньы</l><stg><st>коньы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ур</t></tg><xg><x>Пуась коньы</x><xt xml:lang="kpv">Пуалысь ур (ӧтилаысь мӧдлаӧ вуджалысь морт йылысь)</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">ур</t><t pos="N">кӧпейка</t></tg><xg><x>Вузлэн дуныз куинь коньы</x><xt xml:lang="kpv">Вузӧслӧн доныс куим ур</xt></xg></mg></e>
 <e><lg><l pos="N">корт</l><stg><st>корт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧрт</t></tg><xg><x>куштэм корт</x><xt xml:lang="kpv">кӧрт шыблас, к</xt></xg><xg><x>корт ньӧр</x><xt xml:lang="kpv">кӧртгез, сутуга</xt></xg></mg></e>
 <e><lg><l pos="N">косон</l><stg><st>косон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тшӧктӧм</t></tg></mg></e>
-<e><lg><l pos="N">котыр</l><stg><st>котыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I кӧлуй</t><t pos="N">эмбур</t></tg><xg><x>корка пуш котыр</x><xt xml:lang="kpv">гортса кӧлуй</xt></xg></mg></e>
-<e><lg><l pos="N">котыр</l><stg><st>котыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">II гӧгӧрсаин</t><t pos="N">ортсысаин</t></tg><xg><x>котыр сюрес</x><xt xml:lang="kpv">кытшола туй</xt></xg></mg></e>
+<e><lg><l pos="N">котыр</l><stg><st>котыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧлуй</t><t pos="N">эмбур</t></tg><xg><x>корка пуш котыр</x><xt xml:lang="kpv">гортса кӧлуй</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">гӧгӧрсаин</t><t pos="N">ортсысаин</t></tg><xg><x>котыр сюрес</x><xt xml:lang="kpv">кытшола туй</xt></xg></mg></e>
 <e><lg><l pos="N">кофе</l><stg><st>кофе</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">копей</t><t pos="N">копе</t></tg></mg></e>
 <e><lg><l pos="N">коӵыш</l><stg><st>коӵыш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кань</t><t pos="N" dial="уд::лл::сш">кась</t></tg><xg><x>айы коӵыш</x><xt xml:lang="kpv">ай кань</xt></xg><xg><x>шырасьтэм коӵыш</x><xt xml:lang="kpv">шыр кыйтӧм кань</xt></xg><xg><x>кыр коӵыш</x><xt xml:lang="kpv">вӧркань</xt></xg></mg></e>
 <e><lg><l pos="N">кӧжы</l><stg><st>кӧжы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">анькытш</t></tg><xg><x>сьӧд кӧжы</x><xt xml:lang="kpv">вӧванькытш</xt></xg></mg></e>
@@ -20914,7 +20852,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">куншет</l><stg><st>куншет</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">канму дӧрапас</t></tg></mg></e>
 <e><lg><l pos="N">кус</l><stg><st>кус(к-)</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кос</t></tg><xg><x>мынам кускы</x><xt xml:lang="kpv">менам коскӧй</xt></xg></mg></e>
 <e><lg><l pos="N">куткулонгуби</l><stg><st>куткулонгуби</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">гут кулан тшак</t></tg></mg></e>
-<e><lg><l pos="N">кухня</l><stg><st>куХня</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пусянiн</t><t pos="N">кукня</t></tg></mg></e>
+<e><lg><l pos="N">кухня</l><stg><st>куХня</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пусянін</t><t pos="N">кукня</t></tg></mg></e>
 <e><lg><l pos="N">кучыран</l><stg><st>кучыран</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сюзь</t></tg><xg><x>бадӟым синмо кучыран</x><xt xml:lang="kpv">ыджыд (ай) сюзь</xt></xg><xg><x>кучыран кар</x><xt xml:lang="kpv">сюзь поз</xt></xg></mg></e>
 <e><lg><l pos="N">куш</l><stg><st>куш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вӧрса эрд</t><t pos="N">кушин</t></tg></mg></e>
 <e><lg><l pos="N">кыды</l><stg><st>кыды</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">йики</t></tg></mg></e>
@@ -20922,7 +20860,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">немец</l><stg><st>немец</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">немеч</t></tg><xg><x>немец кыл</x><xt xml:lang="kpv">немеч кыв</xt></xg></mg></e>
 <e><lg><l pos="N">нимтэмчиньы</l><stg><st>нимтэмчиньы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">нимтӧм чунь</t></tg></mg></e>
 <e><lg><l pos="N">нэнэ</l><stg><st>нэнэ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" dial="лунв">мам</t><t pos="N">энь</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">тьӧтӧ</t><t pos="N">тётя (аньяс дорӧ вежавидзанаа шыӧдчанкыв)</t></tg></mg></e>
-<e><lg><l pos="N">парикмахерской</l><stg><st>парикмаХерской</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шырсянiн</t></tg></mg></e>
+<e><lg><l pos="N">парикмахерской</l><stg><st>парикмаХерской</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шырсянін</t></tg></mg></e>
 <e><lg><l pos="N">пароход</l><stg><st>пароХод</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">паракод</t></tg></mg></e>
 <e><lg><l pos="N">песятайкуар</l><stg><st>песятайкуар</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">порськок</t><t pos="N">гӧна лапкор</t><t pos="N">джуджыд лапкор</t></tg></mg></e>
 <e><lg><l pos="N">пи</l><stg><st>пи</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пи</t></tg><xg><x>мусо пиёке/пияше</x><xt xml:lang="kpv">муса пиукӧй</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">зонка</t><t pos="N">детинка; зон</t><t pos="N">том морт</t></tg><xg><x>бускель пи</x><xt xml:lang="kpv">орччӧн олысь зон</xt></xg></mg></e>
@@ -20967,17 +20905,17 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">дарали</l><stg><st>дарали</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">парча</t><t pos="N">парчаысь вурӧм</t></tg><xg><x>дарали кышет</x><xt xml:lang="kpv">парчаысь чышъян</xt></xg></mg></e>
 <e><lg><l pos="N">дарт</l><stg><st>дарт</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">ышмӧм</t><t pos="N">ярмӧм</t></tg></mg></e>
 <e><lg><l pos="N">дары</l><stg><st>дары</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пóрок</t></tg><xg><x>Дары мешок</x><xt xml:lang="kpv">Порок сепыс (ӧдйӧ ӧзйысь, скӧрмысь морт йылысь)</xt></xg></mg></e>
-<e><lg><l pos="N">дугдонни</l><stg><st>дугдонни</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">сувтланiн</t></tg><xg><x>автобус дугдонни</x><xt xml:lang="kpv">автобус сувтланiн</xt></xg></mg></e>
+<e><lg><l pos="N">дугдонни</l><stg><st>дугдонни</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">сувтланін</t></tg><xg><x>автобус дугдонни</x><xt xml:lang="kpv">автобус сувтланін</xt></xg></mg></e>
 <e><lg><l pos="N">кечкузьым</l><stg><st>кечкузьым</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">егер турун</t><t pos="N">ерсейвуж</t><t pos="N">куим коръя турун </t></tg></mg></e>
 <e><lg><l pos="N">кечсин</l><stg><st>кечсин</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лымув дзоридз</t><t pos="N">рочӧн подснежник</t><t pos="N" dial="пк">лымдорчача</t></tg><xg><x>кечсин сяська</x><xt xml:lang="kpv">лымдорчача дзоридз</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">вӧр купальнича</t></tg></mg></e>
-<e><lg><l pos="N">кикыетӥн</l><stg><st>кикыетӥн</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧкнитш</t><t pos="N">кӧкшабдi</t><t pos="N">шепта нитш</t><t pos="N">ошнитш</t></tg></mg></e>
+<e><lg><l pos="N">кикыетӥн</l><stg><st>кикыетӥн</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧкнитш</t><t pos="N">кӧкшабді</t><t pos="N">шепта нитш</t><t pos="N">ошнитш</t></tg></mg></e>
 <e><lg><l pos="N">кинюртэм</l><stg><st>кинюртэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кырымпас</t></tg></mg></e>
 <e><lg><l pos="N">куймыр</l><stg><st>куймыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">кык бана морт</t><t pos="N">кык бана шаньга</t></tg></mg></e>
 <e><lg><l pos="N">яратон</l><stg><st>яратон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">муслун</t><t pos="N">радейтчӧм</t></tg></mg></e>
 <e><lg><l pos="N">ярдур</l><stg><st>ярдур</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вадор</t></tg><xg><x>меӵ ярдур</x><xt xml:lang="kpv">крут, джуджыд вадор</xt></xg></mg></e>
 <e><lg><l pos="N">яснык</l><stg><st>яснык</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чечевица</t></tg></mg></e>
 <e><lg><l pos="N">яӵик</l><stg><st>яӵик</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">куд</t><t pos="N">яшшик</t></tg><xg><x>Яӵикын укно, укноын кино</x><xt xml:lang="kpv">(Телевизор) Кудйын ӧшинь, ӧшиньын кино (Серпаскуд/телевизор)</xt></xg></mg></e>
-<e><lg><l pos="N">яра</l><stg><st>яра</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">II дой</t><t pos="N">лӧм</t><t pos="N">пежасьӧмин</t></tg></mg></e>
+<e><lg><l pos="N">яра</l><stg><st>яра</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дой</t><t pos="N">лӧм</t><t pos="N">пежасьӧмин</t></tg></mg></e>
 <e><lg><l pos="N">ялон</l><stg><st>ялон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">юӧртӧм</t><t pos="N">юӧр</t></tg></mg></e>
 <e><lg><l pos="N">яблокпу</l><stg><st>яблокпу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">улмӧ пу</t><t pos="N">яблӧг пу</t></tg></mg></e>
 <e><lg><l pos="N">ягмульы</l><stg><st>ягмульы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пув</t></tg><xg><x>ягмульы ву</x><xt xml:lang="kpv">пув тусьва</xt></xg></mg></e>
@@ -20986,7 +20924,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">выл</l><stg><st>выл</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">выв</t></tg></mg></e>
 <e><lg><l pos="N">дэмлан</l><stg><st>дэмлан</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вӧзйӧм</t><t pos="N">сӧвет</t><t pos="N">рекомендуйтӧм</t></tg><xg><x>Тынад дэмланэд вань шат?</x><xt xml:lang="kpv">Тэнад кутшӧмкӧ вӧзйӧм эм-ӧ?</xt></xg></mg></e>
 <e><lg><l pos="N">йыружась</l><stg><st>йыружась</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">лёквӧчысь</t><t pos="N">мыжвӧчысь</t></tg></mg></e>
-<e><lg><l pos="N">йырӵышконни</l><stg><st>йырӵышконни</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">шырсянiн</t></tg></mg></e>
+<e><lg><l pos="N">йырӵышконни</l><stg><st>йырӵышконни</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">шырсянін</t></tg></mg></e>
 <e><lg><l pos="N">кезегчибинь</l><stg><st>кезегчибинь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">войтӧвном</t><t pos="N">малярия паськӧдысь ном</t></tg></mg></e>
 <e><lg><l pos="N">паки</l><stg><st>паки</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">перӧ лэчталан пурт</t></tg></mg></e>
 <e><lg><l pos="N">пень</l><stg><st>пень</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пӧим</t></tg><xg><x>пень пазьгыны</x><xt xml:lang="kpv">пӧим койыштны</xt></xg></mg></e>
@@ -20995,7 +20933,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">писые</l><stg><st>писые</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" dial="чел">кысӧ</t><t pos="N">кысук</t></tg></mg></e>
 <e><lg><l pos="N">пор</l><stg><st>пор</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">мари</t><t pos="N">мариеч</t></tg><xg><x>пор кышно</x><xt xml:lang="kpv">мари ань</xt></xg><xg><x>Порэн удмуртэн — одӥг выжыысь потлэм писпу</x><xt xml:lang="kpv">Мариеч удмурткӧд — ӧти вужйысь петлӧм (быдмӧм) пу</xt></xg></mg></e>
 <e><lg><l pos="N">пужым</l><stg><st>пужым</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пожӧм</t></tg></mg></e>
-<e><lg><l pos="N">пукем</l><stg><st>пукем</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I ӧтпукӧм</t><t pos="N">чукӧртчӧм</t></tg></mg></e>
+<e><lg><l pos="N">пукем</l><stg><st>пукем</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ӧтпукӧм</t><t pos="N">чукӧртчӧм</t></tg></mg></e>
 <e><lg><l pos="N">пунытуг</l><stg><st>пунытуг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">гартчан турун</t><t pos="N">сиртурун</t></tg></mg></e>
 <e><lg><l pos="N">пунэм</l><stg><st>пунэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">уджйӧз</t><t pos="N">дӧлг</t></tg><xg><x>пунэмъёс берыктыны</x><xt xml:lang="kpv">уджйӧзъяс вештыны</xt></xg></mg></e>
 <e><lg><l pos="N">пушвисён</l><stg><st>пушвисён</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">пытшкӧсса висьӧм</t></tg></mg></e>
@@ -21006,9 +20944,9 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">пыдкудчан</l><stg><st>пыдкудчан</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кӧм</t><t pos="N">кӧмкот</t></tg><xg><x>ку пыдкудчан</x><xt xml:lang="kpv">кучик кӧм</xt></xg></mg></e>
 <e><lg><l pos="N">пыдэс</l><stg><st>пыдэс</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пыдӧс</t></tg></mg></e>
 <e><lg><l pos="N">пыж</l><stg><st>пыж</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пыж</t></tg></mg></e>
-<e><lg><l pos="N">пызь</l><stg><st>пызь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пызь</t></tg><xg><x>чабей пызь</x><xt xml:lang="kpv">шобдi пызь</xt></xg></mg></e>
+<e><lg><l pos="N">пызь</l><stg><st>пызь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пызь</t></tg><xg><x>чабей пызь</x><xt xml:lang="kpv">шобді пызь</xt></xg></mg></e>
 <e><lg><l pos="N">пыпарсь</l><stg><st>пыпарсь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">линь чери</t></tg></mg></e>
-<e><lg><l pos="N">пырон</l><stg><st>пырон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пырӧм</t><t pos="N"> </t></tg><xg><x>корка пырон</x><xt xml:lang="kpv">выльлаӧ овмӧдчӧм, выль керкаӧ пырӧм</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">пыранiн</t></tg><xg><x>пыронэз дорын</x><xt xml:lang="kpv">пыранiн дорын</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N" re="кывтуял">пыран вежлӧг</t></tg></mg></e>
+<e><lg><l pos="N">пырон</l><stg><st>пырон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пырӧм</t></tg><xg><x>корка пырон</x><xt xml:lang="kpv">выльлаӧ овмӧдчӧм, выль керкаӧ пырӧм</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">пыранін</t></tg><xg><x>пыронэз дорын</x><xt xml:lang="kpv">пыранін дорын</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N" re="кывтуял">пыран вежлӧг</t></tg></mg></e>
 <e><lg><l pos="N">пыры</l><stg><st>пыры</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чир</t><t pos="N">торпыриг</t><t pos="N">тор</t></tg><xg><x>лымы пыры</x><xt xml:lang="kpv">лым чир</xt></xg><xg><x>нянь пыры</x><xt xml:lang="kpv">нянь тор</xt></xg></mg></e>
 <e><lg><l pos="N">пысы</l><stg><st>пысы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пыс</t></tg><xg><x>вень пысы</x><xt xml:lang="kpv">ем пыс</xt></xg></mg></e>
 <e><lg><l pos="N">пыӵ</l><stg><st>пыӵ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пытш</t><t pos="N">той</t></tg></mg></e>
@@ -21023,7 +20961,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">серыпу</l><stg><st>серыпу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">зынапу</t><t pos="N">ошльӧм</t><t pos="N">ошсэтӧр</t></tg></mg></e>
 <e><lg><l pos="N">сёр</l><stg><st>сёр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тулан</t></tg><xg><x>сёр ку</x><xt xml:lang="kpv">тулан ку</xt></xg></mg></e>
 <e><lg><l pos="N">сётон</l><stg><st>сётон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сетан</t></tg><xg><x>сётон падеж</x><xt xml:lang="kpv">сетан вежлӧг</xt></xg></mg></e>
-<e><lg><l pos="N">си</l><stg><st>си</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">юрси</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">вез</t><t pos="N">струна</t></tg><xg><x>крезь сиос</x><xt xml:lang="kpv">гусли везъяс</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">югӧр</t></tg><xg><x>шунды си</x><xt xml:lang="kpv">шондi югӧр, _i_кк¡_/i_ шондi юрси</xt></xg></mg></e>
+<e><lg><l pos="N">си</l><stg><st>си</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">юрси</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">вез</t><t pos="N">струна</t></tg><xg><x>крезь сиос</x><xt xml:lang="kpv">гусли везъяс</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">югӧр</t></tg><xg><x>шунды си</x><xt xml:lang="kpv">шонді югӧр, _i_кк¡_/i_ шонді юрси</xt></xg></mg></e>
 <e><lg><l pos="N">сизь</l><stg><st>сизь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сизь</t></tg><xg><x>сизь кар</x><xt xml:lang="kpv">сизь поз</xt></xg></mg></e>
 <e><lg><l pos="N">сизьйыр</l><stg><st>сизьйыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">бобӧнянь</t></tg></mg></e>
 <e><lg><l pos="N">силё</l><stg><st>силё</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кос понӧль</t><t pos="N">пес вылӧ ув-бадь</t></tg></mg></e>
@@ -21043,7 +20981,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">су</l><stg><st>су</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">са</t></tg><xg><x>Суам бамлэн бамыз ӧвӧл</x><xt xml:lang="kpv">Саӧссьӧм чужӧмлӧн чужӧмыс абу</xt></xg></mg></e>
 <e><lg><l pos="N">сугон</l><stg><st>сугон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лук</t><t pos="N">сугӧн</t></tg></mg></e>
 <e><lg><l pos="N">сугонйыр</l><stg><st>сугонйыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вужъюр</t><t pos="N">лук юр</t></tg></mg></e>
-<e><lg><l pos="N">суд</l><stg><st>суд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I ёрд</t></tg><xg><x>судэ сётыны</x><xt xml:lang="kpv">ёрдӧ сетны</xt></xg></mg></e>
+<e><lg><l pos="N">суд</l><stg><st>суд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ёрд</t></tg><xg><x>судэ сётыны</x><xt xml:lang="kpv">ёрдӧ сетны</xt></xg></mg></e>
 <e><lg><l pos="N">суй-пыд</l><stg><st>суй-пыд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ки-кок</t><t pos="N" dial="сш">сой-кок</t></tg></mg></e>
 <e><lg><l pos="N">сул</l><stg><st>сул</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кырсь</t></tg><xg><x>сул кесяны</x><xt xml:lang="kpv">кырсь кульны</xt></xg></mg></e>
 <e><lg><l pos="N">сундыгась</l><stg><st>сундыгась</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">колип</t></tg></mg></e>
@@ -21064,7 +21002,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">сэбед</l><stg><st>сэбед</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ӧбряд</t><t pos="N">ног</t></tg></mg></e>
 <e><lg><l pos="N">юж</l><stg><st>юж</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чарӧм</t></tg></mg></e>
 <e><lg><l pos="N">юан</l><stg><st>юан</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">юалӧм</t></tg><xg><x>капчи юан</x><xt xml:lang="kpv">кокни юалӧм</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">юасьӧм</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">коралӧм</t><t pos="N">сватайтӧм</t></tg></mg></e>
-<e><lg><l pos="N">юган</l><stg><st>юган</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шондi петӧм</t><t pos="N">югдӧм </t></tg></mg></e>
+<e><lg><l pos="N">юган</l><stg><st>юган</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шонді петӧм</t><t pos="N">югдӧм </t></tg></mg></e>
 <e><lg><l pos="N">юдэс</l><stg><st>юдэс</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тор</t><t pos="N">чӧлӧс</t></tg><xg><x>нянь юдэс</x><xt xml:lang="kpv">нянь чӧлӧс</xt></xg></mg></e>
 <e><lg><l pos="N">эш</l><stg><st>эш</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ёрт</t></tg><xg><x>ужъя эш</x><xt xml:lang="kpv">уджъёрт</xt></xg><xg><x>мынам эше</x><xt xml:lang="kpv">менам ёртӧй</xt></xg></mg></e>
 <e><lg><l pos="N">эскерон</l><stg><st>эскерон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">видзӧдлас</t><t pos="N">мӧвп</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">туялӧм</t><t pos="N">анализ</t></tg></mg></e>
@@ -21092,7 +21030,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">шупу</l><stg><st>шупу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">жовпу</t></tg></mg></e>
 <e><lg><l pos="N">шудон</l><stg><st>шудон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чача</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">ворсӧм</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">гудӧк</t><t pos="N">гармошка</t></tg></mg></e>
 <e><lg><l pos="N">шӧдон</l><stg><st>шӧдон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">нырис</t><t pos="N">кылӧм</t><t pos="N">водзвыв кылӧм</t><t pos="N">чайтӧм</t></tg></mg></e>
-<e><lg><l pos="N">шӧкыч</l><stg><st>шӧкыч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чушканзi сикас</t></tg></mg></e>
+<e><lg><l pos="N">шӧкыч</l><stg><st>шӧкыч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чушканзі сикас</t></tg></mg></e>
 <e><lg><l pos="N">шӧм</l><stg><st>шӧм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шом</t><t pos="N">шузӧдчан</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">кӧр</t></tg></mg></e>
 <e><lg><l pos="N">шу</l><stg><st>шу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">жов пу</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">жов тусь</t></tg></mg></e>
 <e><lg><l pos="N">шуба</l><stg><st>шубÁ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пась</t></tg></mg></e>
@@ -21106,12 +21044,12 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">шакля</l><stg><st>шакля</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шаклей</t></tg></mg></e>
 <e><lg><l pos="N">шаш</l><stg><st>шаш(ы)</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лук кор</t><t pos="N">лук турун</t></tg></mg></e>
 <e><lg><l pos="N">шашы</l><stg><st>шаш(ы)</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лук кор</t><t pos="N">лук турун</t></tg></mg></e>
-<e><lg><l pos="N">шекыч</l><stg><st>шекыч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чушканзiлӧн сикас</t></tg></mg></e>
+<e><lg><l pos="N">шекыч</l><stg><st>шекыч</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">чушканзілӧн сикас</t></tg></mg></e>
 <e><lg><l pos="N">шаер</l><stg><st>шаер</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">му</t><t pos="N">канму</t></tg><xg><x>Удмурт шаер</x><xt xml:lang="kpv">Удмурт му</xt></xg></mg></e>
 <e><lg><l pos="N">шай</l><stg><st>шай</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шойна</t></tg><xg><x>шай корос</x><xt xml:lang="kpv">горт</xt></xg></mg></e>
 <e><lg><l pos="N">шайгу</l><stg><st>шайгу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кулӧмалы гу</t><t pos="N" dial="кк">шой гу</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">шойна</t></tg></mg></e>
 <e><lg><l pos="N">шайтан</l><stg><st>шайтан</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">омӧль</t><t pos="N">сотана</t></tg><xg><x>Шайтан басьтон!</x><xt xml:lang="kpv">Сё морӧ!</xt></xg></mg></e>
-<e><lg><l pos="N">чырты</l><stg><st>чырты</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">голи</t><t pos="N">сьылi</t></tg></mg></e>
+<e><lg><l pos="N">чырты</l><stg><st>чырты</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">голи</t><t pos="N">сьылі</t></tg></mg></e>
 <e><lg><l pos="N">чычы</l><stg><st>чычы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">черлядь</t><t pos="N">стерлядь</t></tg></mg></e>
 <e><lg><l pos="N">чур</l><stg><st>чур</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">визь</t><t pos="N">рад</t><t pos="N" dial="пк">лёдз</t></tg><xg><x>пуконъёсты кык чурен пуктыны</x><xt xml:lang="kpv">улӧсъястӧ кык визьӧн сувтӧдны</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">кӧлея</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">гижан визь</t><t pos="N">строчка</t></tg></mg></e>
 <e><lg><l pos="N">чурагей</l><stg><st>чурагей</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сир чери</t></tg></mg></e>
@@ -21155,14 +21093,14 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">тӧдьыгуби</l><stg><st>тӧдьыгуби</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дона гоб</t><t pos="N">еджыд гоб</t></tg></mg></e>
 <e><lg><l pos="N">тӧл</l><stg><st>тӧл</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="ветлысь сынӧд">тӧв</t></tg><xg><x>лымшор пал тӧл</x><xt xml:lang="kpv">лун тӧв</xt></xg><xg><x>алдаськись ></x><xt xml:lang="kpv">ылӧдчысь тӧв</xt></xg><xg><x>Тӧл пельтэ</x><xt xml:lang="kpv">Тӧв пӧльтӧ</xt></xg></mg></e>
 <e><lg><l pos="N">туг</l><stg><st>туг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">туг</t><t pos="N">сыр</t></tg></mg></e>
-<e><lg><l pos="N">туган</l><stg><st>туган</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">муса</t><t pos="N">радейтана</t><t pos="N">мусук</t></tg><xg><x>Аналтӥд тон монэ, туганэ, Возь вылын вож турын быдмыку</x><xt xml:lang="kpv">Эновтiн тэ менӧ, мусаӧй, Видз вылын веж турун быдмигӧн</xt></xg></mg></e>
+<e><lg><l pos="N">туган</l><stg><st>туган</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">муса</t><t pos="N">радейтана</t><t pos="N">мусук</t></tg><xg><x>Аналтӥд тон монэ, туганэ, Возь вылын вож турын быдмыку</x><xt xml:lang="kpv">Эновтін тэ менӧ, мусаӧй, Видз вылын веж турун быдмигӧн</xt></xg></mg></e>
 <e><lg><l pos="N">тудву</l><stg><st>тудву</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ытва</t></tg></mg></e>
 <e><lg><l pos="N">тузон</l><stg><st>тузон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">бус</t></tg><xg><x>кӧс тузон</x><xt xml:lang="kpv">кос бус</xt></xg><xg><x>нап тузон</x><xt xml:lang="kpv">кыз бус</xt></xg></mg></e>
-<e><lg><l pos="N">туй</l><stg><st>туй</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">I сюмӧд</t></tg><xg><x>тӧдьы туй</x><xt xml:lang="kpv">еджыд сюмӧд</xt></xg><xg><x>туй кобы</x><xt xml:lang="kpv">чумпель</xt></xg></mg></e>
-<e><lg><l pos="N">туй</l><stg><st>туй</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">II латунь</t></tg></mg></e>
+<e><lg><l pos="N">туй</l><stg><st>туй</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сюмӧд</t></tg><xg><x>тӧдьы туй</x><xt xml:lang="kpv">еджыд сюмӧд</xt></xg><xg><x>туй кобы</x><xt xml:lang="kpv">чумпель</xt></xg></mg></e>
+<e><lg><l pos="N">туй</l><stg><st>туй</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">латунь</t></tg></mg></e>
 <e><lg><l pos="N">тулыс</l><stg><st>тулыс</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тулыс</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">тувсов</t><t pos="N">тувсовъя</t></tg><xg><x>тулыс толэзьёс</x><xt xml:lang="kpv">тувсов тӧлысьяс</xt></xg></mg></e>
 <e><lg><l pos="N">тупал</l><stg><st>тупал</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">мӧдлапӧв</t><t pos="N">ю сай</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">мӧдлапӧвса</t><t pos="N">юсайса</t></tg><xg><x>тупал возь</x><xt xml:lang="kpv">юсайса видз</xt></xg></mg></e>
-<e><lg><l pos="N">тупатъян</l><stg><st>тупатъян</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дзоньталан</t></tg><xg><x>тупатъян мастерской</x><xt xml:lang="kpv">дзоньталанiн</xt></xg></mg></e>
+<e><lg><l pos="N">тупатъян</l><stg><st>тупатъян</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">дзоньталан</t></tg><xg><x>тупатъян мастерской</x><xt xml:lang="kpv">дзоньталанін</xt></xg></mg></e>
 <e><lg><l pos="N">тур</l><stg><st>тур</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тар</t></tg><xg><x>айы тур</x><xt xml:lang="kpv">сьӧд тар</xt></xg></mg></e>
 <e><lg><l pos="N">туриэмезь</l><stg><st>туриэмезь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ежевика вотӧс</t></tg></mg></e>
 <e><lg><l pos="N">турнан</l><stg><st>турнан</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ытшкӧм</t></tg></mg></e>
@@ -21170,15 +21108,15 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">турынӵӧж</l><stg><st>турынӵӧж</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="чӧжлӧн торъя сикас">косысь</t></tg></mg></e>
 <e><lg><l pos="N">туспуктӥсь</l><stg><st>туспуктӥсь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">фотограф</t><t pos="N">югӧрсер вӧчалысь</t></tg></mg></e>
 <e><lg><l pos="N">туспуктэм</l><stg><st>туспуктэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">югӧрсер</t><t pos="N">фотосерпас</t></tg></mg></e>
-<e><lg><l pos="N">тусьты</l><stg><st>тусьты</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тасьтi</t><t pos="N">миска</t><t pos="N" dial="сш">бекар</t></tg></mg></e>
-<e><lg><l pos="N">тусьты-пуньы</l><stg><st>тусьты-пуньы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тасьтi-пань</t><t pos="N">бекар-пань</t></tg></mg></e>
+<e><lg><l pos="N">тусьты</l><stg><st>тусьты</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тасьті</t><t pos="N">миска</t><t pos="N" dial="сш">бекар</t></tg></mg></e>
+<e><lg><l pos="N">тусьты-пуньы</l><stg><st>тусьты-пуньы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тасьті-пань</t><t pos="N">бекар-пань</t></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N">ты</l><stg><st>ты</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ты</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N">ты</l><stg><st>ты</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="мыгӧр юкӧн">ты</t></tg></mg></e>
 <e><lg><l pos="N">тыбыр</l><stg><st>тыбыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">мыш</t><t pos="N">мышку</t></tg><xg><x>Тыбырыз аршин пасьта</x><xt xml:lang="kpv">Мышкыс сыв пасьта</xt></xg></mg></e>
 <e><lg><l pos="N">тыл</l><stg><st>тыл</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">би</t></tg><xg><x>Тылтэк ӵын уг луы</x><xt xml:lang="kpv">Битӧг тшын оз овлы</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">югыд</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">бишог</t><t pos="N">пӧжар</t></tg><xg><x>тыл кадь горд</x><xt xml:lang="kpv">гӧрдов, рыжӧй</xt></xg></mg></e>
 <e><lg><l pos="N">тылнумыр</l><stg><st>тылнумыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">биа номыр</t></tg></mg></e>
 <e><lg><l pos="N">тылскем</l><stg><st>тылскем</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">би</t><t pos="N">бипур</t></tg></mg></e>
-<e><lg><l pos="N">тыло</l><stg><st>тыло</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">поддiн вӧр</t><t pos="N">посни вӧраин</t><t pos="N">том вӧр</t></tg></mg></e>
+<e><lg><l pos="N">тыло</l><stg><st>тыло</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">поддін вӧр</t><t pos="N">посни вӧраин</t><t pos="N">том вӧр</t></tg></mg></e>
 <e><lg><l pos="N">тылобурдо</l><stg><st>тылобурдо</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">лэбач</t><t pos="N">кай</t></tg><xg><x>пичи тылобурдо</x><xt xml:lang="kpv">ичӧт кай</xt></xg></mg></e>
 <e><lg><l pos="N">тылпу</l><stg><st>тылпу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">бишог</t><t pos="N">пӧжар</t></tg></mg></e>
 <e><lg><l pos="N">тылскем</l><stg><st>тылскем</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">би</t><t pos="N">бипур</t></tg><xg><x>тылскем дурын пукон</x><xt xml:lang="kpv">бипур дорын пукалӧм</xt></xg></mg></e>
@@ -21196,37 +21134,37 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">уд</l><stg><st>уд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">петас</t><t pos="N">ныр</t></tg><xg><x>картофка уд</x><xt xml:lang="kpv">картупель ныр</xt></xg></mg></e>
 <e><lg><l pos="N">удмуртарня</l><stg><st>удмуртарня</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">пекнича</t></tg></mg></e>
 <e><lg><l pos="N">ужам</l><stg><st>ужам</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">уджалӧм</t><t pos="N">удж вӧчӧм</t></tg></mg></e>
-<e><lg><l pos="N">ужась</l><stg><st>ужась</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">уджалысь</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">уджач</t><t pos="N">зiль</t></tg></mg></e>
+<e><lg><l pos="N">ужась</l><stg><st>ужась</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">уджалысь</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">уджач</t><t pos="N">зіль</t></tg></mg></e>
 <e><lg><l pos="N">ужбергатӥсь</l><stg><st>ужбергатӥсь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">ас вылӧ уджалысь</t><t pos="N">предприниматель</t></tg></mg></e>
 <e><lg><l pos="N">ужтэм</l><stg><st>ужтэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">уджтӧмалысь</t></tg></mg></e>
 <e><lg><l pos="N">ужъюдур</l><stg><st>ужъюдур</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">серпас</t><t pos="N">ног</t><t pos="N">обстановка</t><t pos="N">положение</t></tg></mg></e>
 <e><lg><l pos="N">узвесь</l><stg><st>узвесь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сьвинеч</t><t pos="N" re="вк">ширысь</t></tg><xg><x>сьӧд узвесь</x><xt xml:lang="kpv">сьвинеч</xt></xg><xg><x>луло узвесь</x><xt xml:lang="kpv">тюрк</xt></xg><xg><x>тӧдьы узвесь</x><xt xml:lang="kpv">озысь</xt></xg></mg></e>
 <e><lg><l pos="N">узы</l><stg><st>узы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">оз</t></tg><xg><x>узы бичаны</x><xt xml:lang="kpv">оз вотны</xt></xg></mg></e>
-<e><lg><l pos="N">узыри</l><stg><st>узыри</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ай малязi</t><t pos="N">ай мазi</t></tg></mg></e>
+<e><lg><l pos="N">узыри</l><stg><st>узыри</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ай малязі</t><t pos="N">ай мазі</t></tg></mg></e>
 <e><lg><l pos="N">узьым</l><stg><st>узьым</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ӧзим</t></tg><xg><x>Пот, пот, узьыме</x><xt xml:lang="kpv">Пет, пет, ӧзимӧй</xt></xg></mg></e>
 <e><lg><l pos="N">уй</l><stg><st>уй</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вой</t><t pos="N">войся</t></tg><xg><x>уй бубыли</x><xt xml:lang="kpv">войся бобув, вой тӧв липун, </xt></xg><xg><x>Уй кизили</x><xt xml:lang="kpv">Войвыв кодзув</xt></xg></mg></e>
 <e><lg><l pos="N">уй-нунал</l><stg><st>уй-нунал</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">вой да лун</t><t pos="N">сутки</t></tg></mg></e>
 <e><lg><l pos="N">уйпу</l><stg><st>уйпу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">бадь</t></tg></mg></e>
 <e><lg><l pos="N">уккетӥсь</l><stg><st>уккетӥсь</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">выпь лэбач</t></tg></mg></e>
 <e><lg><l pos="N">уксё</l><stg><st>уксё</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сьӧм</t></tg><xg><x>Солэн уксёез уг тырмы</x><xt xml:lang="kpv">Сылӧн сьӧмыс оз тырмы</xt></xg></mg></e>
-<e><lg><l pos="N">ул</l><stg><st>ул</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">II ув</t><t pos="N">увдор</t><t pos="N">улыс</t></tg></mg></e>
+<e><lg><l pos="N">ул</l><stg><st>ул</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">ув</t><t pos="N">увдор</t><t pos="N">улыс</t></tg></mg></e>
 <e><lg><l pos="N">уллё</l><stg><st>уллё</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">стада</t><t pos="N">кельӧб</t><t pos="N">стабун</t></tg><xg><x>скал уллё</x><xt xml:lang="kpv">мӧс стада</xt></xg></mg></e>
-<e><lg><l pos="N">улон</l><stg><st>улон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">олӧм</t></tg><xg><x>кема улон</x><xt xml:lang="kpv">кузь олӧм</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">олан</t></tg><xg><x>улон инты</x><xt xml:lang="kpv">оланiн</xt></xg></mg></e>
-<e><lg><l pos="N">улосвыл</l><stg><st>улосвыл</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">край</t><t pos="N">дiнму</t></tg></mg></e>
+<e><lg><l pos="N">улон</l><stg><st>улон</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">олӧм</t></tg><xg><x>кема улон</x><xt xml:lang="kpv">кузь олӧм</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">олан</t></tg><xg><x>улон инты</x><xt xml:lang="kpv">оланін</xt></xg></mg></e>
+<e><lg><l pos="N">улосвыл</l><stg><st>улосвыл</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N" re="вк">край</t><t pos="N">дінму</t></tg></mg></e>
 <e><lg><l pos="N">улошо</l><stg><st>улошо</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">сёкыр</t><t pos="N">мерин</t></tg></mg></e>
 <e><lg><l pos="N">улмопу</l><stg><st>улмопу</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">улмӧ пу</t><t pos="N">яблӧг пу</t></tg><xg><x>Изь, изь, нуные, улмопуысь сяськае</x><xt xml:lang="kpv">Узь, узь, кагаӧй, яблӧк пу дзоридзӧй</xt></xg></mg></e>
-<e><lg><l pos="N">улыг</l><stg><st>улыг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">увтасiн </t></tg></mg></e>
-<e><lg><l pos="N">ульча</l><stg><st>ульча</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">улич</t><t pos="N">улича</t><t pos="N">пурысь</t></tg><xg><x>Удмурт ульча кузя</x><xt xml:lang="kpv">Удмурт уличтi</xt></xg></mg></e>
+<e><lg><l pos="N">улыг</l><stg><st>улыг</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">увтасін </t></tg></mg></e>
+<e><lg><l pos="N">ульча</l><stg><st>ульча</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">улич</t><t pos="N">улича</t><t pos="N">пурысь</t></tg><xg><x>Удмурт ульча кузя</x><xt xml:lang="kpv">Удмурт уличті</xt></xg></mg></e>
 <e><lg><l pos="N">улэм</l><stg><st>улэм</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">олӧм</t></tg><xg><x>Кыӵе улэм-вылэмед?</x><xt xml:lang="kpv">Кыдзи олан-вылан?</xt></xg></mg></e>
 <e><lg><l pos="N">ю</l><stg><st>ю</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">няня быдмӧг петасъяс</t><t pos="N">кӧдзӧм няня муяс</t></tg><xg><x>кизем ю</x><xt xml:lang="kpv">нянь кӧдза</xt></xg><xg><x>ю бусы</x><xt xml:lang="kpv">кӧдза</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="N">тусь</t></tg><xg><x>ю тысь</x><xt xml:lang="kpv">кӧдзан кӧйдыс</xt></xg></mg></e>
 <e><lg><l pos="N">шуд</l><stg><st>шуд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шуд</t></tg><xg><x>шуд пурты</x><xt xml:lang="kpv">шуда морт, кодлы мойвиӧ, _i_кк¡_/i_ шуд тыра пӧрт</xt></xg></mg></e>
-<e><lg><l pos="N">чимали</l><stg><st>чимали</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кутасьысь (дзебсясьӧмӧн ворсiгӧн)</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">горань</t><t pos="N">дзеп</t><t pos="N">дзебсясьӧмӧн ворсӧм</t></tg></mg></e>
+<e><lg><l pos="N">чимали</l><stg><st>чимали</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">кутасьысь (дзебсясьӧмӧн ворсігӧн)</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">горань</t><t pos="N">дзеп</t><t pos="N">дзебсясьӧмӧн ворсӧм</t></tg></mg></e>
 <e><lg><l pos="N">чорыгсиись</l><stg><st>чорыгсиись</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">каля</t></tg></mg></e>
-<e><lg><l pos="N">чот</l><stg><st>чот</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тшӧтi</t></tg></mg></e>
+<e><lg><l pos="N">чот</l><stg><st>чот</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">тшӧті</t></tg></mg></e>
 <e><lg><l pos="N">чеберман</l><stg><st>чеберман</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">мичмӧдчантор</t></tg></mg></e>
 <e><lg><l pos="N">чайы</l><stg><st>чайы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">анча</t></tg><xg><x>мувыр чайы</x><xt xml:lang="kpv">хорёк</xt></xg></mg></e>
 <e><lg><l pos="N">халат</l><stg><st>Халат</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">калат</t></tg></mg></e>
-<e><lg><l pos="N">чабей</l><stg><st>чабей</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шобдi</t></tg><xg><x>чабей кизьыны</x><xt xml:lang="kpv">шобдi кӧдзны</xt></xg></mg></e>
+<e><lg><l pos="N">чабей</l><stg><st>чабей</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">шобді</t></tg><xg><x>чабей кизьыны</x><xt xml:lang="kpv">шобді кӧдзны</xt></xg></mg></e>
 <e><lg><l pos="N">учыр</l><stg><st>учыр</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">здук</t><t pos="N">кад</t></tg></mg><mg><tg xml:lang="kpv"><t pos="N">лоӧмтор</t></tg></mg></e>
 <e><lg><l pos="N">уӵы</l><stg><st>уӵы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">колип</t><t pos="N">колипкай</t></tg><xg><x>уӵы чирдэм</x><xt xml:lang="kpv">колипкай сьылӧм</xt></xg><xg><x>уӵы кадь чирдыны</x><xt xml:lang="kpv">колип моз чипсыны-сьывны</xt></xg></mg></e>
 <e><lg><l pos="N">уян</l><stg><st>уян</st></stg></lg><mg><tg xml:lang="kpv"><t pos="N">уялӧм</t><t pos="N">кывтӧм</t></tg></mg></e>
