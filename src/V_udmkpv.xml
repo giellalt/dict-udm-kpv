@@ -10817,6 +10817,16 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
        <xt xml:lang="kpv">Сылы квайтымын кӧкъямыс арӧс тырис</xt>
      </xg>
    </mg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="V">тырмыны</t>
+       <xg>
+	 <x>тырмоз</x>
+	 <xt xml:lang="kpv">тырмас, тырмымӧн</xt>
+       </xg>
+<xg><x>Мыным тырмоз</x><xt xml:lang="kpv">Меным тырмас</xt></xg>
+     </tg>
+   </mg>
 </e>
 <e>
    <lg>
@@ -13794,4 +13804,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </xg>
    </mg>
 </e>
+<e><lg><l pos="V">вань</l><stg><st>вань</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">эм</t></tg><xg><x>Отын гурт вань</x><xt xml:lang="kpv">Сэнi сикт эм</xt></xg></mg></e>
+<e><lg><l pos="V">ӧвӧл</l><stg><st>ӧвӧл</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">абу</t></tg><xg><x>Ӧвӧллэн судэз ӧвӧл</x><xt xml:lang="kpv">Абутӧмсьыс нем он босьт, _i_ӧтк¡_/i_ На нет и суда нет</xt></xg></mg></e>
+<e><lg><l pos="V">cудить карыны</l><stg><st>Cудить КАРЫНЫ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="V">ёрдны</t><t pos="V">судитны</t></tg></mg></e>
 </r>

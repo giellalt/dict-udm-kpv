@@ -551,4 +551,10 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </xg>
    </mg>
 </e>
+<e><lg><l pos="Pron">со</l><stg><st>со</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">сiйӧ</t></tg></mg></e>
+<e><lg><l pos="Pron">ог-огзы</l><stg><st>ог-огзы</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">ёрта-ёртӧс</t><t pos="Pron">мӧда-мӧдӧс</t></tg></mg></e>
+<e><lg><l pos="Pron">тӥляд</l><stg><st>тӥляд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">тiян</t></tg></mg></e>
+<e><lg><l pos="Pron">ма</l><stg><st>ма</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый</t></tg><xg><x>Ма луиз?</x><xt xml:lang="kpv">Мый лоис?</xt></xg><xg><x>Ма вылез?</x><xt xml:lang="kpv">Мый выльыс?</xt></xg></mg></e>
+<e><lg><l pos="Pron">мар-а</l><stg><st>мар-а</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый ли</t><t pos="Pron">сiйӧ ли мый ли</t></tg></mg></e>
+<e><lg><l pos="Pron">маке</l><stg><st>маке</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Pron">мый</t><t pos="Pron">мыйкӧ</t></tg><xg><x>маке понна</x><xt xml:lang="kpv">мыйкӧ понда</xt></xg></mg></e>
 </r>

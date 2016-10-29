@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmkpv" xml:lang="udm">
+ <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov, Giellatekno at UiT, Divvun at the
+ Norwegian Saami Parliament,
+ and members of the language communities. Source code
+ available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>
+ THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+ published dictionary. As such it can and
+ will contain unfinished entries, unpublished entries, entries with
+ objectionable translations, etc. If you find any errors or want to add more
+ words, download the file, edit it, and send it back to
+ <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+ Please also note that the entries are not necessarily sorted,
+ or could be wrongly sorted.
+
+     </sourcenote></lics>
+
+<e><lg><l pos="Det">кыкетӥ</l><stg><st>кыкетӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">мӧд</t><t pos="Det">кыкӧд</t></tg><xg><x>сю кыкетӥ</x><xt xml:lang="kpv">сё кыкӧд</xt></xg><xg><x>кыкетӥ улон</x><xt xml:lang="kpv">мӧд пӧв олӧм</xt></xg><xg><x>Тунне кыкетӥ южтолэзь</x><xt xml:lang="kpv">Талун рака тӧлысь кыкӧд лун</xt></xg></mg></e>
+<e><lg><l pos="Det">мукет</l><stg><st>мукет</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">мукӧд, мӧд сикас</t></tg><xg><x>но озьы мукет, но и мукет</x><xt xml:lang="kpv">да сiдз водзӧ</xt></xg></mg></e>
+<e><lg><l pos="Det">нырысетӥ</l><stg><st>нырысетӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">медводдза</t><t pos="Det">первой</t></tg></mg></e>
+<e><lg><l pos="Det">вань</l><stg><st>вань</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">I став</t><t pos="Det">ставыс</t></tg><xg><x>вань сюлмысь</x><xt xml:lang="kpv">став сьӧлӧмсянь</xt></xg><xg><x>Вань ужъёс мыно капчи</x><xt xml:lang="kpv">Став уджыс мунӧ кокниа</xt></xg></mg></e>
+<e><lg><l pos="Det">куд</l><stg><st>куд</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">код</t><t pos="Det">кутшӧм</t></tg><xg><x>куд ке дыръя</x><xt xml:lang="kpv">коркӧ, корсюрӧ</xt></xg></mg></e>
+<e><lg><l pos="Det">сокем</l><stg><st>сокем</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">сэтшӧм</t></tg></mg><mg><tg xml:lang="kpv"><t pos="Det">сэтшӧма</t></tg></mg></e>
+<e><lg><l pos="Det">сыӵе</l><stg><st>сыӵе</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">сэтшӧм</t></tg><xg><x>Сыӵе муртэн кыдёке уд мыны</x><xt xml:lang="kpv">Сэтшӧм морткӧд ылӧ он мун</xt></xg></mg></e>
+<e><lg><l pos="Det">сыӵе-таӵе</l><stg><st>сыӵе-таӵе</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">сэтшӧм-татшӧм</t></tg></mg></e>
+<e><lg><l pos="Det">таӵе</l><stg><st>таӵе</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">татшӧм</t></tg><xg><x>таӵе ик</x><xt xml:lang="kpv">татшӧм жӧ</xt></xg></mg></e>
+<e><lg><l pos="Det">тямысэтӥ</l><stg><st>тямысэтӥ</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">кӧкъямысӧд</t></tg></mg></e>
+<e><lg><l pos="Det">уно</l><stg><st>уно</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">уна</t></tg><xg><x>уно арбери</x><xt xml:lang="kpv">уна кӧлуй, унатор</xt></xg><xg><x>> чебер кырӟанъёс</x><xt xml:lang="kpv">уна мича сьыланкыв</xt></xg></mg></e>
+<e><lg><l pos="Det">трос</l><stg><st>трос</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Det">уна</t></tg><xg><x>трос пумо</x><xt xml:lang="kpv">уна сикас, уна пӧлӧс</xt></xg><xg><x>трос лыд</x><xt xml:lang="kpv">уна лыд</xt></xg></mg></e>
+
+</r>

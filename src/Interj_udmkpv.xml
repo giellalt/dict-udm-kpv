@@ -88,4 +88,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </xg>
    </mg>
 </e>
+<e><lg><l pos="Interj">ойдоле</l><stg><st>ойдоле</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">вай</t><t pos="Interj">вайӧй</t></tg><xg><x>Ойдо мыном</x><xt xml:lang="kpv">Вай мунам</xt></xg><xg><x>Ойдолэ кырӟалом</x><xt xml:lang="kpv">Вайӧй сьылам</xt></xg></mg></e>
+<e><lg><l pos="Interj">я</l><stg><st>я</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">бур</t><t pos="Interj">шань</t><t pos="Interj">ладнӧ</t></tg><xg><x>Я, пуксе ини!</x><xt xml:lang="kpv">Ладнӧ, пуксьӧй нин!</xt></xg></mg><mg><tg xml:lang="kpv"><t pos="Interj">гашкӧ</t></tg></mg><mg><tg xml:lang="kpv"><t pos="Interj">ноко</t><t pos="Interj">но вай</t></tg></mg></e>
+<e><lg><l pos="Interj">тауна</l><stg><st>тауна</st></stg></lg><mg><tg xml:lang="kpv"><t pos="Interj">аттьӧ тiянлы</t><t pos="Interj">немысь</t><t pos="Interj">бур вылӧ</t></tg><xg><x>— Бадӟым тау! — Тауна — Ыджыд аттьӧ!</x><xt xml:lang="kpv">— Бур вылӧ, немысь!</xt></xg></mg></e>
 </r>

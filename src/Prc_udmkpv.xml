@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmkpv" xml:lang="udm">
+ <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov, Giellatekno at UiT, Divvun at the
+ Norwegian Saami Parliament,
+ and members of the language communities. Source code
+ available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>
+ THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+ published dictionary. As such it can and
+ will contain unfinished entries, unpublished entries, entries with
+ objectionable translations, etc. If you find any errors or want to add more
+ words, download the file, edit it, and send it back to
+ <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+ Please also note that the entries are not necessarily sorted,
+ or could be wrongly sorted.
+
+     </sourcenote></lics>
+
+<e><lg><l>кылем</l><stg><st>кылем</st></stg></lg><mg><tg xml:lang="kpv"><t>кольӧм</t></tg><xg><x>кылем уй</x><xt xml:lang="kpv">кольӧм вой</xt></xg><xg><x>кылем арын</x><xt xml:lang="kpv">колян воӧ</xt></xg></mg></e>
+<e><lg><l>вордскем</l><stg><st>вордскем</st></stg></lg><mg><tg xml:lang="kpv"><t>чужан</t></tg><xg><x>«Вордскем кыл» журнал</x><xt xml:lang="kpv">«Чужан кыв» журнал</xt></xg></mg></e>
+<e><lg><l>жалем</l><stg><st>жалем</st></stg></lg><mg><tg xml:lang="kpv"><t>сӧкъя, улис</t></tg><xg><x>жалем сяртчы</x><xt xml:lang="kpv">улис сёркни</xt></xg></mg></e>
+<e><lg><l>мӧзмем</l><stg><st>мӧзмем</st></stg></lg><mg><tg xml:lang="kpv"><t>мудзӧм</t></tg><xg><x>мӧзмем сюлэм</x><xt xml:lang="kpv">мудзӧм сьӧлӧм </xt></xg></mg></e>
+<e><lg><l>ортчем</l><stg><st>ортчем</st></stg></lg><mg><tg xml:lang="kpv"><t>кольӧм, вӧвлӧм, _i_кывтуял¡_/i_ </t></tg><xg><x>ортчем дыр</x><xt xml:lang="kpv">колян кад (кадакывлӧн)</xt></xg></mg></e>
+<e><lg><l>пельскем</l><stg><st>пельскем</st></stg></lg><mg><tg xml:lang="kpv"><t>турӧб</t></tg></mg></e>
+<e><lg><l>пукем</l><stg><st>пукем</st></stg></lg><mg><tg xml:lang="kpv"><t>II пукалӧм</t></tg><xg><x>пукем адями/мурт</x><xt xml:lang="kpv">дзескыдiнын пукалӧм морт</xt></xg></mg></e>
+<e><lg><l>сием</l><stg><st>сием</st></stg></lg><mg><tg xml:lang="kpv"><t>сёйӧм</t></tg></mg></e>
+<e><lg><l>чагиськем</l><stg><st>чагиськем</st></stg></lg><mg><tg xml:lang="kpv"><t>норасьӧм, элясьӧм</t></tg></mg></e>
+<e><lg><l>кулэм</l><stg><st>кулэм</st></stg></lg><mg><tg xml:lang="kpv"><t>кулӧм, кувсьӧм</t></tg><xg><x>кулэм адями</x><xt xml:lang="kpv">кувсьӧм морт</xt></xg></mg></e>
+<e><lg><l>куэм</l><stg><st>куэм</st></stg></lg><mg><tg xml:lang="kpv"><t>кыӧм</t></tg><xg><x>куэм пӧзь</x><xt xml:lang="kpv">кыӧм кепысь</xt></xg></mg></e>
+<e><lg><l>пыжэм</l><stg><st>пыжэм</st></stg></lg><mg><tg xml:lang="kpv"><t>пӧжалӧм, жаритӧм</t></tg><xg><x>пыжэм картофка</x><xt xml:lang="kpv">пӧжалӧм картупель</xt></xg></mg></e>
+
+</r>
