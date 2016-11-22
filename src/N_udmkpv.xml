@@ -209,7 +209,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">гур</l><pos>N</pos>
+     <l pos="N">гур</l>
      <l pos="N">гур</l>
      <stg>
        <st>гур</st>
@@ -1327,7 +1327,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">йӧлвыл</l><pos>N</pos>
+     <l pos="N">йӧлвыл</l>
      <l pos="N">йӧлвыл</l>
      <stg>
        <st>йӧлвыл</st>
@@ -2051,7 +2051,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">киль</l><pos>N</pos>
+     <l pos="N">киль</l>
      <l pos="N">киль</l>
      <stg>
        <st>киль</st>
@@ -5444,7 +5444,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">мӧля</l><pos>N</pos>
+     <l pos="N">мӧля</l>
      <l pos="N">мӧля</l>
      <stg>
        <st>мӧля</st>
@@ -7291,7 +7291,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">пыдсэт</l><pos>N</pos>
+     <l pos="N">пыдсэт</l>
      <l pos="N">пыдсэт</l>
      <stg>
        <st>пыдсэт</st>
@@ -7455,7 +7455,7 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">пӧлы</l><pos>N</pos>
+     <l pos="N">пӧлы</l>
      <l pos="N">пӧлы</l>
      <stg>
        <st>пӧлы</st>
@@ -11176,7 +11176,6 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 </e>
 <e>
    <lg>
-     <l pos="N">шуон</l><pos>N</pos>
      <l pos="N">шуон</l>
      <stg>
        <st>шуон</st>
