@@ -11,3 +11,7 @@ Original materials are based directly on the book
 Коми туялан шöрин
 Кыв, литература да история институт.
  — Сыктывкар.
+
+Xml structure, alignment and editing
+Jack Rueter
+2017
