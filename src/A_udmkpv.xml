@@ -228,6 +228,28 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
      </tg>
    </mg>
 </e>
+  <e>
+   <lg>
+     <l pos="A">вож</l>
+     <stg>
+       <st>вож</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="A">турунвиж</t>
+       <t pos="A">веж</t>
+     </tg>
+     <xg><x>вож сугон</x>
+       <xt xml:lang="kpv">веж лук</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="kpv">
+       <t pos="A">кисьмытӧм</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="A">вожалэс</l>
