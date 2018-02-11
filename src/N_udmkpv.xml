@@ -21295,7 +21295,35 @@ For the full license text, see the link above.</lic><ref>Work by Evgeni Tsypanov
 <e><lg><l pos="N">сёр</l><stg><st>сёр</st></stg></lg><mg><tg xml:lang="kpv"><t>тулан</t></tg><xg><x>сёр ку</x><xt xml:lang="kpv">тулан ку</xt></xg></mg></e>
 <e><lg><l pos="N">сяла</l><stg><st>сяла</st></stg></lg><mg><tg xml:lang="kpv"><t>сьӧла</t></tg><xg><x>кыр сяла</x><xt xml:lang="kpv">байдӧг</xt></xg></mg></e>
 <e><lg><l pos="N">сюр</l><stg><st>сюр</st></stg></lg><mg><tg xml:lang="kpv"><t>сюр</t></tg><xg><x>скал сюр</x><xt xml:lang="kpv">мӧс сюр</xt></xg></mg></e>
-<e><lg><l pos="N">сюй</l><stg><st>сюй</st></stg></lg><mg><tg xml:lang="kpv"><t>му</t></tg></mg><mg><tg xml:lang="kpv"><t>сёй</t></tg><xg><x>тӧдьы сюй</x><xt xml:lang="kpv">еджыд сёй</xt></xg><xg><x>сюй из</x><xt xml:lang="kpv">сёйиз</x><xt xml:lang="kpv">кирпич</xt></xg></mg></e>
+
+<e>
+  <lg>
+    <l pos="N">сюй</l>
+    <stg>
+      <st>сюй</st>
+    </stg>
+  </lg>
+  <mg>
+    <tg xml:lang="kpv">
+      <t>му</t>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="kpv">
+      <t>сёй</t>
+    </tg>
+    <xg>
+      <x>тӧдьы сюй</x>
+      <xt xml:lang="kpv">еджыд сёй</xt>
+    </xg>
+    <xg>
+      <x>сюй из</x>
+      <xt xml:lang="kpv">сёйиз</xt>
+      <xt xml:lang="kpv">кирпич</xt>
+    </xg>
+  </mg>
+</e>
+
 <e><lg><l pos="N">сур</l><stg><st>сур</st></stg></lg><mg><tg xml:lang="kpv"><t>сур</t></tg><xg><x>сур юыны</x><xt xml:lang="kpv">сур юны</xt></xg></mg></e>
 <e><lg><l pos="N">сузям</l><stg><st>сузям</st></stg></lg><mg><tg xml:lang="kpv"><t>кодзӧм</t></tg><xg><x>сузям така</x><xt xml:lang="kpv">кодзӧм меж</xt></xg></mg></e>
 <e><lg><l pos="N">сугон</l><stg><st>сугон</st></stg></lg><mg><tg xml:lang="kpv"><t>лук</t><t>сугӧн</t></tg></mg></e>
